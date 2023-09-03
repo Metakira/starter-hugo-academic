@@ -39,19 +39,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Creative technologist
+        - title: Creative technologist Intern
           company: Mantis Shrimp Creative
           company_url: ''
           company_logo: org-gc
-          location: California
+          location: Bangalore
           date_start: '2021-01-01'
           date_end: ''
           description: |2- 
               * Conceptualization and prototyping of RFID based Installation with Raspbery Pi
               * Data channeling and instrumentation of Kuka Robot
-              * Conceptualization and prototyping installations using laser detection
+              * Conceptualization and prototyping installation for Pepsico using optic sensors
               * Creating motion graphics clips for VJ sets
-              * Consultation and prototyping of Neural network kiosk for targeted advertising and mass deployment    
+              * Consultation and prototyping of Neural network kiosk for targeted advertising and mass deployment
+        - title: Assistant Researcher
+          company: Indian Sonic Research Organization
+          company_url: ''
+          company_logo: org-gc
+          location: Bangalore
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2- 
+              * 3D printing and prototyping of OpenBCI Ganglion 4channel headset for musical applications and therapy with assitance
+              * Setting up of ecological soundstream with Grant smith from SoundTent
+              * Accompanying and coordinating with Artists in Residence for their practice
+              * Prototyping my interactions with EMG sensors (MYOWARE)
+              * Creating motion graphics clips for VJ sets
+              * Coordinated the final design and devlopment of the IMMSANE website for Yati Durant and Andre Bellmonte   
     design:
       columns: '2'
   - block: collection
