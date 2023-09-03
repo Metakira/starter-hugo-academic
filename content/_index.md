@@ -46,10 +46,12 @@ sections:
           location: California
           date_start: '2021-01-01'
           date_end: ''
-          description: |2-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: |2- 
+              * Conceptualization and prototyping of RFID based Installation with Raspbery Pi
+              * Data channeling and instrumentation of Kuka Robot
+              * Conceptualization and prototyping installations using laser detection
+              * Creating motion graphics clips for VJ sets
+              * Consultation and prototyping of Neural network kiosk for targeted advertising and mass deployment    
     design:
       columns: '2'
   - block: collection
