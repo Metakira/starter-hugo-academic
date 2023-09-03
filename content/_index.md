@@ -11,22 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -63,9 +47,20 @@ sections:
               * 3D printing and prototyping of OpenBCI Ganglion 4channel headset for musical applications and therapy with assitance
               * Setting up of ecological soundstream with Grant smith from SoundTent
               * Accompanying and coordinating with Artists in Residence for their practice
-              * Prototyping my interactions with EMG sensors (MYOWARE)
+              * Prototyping biofeedback based interactions with EMG sensors (MYOWARE)
               * Creating motion graphics clips for VJ sets
-              * Coordinated the final design and devlopment of the IMMSANE website for Yati Durant and Andre Bellmonte   
+              * Coordinated the final design and devlopment of the IMMSANE website for Yati Durant and Andre Bellmonte
+        - title: Spatial Experience designer (VOlUNTEER)
+          company: The Reading Room, Under ZKM and Befantastic
+          company_url: ''
+          company_logo: org-gc
+          location: Bangalore
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2- 
+              * Conceptualized the interaction framework of a public story-access platform for a postpandemic population
+              * Devised new spatial interaction frameworks based on the Derive, Wayfinding and Paradigmatic/syntagmatic narratives      
+   
     design:
       columns: '2'
   - block: collection
