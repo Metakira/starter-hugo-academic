@@ -50,7 +50,7 @@ sections:
               * Prototyping biofeedback based interactions with EMG sensors (MYOWARE)
               * Creating motion graphics clips for VJ sets
               * Coordinated the final design and devlopment of the IMMSANE website for Yati Durant and Andre Bellmonte
-        - title: Spatial Experience designer (VOlUNTEER)
+        - title: Spatial Experience designer (VOLUNTEER)
           company: The Reading Room, Under ZKM and Befantastic
           company_url: ''
           company_logo: org-gc
