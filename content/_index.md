@@ -120,7 +120,9 @@ sections:
         - name: 3D
           tag: 3d
         - name: Electronics
-          tag: electronics   
+          tag: electronics
+        - name: Spatial
+          tag: spatial
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
