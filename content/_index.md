@@ -107,10 +107,20 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: ML
+          tag: ML
         - name: Music
           tag: music
+        - name: Immersive
+          tag: immserive
+        - name: Biofeedback
+          tag: biofeedback
+        - name: Art
+          tag: art
+        - name: 3D
+          tag: 3d
+        - name: Electronics
+          tag: electronics   
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
