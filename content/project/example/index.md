@@ -1,5 +1,4 @@
 ---
-slides: example
 url_pdf: ""
 summary: A track I made using the expr~ component in PD, and an explanation.
 url_video: ""
