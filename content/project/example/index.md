@@ -3,7 +3,7 @@ slides: example
 url_pdf: ""
 summary: A track I made using the expr~ component in PD, and an explanation.
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
 title: Bytebeat music in Puredata!
@@ -19,7 +19,7 @@ links:
 image:
   caption: ""
   focal_point: Smart
-  filename: https://upload.wikimedia.org/wikipedia/commons/f/fc/JKP_-_Bytebeat_-_151.png
+  filename: featured.png
 url_code: ""
 ---
 Byte beats are basically "happy accidents" and can be considered the lowest form of generative music. The basic Idea of a bytebeat is that you apply mathematical functions onto signal waveforms, and that will somehow generate music. 
