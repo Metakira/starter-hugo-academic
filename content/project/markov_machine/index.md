@@ -4,6 +4,14 @@ subtitle: A Drum machine that uses markov chains
 date: 2023-09-06T15:25:57.971Z
 draft: false
 featured: false
+tags:
+  - music
+categories:
+  - personal
+links:
+  - icon_pack: fas
+    icon: github
+    url: https://github.com/georgevpp-code/Markov-chain-Drum-machine
 image:
   filename: featured.jpg
   focal_point: Smart
