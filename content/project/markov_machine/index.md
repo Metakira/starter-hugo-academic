@@ -9,8 +9,9 @@ tags:
 categories:
   - personal
 links:
-  - icon_pack: null
+  - icon_pack: fab
     icon: github
+    name: Code
     url: https://github.com/georgevpp-code/Markov-chain-Drum-machine
 image:
   filename: featured.jpg
