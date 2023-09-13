@@ -1,5 +1,5 @@
 ---
-title: Artscience, Dreams and the Hyperspace era
+title: "Artscience, Dreams and Hyperspace "
 date: 2023-09-13T05:12:50.291Z
 summary: Some thoughts I've penned down.
 draft: false
