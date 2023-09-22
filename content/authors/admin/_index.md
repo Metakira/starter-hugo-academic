@@ -33,7 +33,6 @@ education:
     - course: Bdes, Industrial design
       institution: Srishti Bangalore
       year: 2024
-      
 superuser: true
 status:
   icon: ☕️
@@ -50,4 +49,4 @@ My core values as a person are sharing knowledge between experts and non-experts
 
 In the fields of sound and music, I try my best to have test, explore and have fun with ideas I find fascinating. Currently, I am interested in procedural Xenharmonics (particularly the work of Erv Wilson), livecoding and algorithmic composition, the Indian raga system, ambisonics/spatial music, Hyper-glitchy sounds as well as interesting and experimental modes of making electronic music. 
 
-Please do not hesitate and feel free to contact me via email for help with any questions regarding my field, papers or anything tbh and I will try my best to help you as much as I can.
+My portfolio is currently under construction and is soon to be fully updated, but expect to see cool stuff soon!
