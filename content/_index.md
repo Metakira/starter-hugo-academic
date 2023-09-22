@@ -183,7 +183,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        I try my best to be available at all times but hope.
+        Please reach out for any queries, concerns, projects, papers etc.
       # Contact (add or remove contact options as necessary)
       email: georgepanicker2000@gmail.com
       contact_links:
