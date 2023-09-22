@@ -25,12 +25,7 @@ social:
     - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-  - icon: eye
-    icon_pack: fab
-    link: https://modesofdesign.wixsite.com/explained
-    label: Check out my Serial experiments Lain blog!
-    display:
-      header: true
+
 organizations:
   - name: Srishti
     url: https://srishtimanipalinstitute.in/
