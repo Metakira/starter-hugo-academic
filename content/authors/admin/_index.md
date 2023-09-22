@@ -13,7 +13,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: mastodon
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
     label: Follow me on Twitter
