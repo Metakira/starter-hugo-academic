@@ -25,8 +25,8 @@ sections:
       items:
         - title: Creative technologist Intern
           company: Mantis Shrimp Creative
-          company_url: ''
-          company_logo: org-gc
+          company_url: 'https://www.linkedin.com/company/mantis-shrimp-creative/'
+          company_logo: mantis
           location: Bangalore
           date_start: '2021-01-01'
           date_end: ''
@@ -38,8 +38,8 @@ sections:
               * Consultation and prototyping of Neural network kiosk for targeted advertising and mass deployment
         - title: Assistant Researcher
           company: Indian Sonic Research Organization
-          company_url: ''
-          company_logo: org-gc
+          company_url: 'https://www.theisro.org/'
+          company_logo: ISRO
           location: Bangalore
           date_start: '2021-01-01'
           date_end: ''
@@ -52,8 +52,8 @@ sections:
               * Coordinated the final design and devlopment of the IMMSANE website for Yati Durant and Andre Bellmonte
         - title: Spatial Experience designer (VOLUNTEER)
           company: The Reading Room, Under ZKM and Befantastic
-          company_url: ''
-          company_logo: org-gc
+          company_url: 'https://www.linkedin.com/company/thereadingroom/'
+          company_logo: reading_room
           location: Bangalore
           date_start: '2021-01-01'
           date_end: ''
