@@ -22,7 +22,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/georgevpp-code
-    - icon: cv
+  - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 
