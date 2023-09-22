@@ -19,6 +19,12 @@ social:
     label: Follow me on Mastodon!
     display:
       header: true
+  - icon: eye
+    icon_pack: fab
+    link: https://modesofdesign.wixsite.com/explained
+    label: My Lain blog!
+    display:
+      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/georgevpp-code
