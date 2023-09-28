@@ -13,6 +13,9 @@ social:
   - icon: music
     icon_pack: fas
     link: https://v.basspistol.org/a/machineblade/video-channels
+  - icon: book
+    icon_pack: fas
+    link: https://bookwyrm.social/user/georgepanicker
   - icon: mastodon
     icon_pack: fab
     link: https://mastodon.social/@georgepanicker
