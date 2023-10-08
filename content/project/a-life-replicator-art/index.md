@@ -11,7 +11,7 @@ links:
   - url: https://www.youtube.com/watch?v=ILltJ-pZa2c
     name: Watch
     icon: youtube
-    icon_pack: ai
+    icon_pack: fab
 image:
   filename: featured.png
   focal_point: Smart
