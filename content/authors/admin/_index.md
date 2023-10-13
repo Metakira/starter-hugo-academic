@@ -13,6 +13,9 @@ social:
   - icon: music
     icon_pack: fas
     link: https://v.basspistol.org/a/machineblade/video-channels
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://orcid.org/0009-0002-1038-0329
   - icon: book
     icon_pack: fas
     link: https://bookwyrm.social/user/georgepanicker
