@@ -44,12 +44,11 @@ sections:
           date_start: '2021-01-01'
           date_end: ''
           description: |2- 
-              * 3D printing and prototyping of OpenBCI Ganglion 4channel headset for musical applications and therapy with assitance
+              * 3D printing and prototyping of OpenBCI Ganglion 4channel headset for musical applications and therapy with assistance
               * Setting up of ecological soundstream with Grant smith from SoundTent
               * Accompanying and coordinating with Artists in Residence for their practice
               * Prototyping biofeedback based interactions with EMG sensors (MYOWARE)
-              * Creating motion graphics clips for VJ sets
-              * Coordinated the final design and devlopment of the IMMSANE website for Yati Durant and Andre Bellmonte
+              * Coordinated the final design and development of the IMMSANE website for Yati Durant and Andre Bellmonte
         - title: Spatial Experience designer (VOLUNTEER)
           company: The Reading Room, Under ZKM and Befantastic
           company_url: 'https://www.linkedin.com/company/thereadingroom/'
