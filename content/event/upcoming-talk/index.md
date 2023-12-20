@@ -13,6 +13,8 @@ event_url: https://audio.dev/adcx-india-24/
 publishDate: 2023-12-20T16:55:53.588Z
 draft: false
 featured: false
+tags:
+  - talks
 image:
   filename: featured.jpg
   focal_point: Smart
