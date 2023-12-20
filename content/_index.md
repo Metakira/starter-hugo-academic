@@ -23,15 +23,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Haptic Design Technologist
-          company: Compossible 
-          company_url: 'https://www.umwelten.xyz/dwelling/'
-          company_logo: compossible
-          location: Bangalore
-          date_start: '2023-06-07'
-          date_end: '2023-08-07'
-          description: |2- 
-              * Working on confidential neurohaptic interfaces
 
         - title: Creative technologist Intern
           company: Mantis Shrimp Creative
