@@ -23,45 +23,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Creative technologist Intern
-          company: Mantis Shrimp Creative
-          company_url: 'https://www.linkedin.com/company/mantis-shrimp-creative/'
-          company_logo: mantis
-          location: Bangalore
-          date_start: '2023-06-07'
-          date_end: '2023-08-07'
-          description: |2- 
-              * Conceptualization and prototyping of RFID based Installation with Raspbery Pi
-              * Data channeling and instrumentation of Kuka Robot
-              * Conceptualization and prototyping installation for Pepsico using optic sensors
-              * Creating motion graphics clips for VJ sets
-              * Consultation and prototyping of Neural network kiosk for targeted advertising and mass deployment
-        - title: Assistant Researcher
-          company: Indian Sonic Research Organization
-          company_url: 'https://www.theisro.org/'
-          company_logo: ISRO
-          location: Bangalore
-          date_start: '2022-09-01'
-          date_end: '2023-06-07'
-          description: |2- 
-              * 3D printing and prototyping of OpenBCI Ganglion 4channel headset for musical applications and therapy with assistance
-              * Setting up of ecological soundstream with Grant smith from SoundTent
-              * Accompanying and coordinating with Artists in Residence for their practice
-              * Prototyping biofeedback based interactions with EMG sensors (MYOWARE)
-              * Coordinated the final design and development of the IMMSANE website for Yati Durant and Andre Bellmonte
-        - title: Spatial Experience designer (VOLUNTEER)
-          company: The Reading Room, Under ZKM and Befantastic
-          company_url: 'https://www.linkedin.com/company/thereadingroom/'
-          company_logo: reading_room
-          location: Bangalore
-          date_start: '2021-10-01'
-          date_end: '2022-9-01'
-          description: |2- 
-              * Conceptualized the interaction framework of a public story-access platform for a postpandemic population
-              * Devised new spatial interaction frameworks based on the Derive, Wayfinding and Paradigmatic/syntagmatic narratives      
-   
-    design:
-      columns: '2'
+
   - block: collection
     id: posts
     content:
