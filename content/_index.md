@@ -23,13 +23,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Haptic Design Technologist
+          company: Compossible 
+          company_url: 'https://www.umwelten.xyz/dwelling/'
+          company_logo: compossible
+          location: Bangalore
+          date_start: '2023-06-07'
+          date_end: '2023-08-07'
+          description: |2- 
+              * Working on confidential neurohaptic interfaces
+
         - title: Creative technologist Intern
           company: Mantis Shrimp Creative
           company_url: 'https://www.linkedin.com/company/mantis-shrimp-creative/'
           company_logo: mantis
           location: Bangalore
-          date_start: '2021-01-01'
-          date_end: ''
+          date_start: '2023-06-07'
+          date_end: '2023-08-07'
           description: |2- 
               * Conceptualization and prototyping of RFID based Installation with Raspbery Pi
               * Data channeling and instrumentation of Kuka Robot
@@ -41,8 +51,8 @@ sections:
           company_url: 'https://www.theisro.org/'
           company_logo: ISRO
           location: Bangalore
-          date_start: '2021-01-01'
-          date_end: ''
+          date_start: '2022-09-01'
+          date_end: '2023-06-07'
           description: |2- 
               * 3D printing and prototyping of OpenBCI Ganglion 4channel headset for musical applications and therapy with assistance
               * Setting up of ecological soundstream with Grant smith from SoundTent
@@ -54,8 +64,8 @@ sections:
           company_url: 'https://www.linkedin.com/company/thereadingroom/'
           company_logo: reading_room
           location: Bangalore
-          date_start: '2021-01-01'
-          date_end: ''
+          date_start: '2021-10-01'
+          date_end: '2022-9-01'
           description: |2- 
               * Conceptualized the interaction framework of a public story-access platform for a postpandemic population
               * Devised new spatial interaction frameworks based on the Derive, Wayfinding and Paradigmatic/syntagmatic narratives      
