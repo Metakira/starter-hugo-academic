@@ -23,7 +23,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-
         - title: Creative technologist Intern
           company: Mantis Shrimp Creative
           company_url: 'https://www.linkedin.com/company/mantis-shrimp-creative/'
