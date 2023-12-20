@@ -1,9 +1,6 @@
 ---
 title: Upcoming Talk
-abstract: I'm doing an upcoming talk on the Indian roots of Generative Music on
-  the 7th of January 2023. I'll be covering some interesting connections between
-  Indian art theory and generative music, with some interesting potential for
-  Indigenous instrumentation and music technology.
+abstract: Talk on Indian art and generative music theory
 location: Bangalore International Center
 date: 2024-01-07T16:55:53.576Z
 date_end: 2024-01-07T17:14:11.894Z
