@@ -1,6 +1,6 @@
 ---
 bio: I am a New Media artist, Creative technologist and Computational designer.
-  My interests span the domains of art, science, design, technology, msic and
+  My interests span the domains of art, science, design, technology, music and
   philosophy.
 interests:
   - New Media
@@ -37,7 +37,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-
 organizations:
   - name: Srishti
     url: https://srishtimanipalinstitute.in/
