@@ -105,9 +105,9 @@ sections:
           url: 'https://www.udemy.com/course/ue5-procedural-vfx-motion-graphics/'
         - certificate_url: 'https://drive.google.com/file/d/1eQCS27J3YaqwDIYT6gkbxYt01D7tHVvK/view?usp=sharing'
           date_end: ''
-          date_start: '2022-11-1'
+          date_start: '2022-11-01'
           description: ''
-          icon: EY
+          icon: 
           organization: EY
           organization_url: 'https://www.ey.com/en_in'
           title: National semifinalist, EY techathon's "Enter the metaverse" challenge
