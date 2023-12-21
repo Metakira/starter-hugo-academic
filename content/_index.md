@@ -94,15 +94,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 'https://www.udemy.com/certificate/UC-15575581-ba43-4f77-bc99-72c27f976910/'
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          icon: coursera
-          organization: Coursera
+          icon: udemy
+          organization: Udemy
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
+          title: Generative Motion Graphics/vfx
+          url: 'https://www.udemy.com/course/ue5-procedural-vfx-motion-graphics/'
     design:
       columns: '2'
   - block: collection
