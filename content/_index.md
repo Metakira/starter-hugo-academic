@@ -100,7 +100,7 @@ sections:
           description: ''
           icon: udemy
           organization: Udemy
-          organization_url: https://www.coursera.org
+          organization_url: 'https://www.udemy.com/'
           title: Generative Motion Graphics/vfx
           url: 'https://www.udemy.com/course/ue5-procedural-vfx-motion-graphics/'
     design:
