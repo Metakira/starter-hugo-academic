@@ -101,8 +101,17 @@ sections:
           icon: udemy
           organization: Udemy
           organization_url: 'https://www.udemy.com/'
-          title: Generative Motion Graphics/vfx
+          title: Generative Motion Graphics/vfx in UE-5
           url: 'https://www.udemy.com/course/ue5-procedural-vfx-motion-graphics/'
+        - certificate_url: 'https://drive.google.com/file/d/1eQCS27J3YaqwDIYT6gkbxYt01D7tHVvK/view?usp=sharing'
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          icon: EY
+          organization: EY
+          organization_url: 'https://www.ey.com/en_in'
+          title: National semifinalist, EY techathon's "Enter the metaverse" challenge
+          url: 'https://www.ey.com/en_in/techathon-3/challenge-1-build-a-digital-twin'
     design:
       columns: '2'
   - block: collection
