@@ -1,5 +1,5 @@
 ---
-title: Upcoming Talk
+title: AudioDev con 2024, Jan 7, 2023 at the Bangalore International Centre
 abstract: Talk on Indian art and generative music theory
 location: Bangalore International Center
 date: 2024-01-07T16:55:53.576Z
