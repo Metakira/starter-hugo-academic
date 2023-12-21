@@ -50,19 +50,20 @@ sections:
               * Data channeling and instrumentation of Kuka Robot
               * Creating motion graphics clips for VJ sets
     
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Assistant Researcher
+          company: Indian Sonic Research Organization
+          company_url: 'https://www.theisro.org/'
+          company_logo: ISRO
+          location: Bangalore
+          date_start: '2022-09-01'
+          date_end: '2023-06-07'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * 3d printing and prototyping of OpenBCI Ganglion 4 channel headset for musical applications and therapy with assistance
+              * Setting up of ecological soundstream with Hannah Kemp from [CriSap](https://crisap.org/), UAL and Grant smith from [SoundTent](https://soundtent.org/soundcamp_about.html)
+              * Prototyping biofeedback based interactions with EMG sensors (MYOWARE)
+              * Coordinated the final design and development of the [IMMSANE website](https://www.immsane.com/) for Yati Durant and Andre Bellmone from the Zurich University of the arts
 #        - title: 
 #         company: 
 #         company_url: ''
