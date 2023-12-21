@@ -36,6 +36,20 @@ sections:
 
               * Building confidential neurohaptic interfaces
 
+        - title: Creative Technologist Intern
+          company: Mantis Shrimp Creative
+          company_url: 'https://www.linkedin.com/company/mantis-shrimp-creative/'
+          company_logo: mantis
+          location: Bangalore
+          date_start: '2023-06-07'
+          date_end: '2023-08-07'
+          description: |2-
+              Responsibilities include:
+
+              * Conceptualization and prototyping of RFID based Installation with Raspberry Pi
+              * Data channeling and instrumentation of Kuka Robot
+              * Creating motion graphics clips for VJ sets
+    
         - title: CEO
           company: GenCoin
           company_url: ''
@@ -49,19 +63,21 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-#        - title: CEO
-#         company: GenCoin
+#        - title: 
+#         company: 
 #         company_url: ''
-#         company_logo: org-gc
-#         location: California
-#         date_start: '2021-01-01'
+#         company_logo: 
+#         location: 
+#         date_start: ''
 #         date_end: ''
 #         description: |2-
 #             Responsibilities include:
 
-#             * Analysing
-#             * Modelling
-#             * Deploying
+#             * 
+#             * 
+#             *
+#             * 
+#             * 
     design:
       columns: '2'
   - block: collection
