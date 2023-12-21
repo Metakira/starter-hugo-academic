@@ -23,11 +23,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
+        - title: Haptic design Technologist
+          company: Compossible Umwelten
+          company_url: 'https://www.umwelten.xyz/dwelling/'
+          company_logo: compossible
+          location: remote
+          date_start: '2023-12-9'
+          date_end: ''
+          description: |2-
+              * Working on confidential neurohaptic interfaces
+        - title: Creative Technologist Intern
+          company: Mantis shrimp Creative
+          company_url: 'https://www.linkedin.com/company/mantis-shrimp-creative/'
+          company_logo: mantis
+          location: Bangalore
+          date_start: '2022-09-01'
+          date_end: '2023-09-01'
+          description: |2-
+              * Conceptualization and prototyping of RFID based Installation with Raspbery Pi
+              * Data channeling and instrumentation of Kuka Robot
+              * Conceptualization and prototyping installation for Pepsico using optic sensors
+              * Creating motion graphics clips for VJ sets
+              * Consultation and prototyping of neural network kiosk for targeted mass advertising
+        - title: Assistant researcher
+          company: Indian Sonic Research Organisation
+          company_url: 'https://www.theisro.org/'
+          company_logo: ISRO
+          location: Bangalore
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
@@ -62,32 +84,19 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
+#        - title: CEO
+#         company: GenCoin
+#         company_url: ''
+#         company_logo: org-gc
+#         location: California
+#         date_start: '2021-01-01'
+#         date_end: ''
+#         description: |2-
+#             Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+#             * Analysing
+#             * Modelling
+#             * Deploying
     design:
       columns: '2'
   - block: collection
