@@ -24,19 +24,18 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Haptic Design Technologist
+          company: Compossible Umwelten
+          company_url: 'https://www.umwelten.xyz/dwelling/'
+          company_logo: compossible
+          location: Remote
+          date_start: '2023-12-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Building confidential neurohaptic interfaces
+
         - title: CEO
           company: GenCoin
           company_url: ''
