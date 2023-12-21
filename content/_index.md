@@ -96,7 +96,7 @@ sections:
       items:
         - certificate_url: 'https://www.udemy.com/certificate/UC-15575581-ba43-4f77-bc99-72c27f976910/'
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-11-19'
           description: ''
           icon: udemy
           organization: Udemy
@@ -105,7 +105,7 @@ sections:
           url: 'https://www.udemy.com/course/ue5-procedural-vfx-motion-graphics/'
         - certificate_url: 'https://drive.google.com/file/d/1eQCS27J3YaqwDIYT6gkbxYt01D7tHVvK/view?usp=sharing'
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-11-1'
           description: ''
           icon: EY
           organization: EY
