@@ -23,6 +23,6 @@ image:
   preview_only: false
   caption: Event poster
 ---
-I did a talk on the Indian roots of Generative Music on the 7th of January 2023. I covered some interesting topics pertaining to the past of Indian music and the future of computer music with some 
-analogies to bridge the two seemingly disparate domains, provdiding some interesting trajectories for the future of Indian music. I had a lot of fun delivering this, although it was definitely one of the
-most nerve wracking things I've ever done in my life haha! 
+I did a talk on the Indian roots of Generative Music on the 7th of January 2024 for the first ever edition of ADC in India. I covered some interesting topics pertaining to the past of Indian music and the 
+future of computer music with some analogies to bridge the two seemingly disparate domains, provdiding some interesting trajectories for the future of Indian music. I had a lot of fun delivering this, 
+although it was definitely one of the most nerve wracking things I've ever done in my life.
