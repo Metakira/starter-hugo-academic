@@ -2,13 +2,13 @@
 bio: I am a New Media artist, Creative technologist and Computational designer.
   My interests span the domains of art, science, design, technology, music and
   philosophy.
-interests:
-  - New Media
-  - Deleuze/Guattari
-  - Citizen science
+Areas:
+  - Haptics
+  - Neurotechnology
+  - Sound/music
   - XR
-  - Indian philosophy
-  - Birdwatching
+  - Computational design
+  - New Media theory
 social:
   - icon: music
     icon_pack: fas
