@@ -13,6 +13,7 @@ event_url: https://audio.dev/adcx-india-24/
 publishDate: 2023-12-20T16:55:53.588Z
 draft: false
 featured: false
+url_slides: 'https://docs.google.com/presentation/d/e/2PACX-1vTzMUNYQABCrlJPDiMXacUqf5JMa1ailn1upFAiS2xf657YZor9vBu9lg9Fols9oA/pub?start=false&loop=false&delayms=3000'
 tags:
   - talk
 image:
