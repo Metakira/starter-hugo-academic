@@ -14,7 +14,7 @@ publishDate: 2023-12-20T16:55:53.588Z
 draft: false
 featured: false
 url_slides: 'https://docs.google.com/presentation/d/e/2PACX-1vTzMUNYQABCrlJPDiMXacUqf5JMa1ailn1upFAiS2xf657YZor9vBu9lg9Fols9oA/pub?start=false&loop=false&delayms=3000'
-url_video: 'https://www.youtube.com/watch?v=MisEw20aoUc&t=53m15s'
+url_video: 'https://www.youtube.com/watch?v=MisEw20aoUc&t=54m10s'
 tags:
   - talk
 image:
