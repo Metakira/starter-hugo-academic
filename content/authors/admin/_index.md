@@ -2,7 +2,7 @@
 bio: I am a New Media artist, Creative technologist and Computational designer.
   My interests span the domains of art, science, design, technology, music and
   philosophy.
-Areas:
+areas:
   - Haptics
   - Neurotechnology
   - Sound/music
