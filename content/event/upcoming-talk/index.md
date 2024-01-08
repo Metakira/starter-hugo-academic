@@ -1,5 +1,5 @@
 ---
-title: AudioDev con 2024, Jan 7, 2023 at the Bangalore International Centre
+title: ADCx India, 2024
 abstract: Talk on Indian art and generative music theory
 location: Bangalore International Center
 date: 2024-01-07T16:55:53.576Z
@@ -23,4 +23,6 @@ image:
   preview_only: false
   caption: Event poster
 ---
-I'm doing an upcoming talk on the Indian roots of Generative Music on the 7th of January 2023. I'll be covering some interesting connections between Indian art theory and generative music, with some interesting potential for Indigenous instrumentation and music technology.
+I did a talk on the Indian roots of Generative Music on the 7th of January 2023. I covered some interesting topics pertaining to the past of Indian music and the future of computer music with some 
+analogies to bridge the two seemingly disparate domains, provdiding some interesting trajectories for the future of Indian music. I had a lot of fun delivering this, although it was definitely one of the
+most nerve wracking things I've ever done in my life haha! 
