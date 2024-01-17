@@ -6,10 +6,10 @@ date: 2024-01-07T16:55:53.576Z
 date_end: 2024-01-07T17:14:11.894Z
 all_day: false
 links:
-  - url: https://www.townscript.com/e/adcxindia24
+  - url: https://audio.dev/adcx-india-24/
     name: Conference Website
 event: Audio Dev Con India x24
-event_url: https://audio.dev/adcx-india-24/
+event_url: https://www.townscript.com/e/adcxindia24
 publishDate: 2023-12-20T16:55:53.588Z
 draft: false
 featured: false
