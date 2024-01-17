@@ -25,7 +25,7 @@ sections:
       items:
 
         - title: Research collaborator
-          company: HIVE lab (IIT Kanpur)
+          company: HIVE lab (Department of Design, IIT Kanpur)
           company_url: 'https://home.iitk.ac.in/~gowdhampg/'
           company_logo: HIVE 
           location: Remote
