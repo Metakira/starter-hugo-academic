@@ -48,7 +48,6 @@ sections:
 
               * Attempted to conceptualize a speculative waveform description language for tactile compositions
               * Research into biosignal acquisition formats
-              * Machine listening experiments with EMG data and SuperCollider
     
         - title: Creative Technologist Intern
           company: Mantis Shrimp Creative
