@@ -24,7 +24,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
-         - title: Research collaborator
+        - title: Research collaborator
           company: HIVE lab (IIT Kanpur)
           company_url: 'https://home.iitk.ac.in/~gowdhampg/'
           company_logo: HIVE 
