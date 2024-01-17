@@ -24,6 +24,18 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
+         - title: Research collaborator
+          company: HIVE lab (IIT Kanpur)
+          company_url: 'https://home.iitk.ac.in/~gowdhampg/'
+          company_logo: HIVE 
+          location: Remote
+          date_start: '2024-01-12'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Research on musical haptics for [NIME](https://www.nime.org/)
+
         - title: Haptic Design Technologist
           company: Compossible Umwelten
           company_url: 'https://www.umwelten.xyz/dwelling/'
