@@ -30,7 +30,7 @@ sections:
           company_logo: compossible
           location: Remote
           date_start: '2023-12-09'
-          date_end: '2024-1-23'
+          date_end: '2024-01-23'
           description: |2-
               Responsibilities include:
 
