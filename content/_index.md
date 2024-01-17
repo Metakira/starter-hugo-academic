@@ -29,13 +29,15 @@ sections:
           company_url: 'https://www.umwelten.xyz/dwelling/'
           company_logo: compossible
           location: Remote
-          date_start: '2023-12-01'
-          date_end: ''
+          date_start: '2023-12-09'
+          date_end: '2024-1-23'
           description: |2-
               Responsibilities include:
 
-              * Building confidential neurohaptic interfaces
-
+              * Attempted to conceptualize a speculative waveform description language for tactile compositions
+              * Research into biosignal acquisition formats
+              * Machine listening experiments with EMG data and SuperCollider
+    
         - title: Creative Technologist Intern
           company: Mantis Shrimp Creative
           company_url: 'https://www.linkedin.com/company/mantis-shrimp-creative/'
@@ -49,6 +51,7 @@ sections:
               * Conceptualization and prototyping of RFID based Installation with Raspberry Pi
               * Data channeling and instrumentation of Kuka Robot
               * Creating motion graphics clips for VJ sets
+              * Worked on an interactive installation for the release of a limited edition vodka by Johnnie Walker, in collaboration with Air-ink and Shilo Suleman
     
         - title: Assistant Researcher
           company: Indian Sonic Research Organization
@@ -63,7 +66,7 @@ sections:
               * 3d printing and prototyping of OpenBCI Ganglion 4 channel headset for musical applications and therapy while assisting Neuroscientist Nikhil Prabhu
               * Setting up of ecological soundstream with Hannah Kemp from [CriSap](https://crisap.org/), UAL and Grant smith from [SoundTent](https://soundtent.org/soundcamp_about.html)
               * Prototyping biofeedback based interactions with EMG sensors (MYOWARE)
-              * Coordinated the final design and development of the [IMMSANE website](https://www.immsane.com/) for Yati Durant and Andre Bellmone from the Zurich University of the arts
+              * Coordinated the final design and development of the [IMMSANE website](https://www.immsane.com/) for Yati Durant and Andre Bellmonte from the Zurich University of the arts
 #        - title: 
 #         company: 
 #         company_url: ''
