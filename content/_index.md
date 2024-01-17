@@ -47,7 +47,7 @@ sections:
               Responsibilities include:
 
               * Attempted to conceptualize a speculative waveform description language for tactile compositions
-              * Research into biosignal acquisition formats
+              * Researched open source biosignal acquisition formats
     
         - title: Creative Technologist Intern
           company: Mantis Shrimp Creative
