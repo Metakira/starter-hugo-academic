@@ -12,6 +12,10 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
+  - block: skills
+    content:
+      title: Skills
+      
   - block: experience
     content:
       title: Experience
