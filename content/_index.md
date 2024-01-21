@@ -256,7 +256,7 @@ sections:
           icon_pack: fab
           name: DM Me
           link: 'https://mastodon.social/@georgepanicker'
-        - icon: calendar
+        - icon: calendar-days
           icon_pack: fab
           name: Schedule a meeting with me
           link: 'https://calendly.com/georgepanicker/30min'    
