@@ -15,7 +15,8 @@ sections:
   - block: skills
     content:
       title: Skills
-      
+      username: admin
+  
   - block: experience
     content:
       title: Experience
