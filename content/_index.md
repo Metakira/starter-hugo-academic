@@ -256,6 +256,10 @@ sections:
           icon_pack: fab
           name: DM Me
           link: 'https://mastodon.social/@georgepanicker'
+        - icon: calendar
+          icon_pack: fab
+          name: Schedule a meeting with me
+          link: 'https://calendly.com/georgepanicker/30min'    
 
       # Automatically link email and phone or display as text?
       autolink: true
