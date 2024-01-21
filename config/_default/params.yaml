@@ -10,8 +10,8 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
-  mode: light
-  color: red
+  mode: dark
+  color: zinc
 
 # SEO
 
