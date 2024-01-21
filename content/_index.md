@@ -257,7 +257,7 @@ sections:
           name: DM Me
           link: 'https://mastodon.social/@georgepanicker'
         - icon: calendar-days
-          icon_pack: fab
+          icon_pack: far
           name: Schedule a meeting with me
           link: 'https://calendly.com/georgepanicker/30min'    
 
