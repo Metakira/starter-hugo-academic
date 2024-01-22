@@ -16,7 +16,7 @@ links:
     url: https://github.com/georgevpp-code/Markov-chain-Drum-machine
   - icon_pack: fab
     icon: youtube
-    name: Code
+    name: Watch
     url: https://v.basspistol.org/w/azFqfHone4oEhZKjE6Zw18
 image:
   filename: featured.jpg
