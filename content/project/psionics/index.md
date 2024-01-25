@@ -13,7 +13,7 @@ links:
     name: Watch
     url: https://youtu.be/Bamd8ss17C4
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
