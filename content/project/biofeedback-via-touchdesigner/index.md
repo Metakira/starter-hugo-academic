@@ -1,5 +1,5 @@
 ---
-title: Biofeedback driven motion graphics
+title: Basic biofeedback via neural interfacing
 date: 2024-01-25T13:11:38.418Z
 summary: A simple EMG based neural interface
 draft: false
@@ -13,7 +13,7 @@ links:
     icon_pack: fab
     icon: youtube
 image:
-  filename: featured.gif
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
