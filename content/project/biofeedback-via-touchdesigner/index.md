@@ -6,6 +6,7 @@ draft: false
 featured: false
 tags:
   - biofeedback
+  - electronics
 external_link: ""
 links:
   - url: https://youtube.com/shorts/xAstwBgHS64?feature=share
