@@ -1,5 +1,5 @@
 ---
-title: Basic biofeedback via neural interfacing
+title: Neural interface 1
 date: 2024-01-25T13:11:38.418Z
 summary: A simple EMG based neural interface
 draft: false
