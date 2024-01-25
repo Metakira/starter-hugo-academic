@@ -10,8 +10,8 @@ tags:
 links:
   - url: https://docs.google.com/presentation/d/e/2PACX-1vSXX-cNBPQcVp7-Ts8cJCFe_Ogsh7DUBXqHVQGYTx6WSXCcjtzMcwuA8NKqc-AakvkB38zFxgFnLO2H/pub?start=false&loop=true&delayms=30000
     name: Slides
-    icon_pack: far
-    icon: slides
+    icon_pack: fas
+    icon: file-powerpoint
   - url: https://youtu.be/cKA-rROBjPI
     name: Prototype vid
     icon_pack: fab
