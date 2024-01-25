@@ -21,4 +21,4 @@ image:
 ---
 For my 7th semester at Srishti, I worked with the designers at MOD foundation to conceive of an art installation for their urban screen, a conceptual digital doorway to enlighten the citizens of Bengaluru to what's happening in their neighborhood.
 
- In lines with broader areas of my practice, I designed and prototyped a working Kasuti-inspired geometrical music sequencer installation that outputs notes in *Ahir Bhairav*. This project documents my use of a computational design process in order to achieve a final outcome
+ In lines with broader areas of my practice, I designed and prototyped a working Kasuti-inspired geometrical music sequencer installation that outputs notes in *Ahir Bhairav*. This project documents my use of a computational design process (i.e [Design Space Exploration](https://medium.com/generative-design/step-1-generate-6bf73fb3a004)) in order to achieve a final outcome
