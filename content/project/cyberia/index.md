@@ -1,10 +1,7 @@
 ---
 title: CYBERIA
 date: 2024-01-25T13:31:16.048Z
-summary: |-
-  My submission to "*EY techathon 3.0: Enter the Metaverse."*
-
-  ![](challenge2.png "EY judging criteria")
+summary: 'My submission to "*EY techathon 3.0: Enter the Metaverse."*'
 draft: false
 featured: false
 tags:
