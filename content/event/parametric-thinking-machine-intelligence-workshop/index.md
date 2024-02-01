@@ -18,6 +18,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-I'll be running a very basic workshop on how to incorporate machine intelligence and parametric design thinking into creative workflows this Friday as a part of my last semester at Srishti. I'll be demoing super basic prototypes in Touchdesigner+StableDiffusion and SuperCollider+Flucoma to demonstrate Latent space for visual/audial expression. We'll be covering the design thinking process vs Design Space exploration, how to think about AI, how to build creative systems with parameters and how to practice on one's own.
+I'll be running a very basic workshop on how to incorporate machine intelligence and parametric design thinking into creative workflows this Friday as a part of my last semester at Srishti. I'll be demoing super basic prototypes in Touchdesigner+StableDiffusion and SuperCollider+Flucoma to demonstrate Latent space for visual/audial expression. We'll be covering the design thinking process vs Design Space exploration, how to think about AI, how to build creatively expressive systems with parameters and how to practice yourself.
 
 This workshop is free and open to all. Slides  will soon be up on my website.
