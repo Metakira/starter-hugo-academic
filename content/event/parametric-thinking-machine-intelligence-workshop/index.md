@@ -1,17 +1,17 @@
 ---
-title: Parametric thinking + Machine Intelligence Workshop
 abstract: "A workshop on building computational systems for dynamic creative
   expression in  art and design "
-location: Srishti Manipal institute of Art, Design and Technology , Bangalore campus
 date: 2024-02-02T09:15:11.362Z
 date_end: 2024-02-02T10:00:00.000Z
-all_day: false
-event: Srishti Workshop
 event_url: https://www.instagram.com/p/C2xX3PhyZ6H/
-publishDate: 2024-02-01T09:44:06.135Z
 draft: false
 featured: false
-url_slides: 'https://docs.google.com/presentation/d/e/2PACX-1vT0k33ISlXBR_Jc43F5MI1tqXz71vZURSedwEBI0B2HHBykgAG_jRyraMAPB8UICAheYA46-0hVnrEH/pub?start=false&loop=false&delayms=3000'
+url_slides: https://docs.google.com/presentation/d/e/2PACX-1vT0k33ISlXBR_Jc43F5MI1tqXz71vZURSedwEBI0B2HHBykgAG_jRyraMAPB8UICAheYA46-0hVnrEH/pub?start=false&loop=false&delayms=3000
+title: Parametric thinking + Machine Intelligence Workshop
+location: Srishti Manipal institute of Art, Design and Technology , Bangalore campus
+all_day: false
+event: Srishti Workshop
+publishDate: 2024-02-01T09:44:06.135Z
 tags:
   - workshop
 image:
@@ -19,6 +19,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-I'll be running a very basic workshop on how to incorporate machine intelligence and parametric design thinking into creative workflows this Friday as a part of my last semester at Srishti. I'll be demoing super basic prototypes in Touchdesigner+StableDiffusion and SuperCollider+Flucoma to demonstrate Latent space for visual/audial expression. We'll be covering the design thinking process vs Design Space exploration, how to think about AI, how to build creatively expressive systems with parameters and how to practice yourself.
+I ran a very basic workshop on how to incorporate machine intelligence and parametric design thinking into creative workflows this Friday as a part of my last semester at Srishti. I demoed a super basic prototype in  SuperCollider+Flucoma to demonstrate Latent space for visual/audial expression. We covered the design thinking process vs Design Space exploration, how to think about AI, how to build creatively expressive systems with parameters and how to practice building creative systems yourself.
 
-This workshop is free and open to all. Slides  will soon be up on my website.
+
+
+![](1000042107.jpg)
+
+This workshop was free and open to all. Slides are now up on my website.
