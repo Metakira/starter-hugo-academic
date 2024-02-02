@@ -11,6 +11,7 @@ event_url: https://www.instagram.com/p/C2xX3PhyZ6H/
 publishDate: 2024-02-01T09:44:06.135Z
 draft: false
 featured: false
+url_slides: 'https://docs.google.com/presentation/d/e/2PACX-1vT0k33ISlXBR_Jc43F5MI1tqXz71vZURSedwEBI0B2HHBykgAG_jRyraMAPB8UICAheYA46-0hVnrEH/pub?start=false&loop=false&delayms=3000'
 tags:
   - workshop
 image:
