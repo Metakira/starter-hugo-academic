@@ -60,6 +60,6 @@ title: George Panicker
 first_name: Alice
 email: ""
 ---
-I am a Bengaluru based New Media artist, Creative technologist and Computational designer who likes to build cool audiovisual stuff in a variety of domains, but primarily in XR and immersive media. Please see my current [research statement for a full disclosure of my varied interests](https://drive.google.com/file/d/1iiTlBvDK-v1hglDiJX2cJ-pDcedXFpI0/view?usp=sharing).
+I am a Bengaluru based New Media artist, Creative technologist and Computational designer who likes to build cool audiovisual stuff in a variety of domains, but primarily in XR and immersive media. Please see my [current research statement](https://drive.google.com/file/d/1iiTlBvDK-v1hglDiJX2cJ-pDcedXFpI0/view?usp=sharing) for a full disclosure of my varied interests.
 
 My portfolio is currently under construction and is soon to be fully updated, but expect to see cool stuff soon!
