@@ -10,7 +10,9 @@ authors:
   - George Panicker
 author_notes: []
 publication: ""
-abstract: ""
+abstract: A paper on Haptics for musical expression written in collaboration
+  with members of HIVE lab at the Department of Design, IIT Kanpur. Submitted to
+  New Interfaces for Musical Expression, 2024.
 draft: false
 featured: true
 image:
@@ -19,4 +21,3 @@ image:
   preview_only: false
 date: 2024-02-08T14:56:24.327Z
 ---
-A paper on Haptics for musical expression written in collaboration with members of HIVE lab at the Department of Design, IIT Kanpur. Submitted to New Interfaces for Musical Expression, 2024.
