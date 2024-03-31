@@ -37,7 +37,7 @@ sections:
 
               * Research on musical haptics for [NIME](https://www.nime.org/)
 
-        - title: Haptic Design Technologist
+        - title: Neuro-haptics Researcher
           company: Compossible Umwelten
           company_url: 'https://www.umwelten.xyz/dwelling/'
           company_logo: compossible
