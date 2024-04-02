@@ -29,8 +29,18 @@ Obviously, the nature of what I intend to accomplish with my career as a project
 
 So, what are my larger goals? What exactly are the grand ambitions of this clueless, broke armchair-philosopher 23 year old?
 
-## New needs, new developments, new grammars: A need for a novel syncretism.
-
-![](what-is-this.png "A map of this space. What's at the center?")
+## New needs, new developments, new grammars 
 
 What we call design methodology in its current form, precedes a lot of important trends. Don Norman's *Design of everyday things* was published in 1985 and was originally called the *Psychology of everyday things.* Tim brown's *Design thinking* method that he formulated in the very early 2000's is what most of us have come to recognize as the standard design thinking process. While to many these methods remain sufficient,we are missing certain critical nuances. A lot of important trends have taken place that design, as a field, really hasn't responded to very well. I'll outline some of them below.
+
+* **The increasing power, affordability and ubquity of chips and sensors:**
+* **The nature, potential and evolution of personal computing systems**:
+* **The emergence of the Internet (Metcalfe's law):**
+* **Big Data and Big business ( Surveillance structure of late-stage capitalism):**
+* **Generative AI and Machine learning** 
+
+## A need for a novel syncretism
+
+
+
+![](what-is-this.png "A map of this space. What's at the center?")
