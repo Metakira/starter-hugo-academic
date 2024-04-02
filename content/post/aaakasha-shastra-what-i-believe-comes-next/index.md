@@ -179,7 +179,7 @@ So obviously I'm talking about building a new discipline in and of itself. But h
 
 Sure we can try slapping on "media arts and sciences" but that still doesn't really fit or express what I am seeing in this diverse field of knowledge. All of the things in this map have it, but the entire field itself is not reducible to any single discipline. ***But whatever "it" is, it's here, it's important and I believe it's the future.***
 
-The world is now increasingly complex, interconnected, changing. Both Wicked problems and Wicked learning environments abound, and both are forgiving. This is something design is trying to tackle, but due to its Bauhasian roots, its repeatedly failing to do so. What we need if we want to move further is:
+The world is now increasingly complex, interconnected, changing. Both [Wicked problems](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.stonybrook.edu/commcms/wicked-problem/about/What-is-a-wicked-problem&ved=2ahUKEwjl2JiE56OFAxV5umMGHf9rCpIQFnoECBYQAQ&usg=AOvVaw1lZTIv7dWmwNY1S2gDC30s) and [Wicked learning environments](https://www.driverlesscrocodile.com/books-and-recommendations/david-epstein-on-kind-and-wicked-learning-environments/) abound, and both are unforgiving. This is something design is trying to tackle, but due to its Bauhasian roots, its repeatedly failing to do so. What we need if we want to move further is:
 
 * A perspective decolonized from [western WEIRD roots](https://www.nytimes.com/2020/09/12/books/review/the-weirdest-people-in-the-world-joseph-henrich.html). We need this because t[he extractive principles formed by the Baconian origins of science](https://hesiodscorner.wordpress.com/2018/07/11/francis-bacons-conquest-of-nature/) work well with chemistry and physics, [but not with the complexity of organisms and ecology](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DKPUZiWMNe-g&ved=2ahUKEwjkhYal2KOFAxUXRmwGHU5pCv8QtwJ6BAgFEAI&usg=AOvVaw2bjWJ4akp9K0bympRDY11U), which technology will soon start to directly mimic. Top-down design is inherently colonial and inequitable because it still has the privileged designing for the under-privileged
 * Wicked problems are interdependent, and the problems of climate change, capitalism, social alienation and political fracturing are all deeply interconnected phenomena, which we cannot solve with top-down processes. D
@@ -209,4 +209,20 @@ Art has the ability to generate a desire for new ways of being if we are envelop
 
 **Science: The grammar of evidence based conclusions**
 
-Science is the first bottom-up discipline, and has been a hugely transformative influence on the way we live our lives
+Science is the first bottom-up discipline, and has been a hugely transformative influence on the way we live our lives. The reason why (most of us) believe in science lies in 3 aspects:
+
+1. Direct inference via observations
+2. Independently verifiable conclusions
+3. Experimental repeatability
+
+What science allows us, as a society, is to form our own conclusions about the world no matter what other people tell us. At times, these conclusions may break our heart, but it may prove necessary to further progress. 
+
+For example, during the Copernican revolution, the church maintained that it knew of the universe through possessing the holy bible, and thus as the sanctioned representatives of god, directly authorized monarchy's right to rule. However, one of its deeply treasured "facts" was that of *geocentrism*  which in judeochristian custom said that the Earth was the centre of the universe. In contrast, the development of optics led to the telescope, which subsequently began the assault on the church and the cracks in feudalism. 
+
+In a post-truth society where people are increasingly mediated by information entities and their virality, a form of "citizen science" that allows people to independently confirm the truth for themselves may be essential. These truths are often paradoxical, counter-intuitive and difficult to digest, but they remain true nonetheless. As someone who was raised christian, it was my birdwatching hobby and their manuals that allowed me to independently confirm evolution for myself, destroying any vestige of my faith forever.
+
+Scientific modelling from complexity theory , such as the use of data science practices and mathetmatical models, may become indispensable when we inevitably deal with systems of scale. Media practitioners may sometimes have to act like scientists in assessing data and drawing conclusions from it.
+
+Personally, the research and ideation phase of design is clearly inspired by the scientific paradigm  and has been all the better for it. The ability to draw new conclusions and overthrow previous models is why science continuously evolves with the times and is sensible, because the ability to infer from reality is a powerful bottom-up process, one which design sorely needs. To illustrate the problems of top-down impositional conclusions, here's [a list of absurd cures for the Bubonic plague as a result of Europe using the top-down conclusions passed down to them from the Greeks](https://www.worldhistory.org/article/1540/medieval-cures-for-the-black-death/), before the microscope determined the existence of bacteria and kickstarted the field of medicine.
+
+**Engineering: The grammar of constructed affordances and abilities**
