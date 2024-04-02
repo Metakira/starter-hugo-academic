@@ -39,11 +39,50 @@ What we call design methodology in its current form, precedes a lot of important
 
 The above image showcases the development of storage devices over 45 years. What we can directly infer from this evolution is that personal storage is getting smaller, more dense and more mobile. The factors that have driven this growth is something called "moore's law", which states that *that the number of transistors in an integrated circuit (IC) doubles about every two years*. What this results in, is something futurist Ray Kurzweil called the "law of accelerating returns.
 
+![](1688887152091.png "How computers improve exponentially over the years")
 
+The law basically states that far from being a straightforward line of improvement, accelerating returns means that every year, the improvement effectively doubles. What we're seeing happening overall is imperceptible yet significant. Computer chips and sensors are getting smaller, cheaper, smarter, more common and ever more powerful with each passing year. This is why it's also hard to pinpoint the potential of new paradigms as and when they arrive. In 2023, sensors are the language that drives industry, and the amount of data they capture is enormous. We now have affordable sensors for nearly everything, from biosignals to weather instrumentation. And these capabilities only grow further.
 
-**The nature, potential and evolution of personal computing systems**:
+#### **The nature, potential and evolution of personal computing systems**
 
-* **The emergence and evolution of the Internet (Metcalfe's law):**
+![](images.jpg "The apple watch can now read your heartbeat systems")
+
+A critical fact to consider is that computers are no longer the devices they were back then, 40 years ago. As computers evolve, they move along multiple significant lines of change:
+
+* Increasing imperceptibility (computing becomes harder to actively notice i.e invisible )
+* Increasing Ubiquity (computing eats into more places that didn't require computing prior)
+* Decreasing latency (computers process more faster, now almost instantaneously )
+* Increasing intelligence (computers are getting "smarter" at responding to humans)
+* Increasing affordance (computers are capable of doing more with their sensors and motors )
+* Increasing integration (computers are becoming more tightly coupled with their users)
+
+Computers are probably going to move in this historical trajectory
+
+Industrial ( Early days of US millitary) ->
+
+\->  Personal (Apple Macintosh)  ->
+
+\-> Mobile (Iphone) -> Wearable (smar
+
+\-> Wearable (smartwatches) ->
+
+\-> Spatial (XR headsets) -> Imperceptible, a Doomer scenario where its all [computronium](https://en.wikipedia.org/wiki/Computronium) (well, [not exactly](https://tangible.media.mit.edu/project/radical-atoms/))
+
+![](untitled.png "Biofeedback is now a critical computer ability ")
+
+\
+These trends build the now commonplace principle of "biofeedback", where human responses are dynamically managed and coordinated with or by computational systems. This can be used for good (apple watches saving people dying of heart attacks) or bad (Reel addiction via Product designer Nir Eyal's *[Hook-cycle](https://www.nirandfar.com/how-to-manufacture-desire/)).* The computer now becomes a cybernetic extension of people's sensory systems, making the Mcluhan quote turn from metaphor into literal reality. 
+
+What we are actively seeing happen is the transformation of computer from inert static machines (like wheels and steam engines) to something more akin to a *living organism*. Even the ability of computer programs to accommodate plugins, mods, skins and add-ons looks less like pencil sharpener and more like a living creature performing  *endosymbiosis,* the ability to ***evolve using external entities.*** MIT Media Lab alumni and Computational designer John Maeda explicitly states as much in his book " How to speak machine", declaring that in a very primitive way, machines are effectively complex adaptive systems with much more in common with living creatures.
+
+![](endosymbiosis_med.jpeg "The modular nature of computers looks more like a permeable cell than an impermeable chemical")
+
+The problem then becomes clearer that current design models are derivative of the mother disciplines of industrial and graphic design, both themselves representative of a top down approach that is great at dealing with inert objects but struggles with the complexity of living creatures. The implication is that after a certain threshold is reached, the physical model that we have used for design will have to eventually give way due to being insufficient.
+
+It's safe to say that current design methodology is good enough, but doesn't really make complete use of what computers *really* are and what they eventually will become. 
+
+**The emergence and evolution of the Internet (Metcalfe's law): now becomes** 
+
 * **Big Data and Big business (Late-stage capitalist realism):**
 * **Generative AI and Machine learning** 
 
