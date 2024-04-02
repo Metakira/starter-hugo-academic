@@ -29,10 +29,8 @@ Obviously, the nature of what I intend to accomplish with my career as a project
 
 So, what are my larger goals? What exactly are the grand ambitions of this clueless, broke armchair-philosopher 23 year old?
 
-## 1.New needs, new developments, new grammars: A need for a novel syncretism.
+## New needs, new developments, new grammars: A need for a novel syncretism.
 
 ![](what-is-this.png "A map of this space. What's at the center?")
 
-*Syncretism* is roughly roughly defined as the following:
-
-To me, an explorer in the media arts and sciences for a while now, have been beginning to question a lot of what I've been taught
+What we call design methodology in its current form, precedes a lot of important trends. Don Norman's *Design of everyday things* was published in 1985 and was originally called the *Psychology of everyday things.* Tim brown's *Design thinking* method that he formulated in the very early 2000's is what most of us have come to recognize as the standard design thinking process. While to many these methods remain sufficient,we are missing certain critical nuances. A lot of important trends have taken place that design, as a field, really hasn't responded to very well. I'll outline some of them below.
