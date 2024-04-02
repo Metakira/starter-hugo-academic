@@ -100,9 +100,30 @@ Yet despite the emergent properties of network effects defining design problems 
 
 **Big Data and Big business (Late-stage capitalist realism):**
 
+![](asd.png "Eye of a Digital Sauron")
 
+"Big Data" refers to large data sets that are too large and too wide to encompass, and thus require specialized techniques to parse through effectively. And in our current day and age populated by invisible surveillance systems that generate entire pools of information, big data drives big business. Almost every business on eart relies on some form of analytics to survive, and the biggest companies use their data collection system as competitive leverage. The power and pull of big data is so great, "data driven design" is starting to become a motif within industry trends. Large datasets have the ability to predict changes that regular people are incapable of, which is why many companies have shifted to a purely quantitative approach of analyzing customers.
 
-* **Generative AI and Machine learning** 
+Now we may say that design is a great defense mechanism against the scary clutches of big business's watchful eye, but the truth is that empathetic research may not necessarily bear fruit as an empathetic solution. The pull of Business and capital are starting to morph design away from its origins, with UX turning into product design, industry stalwarts like Jakob Nielson telling designers to "do away with inclusivity" and "to think in dollar signs" as well as the establishment of nefarious practices such as ***dark patterns.***
+
+Fighting against data is pointless, and designers will be on a losing streak if we continuously rub shoudlers against the power (and dangers) of data. In fact when we look at the evolution of design as a practice, we can notice three major trends:
+
+1. Design outcomes become more "abstract"
+2. Design increasingly divorces itself  from its craft-based Bauhausian roots
+3. Design approaches problems of increasing scale
+4. The outcomes stay in "place" for longer and are more spatial
+
+For example:
+
+ (Industrial, Graphic design) ->( User Experience Design ) -> (Service/System/Strategic design) -> ??
+
+Capitalism's influence on design outcomes will always stay, and businesses do not care for things like empathy and improving people's lives. As design itself moves from the scale of communal to international and even planetary scope, the use of data to determine large-scale behaviour will soon prove necessary whether we like it or not. At the same time, we need to be mindful of capitalism's increasing chokehold on design, and how design itself, if not managed and guided properly, can exacerbate the devastating effects of late stage capitalism's descent into self-destruction (inevitably taking us along with it). 
+
+The eye of capitalism becomes ever more determining of reality, and if we look close enough, American capitalism, through the large scale societal outcomes manufactured by dark design patterns,  is turning culture itself into one giant[ Casino machine](https://www.honest-broker.com/p/the-state-of-the-culture-2024).
+
+![](dopamine-culture.png "Credits: Ted Gioa, \"The honest Broker\" substack")
+
+**Generative AI and Machine learning** 
 
 ## A need for a novel syncretism
 
