@@ -229,4 +229,4 @@ Science is an attitude of observing and confirming reality as it that we must se
 
 **Engineering: The grammar of constructed affordances and abilities**
 
-Engineering is just an extension of a core human capability: The ability to build tools. Tool-making is central to human nature, it's what we
+Engineering is just an extension of a core human capability: The ability to build tools. Tool-making is central to human nature, it's what we excel at as a species.
