@@ -33,9 +33,11 @@ Obviously, the nature of what I intend to accomplish with my career as a project
 
 So, what are my larger goals? What exactly are the grand ambitions of this clueless, broke armchair-philosopher 23 year old? I've written this to clarify what my field and intentions are, so as to dispel any confusion.
 
-## New needs, New developments
+# New needs, New developments
 
-What we call design methodology in its current form, precedes a lot of important trends. Don Norman's *Design of everyday things* was published in 1985 and was originally called the *Psychology of everyday things.* Tim brown's *Design thinking* method that he formulated in the very early 2000's is what most of us have come to recognize as the standard design thinking process. While to many these methods remain sufficient,we are missing certain critical nuances. A lot of important trends have taken place that design, as a field, really hasn't responded to very well. I'll outline some of them below.
+What we call design methodology in its current form, precedes a lot of important trends. Don Norman's *Design of everyday things* was published in 1985 and was originally called the *Psychology of everyday things.* Tim brown's *Design thinking* method that he formulated in the very early 2000's is what most of us have come to recognize as the standard design thinking process. While to many these methods remain sufficient,we are missing certain critical nuances. 
+
+A lot of important trends have taken place that design, as a field, really hasn't responded to very well. I'll outline some of them below.
 
 #### **The increasing power, affordability and ubiquity of chips and sensors**
 
@@ -78,7 +80,7 @@ Industrial ( Early days of US millitary) ->
 \
 These trends build the now commonplace principle of "biofeedback", where human responses are dynamically managed and coordinated with or by computational systems. This can be used for good (apple watches saving people dying of heart attacks) or bad (Reel addiction via Product designer Nir Eyal's *[Hook-cycle](https://www.nirandfar.com/how-to-manufacture-desire/)).* The computer now becomes a cybernetic extension of people's sensory systems, making the Mcluhan quote turn from metaphor into literal reality. 
 
-What we are actively seeing happen is the transformation of computer from inert static machines (like wheels and steam engines) to something more akin to a *living organism*. Even the ability of computer programs to accommodate plugins, mods, skins and add-ons looks less like pencil sharpener and more like a living creature performing  *endosymbiosis,* the ability to ***evolve using external entities.*** MIT Media Lab alumni and Computational designer John Maeda explicitly states as much in his book " How to speak machine", declaring that in a very primitive way, machines are effectively complex adaptive systems with much more in common with living creatures.
+What we are actively seeing happen is the transformation of computers from inert static machines (like wheels and steam engines) to something more akin to a *living organism*. Even the ability of computer programs to accommodate plugins, mods, skins and add-ons looks less like pencil sharpener and more like a living creature performing  *endosymbiosis,* the ability to ***evolve using external entities.*** MIT Media Lab alumni and Computational designer John Maeda explicitly states as much in his book " How to speak machine", declaring that in a very primitive way, machines are effectively complex adaptive systems with much more in common with living creatures.
 
 ![](endosymbiosis_med.jpeg "The modular nature of computers looks more like a permeable cell than an impermeable chemical")
 
@@ -88,9 +90,18 @@ It's safe to say that current design methodology is good enough, but doesn't rea
 
 #### **The emergence and evolution of the Internet (Metcalfe's law)**
 
+![](metcalfe2.png "As more nodes get connected, the network , past a critical mass, acquires newfound properties")
+
+![](metcalfe1.png "How the Internet EXPLODED")
+
+The internet really started taking off in 1998, and when it arrived, no one at the time really knew what it really could become. Now, the internet literally drives the entire planet forward, with internet culture evolving from being a small part of the mainstream to both becoming as well as **defining**  the mainstream. And now with the [spatial web](https://medium.com/swlh/an-introduction-to-the-spatial-web-bb8127f9ac45) (  a combination of XR and IOT being connected as one giant system ), we see that the network dynamics of the internet will probably explode beyond what we know of it as of today. 
+
+Yet despite the emergent properties of network effects defining design problems of today ( Facebook's engagement system eventually becoming a reason for driving political polarisation) , we still see little to no discussion of networks and their qualities. The idea of emergence, despite its overreaching and far felt effects today, is practically ignored in mainstream design discourse. All current design models were developed before the complete emergence of the internet's "critical mass" and its ability to connect people globally. 
+
+**Big Data and Big business (Late-stage capitalist realism):**
 
 
-* **Big Data and Big business (Late-stage capitalist realism):**
+
 * **Generative AI and Machine learning** 
 
 ## A need for a novel syncretism
