@@ -225,4 +225,8 @@ Scientific modelling from complexity theory , such as the use of data science pr
 
 Personally, the research and ideation phase of design is clearly inspired by the scientific paradigm  and has been all the better for it. The ability to draw new conclusions and overthrow previous models is why science continuously evolves with the times and is sensible, because the ability to infer from reality is a powerful bottom-up process, one which design sorely needs. To illustrate the problems of top-down impositional conclusions, here's [a list of absurd cures for the Bubonic plague as a result of Europe using the top-down conclusions passed down to them from the Greeks](https://www.worldhistory.org/article/1540/medieval-cures-for-the-black-death/), before the microscope determined the existence of bacteria and kickstarted the field of medicine.
 
+Science is an attitude of observing and confirming reality as it that we must seek to cultivate through new media, if we are to have society solve its most difficult internal struggles. It's also a key to solving a larger crisis that I will expand upon later down this essay.
+
 **Engineering: The grammar of constructed affordances and abilities**
+
+Engineering is just an extension of a core human capability: The ability to build tools. Tool-making is central to human nature, it's what we
