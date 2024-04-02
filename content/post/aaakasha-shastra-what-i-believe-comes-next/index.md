@@ -35,10 +35,4 @@ So, what are my larger goals? What exactly are the grand ambitions of this cluel
 
 *Syncretism* is roughly roughly defined as the following:
 
-> <!--StartFragment-->
->
-> *Syncretism is the practice of combining different beliefs and various schools of thought. Syncretism involves the merging or assimilation of several originally discrete traditions.*
->
-> <!--EndFragment-->
-
 To me, an explorer in the media arts and sciences for a while now, have been beginning to question a lot of what I've been taught
