@@ -86,7 +86,15 @@ What we are actively seeing happen is the transformation of computers from inert
 
 The problem then becomes clearer that current design models are derivative of the mother disciplines of industrial and graphic design, both themselves representative of a top down approach that is great at dealing with inert objects but struggles with the complexity of living creatures. The implication is that after a certain threshold is reached, the physical model that we have used for design will have to eventually give way due to being insufficient.
 
-It's safe to say that current design methodology is good enough, but doesn't really make complete use of what computers *really* are and what they eventually will become. 
+It's safe to say that current design methodology is good enough, but doesn't really make complete use of what computers *really* are and what they eventually will become.  As a wise (disgraced) man once said:
+
+> <!--StartFragment-->
+>
+> “ Design has also evolved from the design of objects, both physical and material, to the design of systems, to the design of complex adaptive systems. This evolution is shifting the role of designers; they are no longer the central planners, but participants within the systems in which they work. This is a fundamental shift- ***one that requires a new set of values***”
+>
+> * *Joi Ito, former MIT media lab director*
+>
+> <!--EndFragment-->
 
 #### **The emergence and evolution of the Internet (Metcalfe's law)**
 
@@ -98,7 +106,7 @@ The internet really started taking off in 1998, and when it arrived, no one at t
 
 Yet despite the emergent properties of network effects defining design problems of today ( Facebook's engagement system eventually becoming a reason for driving political polarisation) , we still see little to no discussion of networks and their qualities. The idea of emergence, despite its overreaching and far felt effects today, is practically ignored in mainstream design discourse. All current design models were developed before the complete emergence of the internet's "critical mass" and its ability to connect people globally. 
 
-**Big Data and Big business (Late-stage capitalist realism):**
+#### **Big Data and Big business (Late-stage capitalist realism):**
 
 ![](asd.png "Eye of a Digital Sauron")
 
@@ -123,10 +131,36 @@ The eye of capitalism becomes ever more determining of reality, and if we look c
 
 ![](dopamine-culture.png "Credits: Ted Gioa, \"The honest Broker\" substack")
 
-**Generative AI and Machine learning** 
+#### **Generative AI and Synthetic Media**
 
-## A need for a novel syncretism
+![](1_wbv7o_fkwmiboshqf2pt7q-1024x640.png "A deepfake example")
 
+A strange kind of hubris is developing in the design community, one which repeatedly maintains the following:
 
+" AI is just a tool, it cannot replace us, the design process will largely remain the same"
+
+AI can beat humans at some of the most complex tasks in the world, including:
+
+* Go, an ancient Chinese game thought to be so complex it was a human only task. AlphaGo by Google beat Grandmaster sedol in 2016, by using moves never played before in 1000 years history of the game
+* Bridge, a card game that requires strategy of reading human facial expressions as opposed to the rough computation of chess and Go. Even Bill gates didn't think this was possible, but recently an AI model beat 5 of the world's best bridge players in a roundtable match
+* DeepMind solved the protein unfolding problem, a task that stumped human biotechnologists for the past 20 years. DeepMind is also discovering new nanomaterial configuartions that humans could not.
+* AI is capable of translating complex languages like Chinese in realtime. For the record, Chinese is difficult not just because of the 1000 characters, but also due to the contextual intonation, cultural specificities etc involved. It's the hardest Language out there by a long shot and it's a breeze to AI.
+* AI can literally translate and map Whale calls
+
+In his 2019 SXSW ( a leading design conference) talk, designer Stephen Anderson outlines the following slide:
+
+![](genai.png)
+
+The slide is interesting because in the wake of generative AI, the above equation does ring doubly true. Put realtime data analytics, an already existing design system such as Material design and the newfound powers of LLM's and Machine learning, and what you can see happening is that businesses will soon be able to automatically generate designs, much like how figma and midjourney are capable of synthetically generating graphic design. 
+
+Synthetic media is fast, it's powerful, it has access to numbers you as a person don't, can perform many more iterations at a faster rate than you do and even if it isn't perfect, it's good enough for businesses to ship. This last sentence is more key because culture , due to Moore's law, is accelerating at previously little understood paces, and now any business that works with the power of the internet and computers has much much more to gain than the Bauhasian perfectionism of early design culture.
+
+Take for example the current headset war between Apple and Meta. Apple spent years on the Vision pro, as early as 2016, and in the end, to much hype and glory, announced the arrival of "spatial computing". Meta on the other hand, ran into the ground headfirst with its hugely mocked "metaverse" and the little spoken of Quest 3. Yet Meta's approach, which decided to go open source and imperfect as long as it hit the ground running, now came up with ***the actual better product for its price.*** Many have now returned their "overpriced" Vision Pro's, and I believe Apple knew it, which is why they manufactured very few units of the same. Apple has understood , to some degree, that it's closed source perfectionist approach is starting to lose in business and leaving them in the dust, which is probably why it released its Ferret LLM AI model open-source on github, as well as MANY of its design blueprints.
+
+In the age of rapid change, first and "good enough" shatters the perfectionism of design hubris, which is why designers are going to be in for a huge shock if they think companies will be open minded to month long research cycles and relatively small scale prototyping phases. AI is a threat, and design, despite the showboating, is clearly clueless as a discipline on how to effectively utilize it.
+
+The dangers of synthetic media, however, are even more grim. For the first time in history, people's faces and voices can be separated from their body, and evidence can be cooked from straight up from nothing. Synthetic exacerbates the growing problem of a post-truth society, where deception prevails, and truth imperceptible. However, tackling synthetic media in and of its own is still not an often talked about topic, despite this specific issue being the utmost priority to tackle for proponents of design justice.
+
+# A need for a novel syncretism
 
 ![](what-is-this.png "A map of this space. What's at the center?")
