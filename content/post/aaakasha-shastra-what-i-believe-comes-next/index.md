@@ -23,9 +23,13 @@ For some, this may be giving up on the subject of their undergraduate degree alt
 
 All these paths, to me, are equally valid. There is nothing wrong with any of these directions.
 
-To me however, the past 5 years have only instilled in me a deep sense of dissatisfaction, and an even deeper sense of curiosity. Many years of talking, doing, making, both succeeding and failing, both teaching and learning, from the many people I've met along the road as well as my own mysterious nature as a person, have led me to the conclusion that there are many things in this world that need to be answered, and many fuzzy, barely perceptible things need to be brought to the surface. There are two gaps to be bridged. One, the gap between what the world needs and what we are capable of doing to address those needs, and Two, My desires as a person and my capacity to act and fulfill those desires.
+To me however, the past 5 years have only instilled in me a deep sense of dissatisfaction, and an even deeper sense of curiosity. Many years of talking, doing, making, both succeeding and failing, both teaching and learning, from the many people I've met along the journey as well as my own nature as a person, have led me to the conclusion that there are many things in this world that need to be answered, and many fuzzy, barely perceptible things need to be brought to light. 
 
-Obviously, the nature of what I intend to accomplish with my career as a project may span many, many years, with no end in sight. It may require a tenacity, work ethic, resilience and perseverance that I may not possess. Yet, a whisper still rings in my heart, that I believe- nay, what I have faith in- must be accomplished, even if it is imperfect. I may succeed or fail, but it has to be outlined, demarcated, expressed, even in its roughest form.
+As I see it, there are two gaps to be bridged. 
+
+One, the gap between what the world needs and what we are capable of doing to address those needs, and Two, my desires as a person and my capacity to act on and fulfill those desires.
+
+Obviously, the nature of what I intend to accomplish with my career as a project may span many, many years, with no end in sight. It may require a tenacity, work ethic, resilience and perseverance that I may not possess. Yet, a whisper still rings in my heart, that what I believe -nay, what I have faith in- must be accomplished, even if it is imperfect. I may succeed or fail, but it has to be outlined, demarcated, expressed, even in its roughest impure form.
 
 So, what are my larger goals? What exactly are the grand ambitions of this clueless, broke armchair-philosopher 23 year old? I've written this to clarify what my field and intentions are, so as to dispel any confusion.
 
@@ -41,20 +45,21 @@ The above image showcases the development of storage devices over 45 years. What
 
 ![](1688887152091.png "How computers improve exponentially over the years")
 
-The law basically states that far from being a straightforward line of improvement, accelerating returns means that every year, the improvement effectively doubles. What we're seeing happening overall is imperceptible yet significant. Computer chips and sensors are getting smaller, cheaper, smarter, more common and ever more powerful with each passing year. This is why it's also hard to pinpoint the potential of new paradigms as and when they arrive. In 2023, sensors are the language that drives industry, and the amount of data they capture is enormous. We now have affordable sensors for nearly everything, from biosignals to weather instrumentation. And these capabilities only grow further.
+The law basically states that far from being a straightforward line of improvement, accelerating returns means that every year, the improvement effectively doubles. What we're seeing happening overall is imperceptible yet significant. Computer chips and sensors are getting smaller, cheaper, smarter, more common and ever more powerful with each passing year. This is why it's also hard to pinpoint the potential of new paradigms as and when they arrive. In 2023, sensors are the gears that drives the industrial complex overall, and the amount of data they capture is enormous. We now have affordable sensors for nearly everything, from biosignals to weather instrumentation. And these capabilities only grow further.
 
 #### **The nature, potential and evolution of personal computing systems**
 
-![](images.jpg "The apple watch can now read your heartbeat systems")
+![](images.jpg "The apple watch can now read your heartbeat signals")
 
 A critical fact to consider is that computers are no longer the devices they were back then, 40 years ago. As computers evolve, they move along multiple significant lines of change:
 
 * Increasing imperceptibility (computing becomes harder to actively notice i.e invisible )
 * Increasing Ubiquity (computing eats into more places that didn't require computing prior)
-* Decreasing latency (computers process more faster, now almost instantaneously )
+* Decreasing latency (computers process more things faster)
 * Increasing intelligence (computers are getting "smarter" at responding to humans)
-* Increasing affordance (computers are capable of doing more with their sensors and motors )
+* Increasing affordance (computers are capable of doing more and more things)
 * Increasing integration (computers are becoming more tightly coupled with their users)
+* Increasing ability to simulate (Computers have the ability to mimic the dynamics of any system)
 
 Computers are probably going to move in this historical trajectory
 
@@ -68,7 +73,7 @@ Industrial ( Early days of US millitary) ->
 
 \-> Spatial (XR headsets) -> Imperceptible, a Doomer scenario where its all [computronium](https://en.wikipedia.org/wiki/Computronium) (well, [not exactly](https://tangible.media.mit.edu/project/radical-atoms/))
 
-![](untitled.png "Biofeedback is now a critical computer ability ")
+![](untitled.png "Biofeedback is now a powerful computational capability")
 
 \
 These trends build the now commonplace principle of "biofeedback", where human responses are dynamically managed and coordinated with or by computational systems. This can be used for good (apple watches saving people dying of heart attacks) or bad (Reel addiction via Product designer Nir Eyal's *[Hook-cycle](https://www.nirandfar.com/how-to-manufacture-desire/)).* The computer now becomes a cybernetic extension of people's sensory systems, making the Mcluhan quote turn from metaphor into literal reality. 
@@ -81,7 +86,9 @@ The problem then becomes clearer that current design models are derivative of th
 
 It's safe to say that current design methodology is good enough, but doesn't really make complete use of what computers *really* are and what they eventually will become. 
 
-**The emergence and evolution of the Internet (Metcalfe's law): now becomes** 
+#### **The emergence and evolution of the Internet (Metcalfe's law)**
+
+
 
 * **Big Data and Big business (Late-stage capitalist realism):**
 * **Generative AI and Machine learning** 
