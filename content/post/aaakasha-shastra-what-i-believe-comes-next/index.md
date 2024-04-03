@@ -11,6 +11,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+:
+
 After four years of my studies at Srishti, and with less than two months left for my graduation, the time obviously comes for every undergraduate student to answer a very critical question:
 
 What do you plan on doing after college? 
@@ -330,8 +332,22 @@ This idea is a little too schizo and far fetched, and to be honest, I really don
 
 This is where design moves from a topdown physical craft based model to a biological bottom-up generative *breeding* of solutions model. Yes, I know it sounds strange, but stay with me. 
 
-![](gendesign.png "Generative design looks more like genome sequencing and \"breeding\" the final optimal solution in a space of possibilities")
+![](gendesign.png "Generative design looks more like genome sequencing and \"breeding\" the final optimal solution in a space of possibilities. Here the genes x,y and z correspond to the length, width and height of the box.")
 
 ![](antenna-design.jpg "Some people have even commented that Generative Design solutions constructed by deep learning algorithms, though far more effective than human designs, look like strange alien biology.")
 
 ![](datadriven.png "Generative design isn't a magic bullet as designers will still have to deal with the problem of \"solution slopes\". Think of it this way, you're trekking in an unknown valley to reach the highest point and you start climbing the closest slope available, only to find that you've climbed a hill and the mountain still looms in the distance. That's the problem of \"local minima\". Credit: Joshua porter , \"The local maximum\"")
+
+Design then becomes the task of creating and living within a creative universe, and then subsequently guiding its evolution. What we have to do is to still make things usable, but we have to divorce ourselves from what the final design actually ends up looking it (when it stops being the object that designers want and starts being the object that users want) and what it is fully capable of (including how it interacts with things outside of it). This last part becomes more relevant especially when design's reach becomes spatial and we have to design for crowds of "users", including people from all walks of life both regular users and absolute newbies. 
+
+So to summarize a consolidated generative language:
+
+**Art** -> Immersive, emotional and sublime beauty that generates novel imagination, sanctuary and transcendence
+
+**Science** -> The discovery of nature's truths , mechanisms and forces *as they are*  and the construction of models simulating them
+
+**Engineering** -> The capture of forces and their transmutation into playful affordances, abilities and even *senses*  that allow us to do a lot more than previously 
+
+**Design** -> Making this potential usable, modular, customizable and tailor fit. 
+
+I don't know what this could really look like in contemporary terms, but UCSB's [Allosphere](https://www.youtube.com/watch?v=u-D-zEToJQ4) is a good example. It's immersive, sublime, musical, scientific, modular and pretty much fulfills all of the above. But maybe I need to start making stuff to actually fulfill this outline of what I think lies beyond.
