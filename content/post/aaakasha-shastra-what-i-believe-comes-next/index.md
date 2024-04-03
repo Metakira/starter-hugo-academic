@@ -121,7 +121,7 @@ Capitalism's influence on design outcomes will always stay, and businesses do no
 
 The eye of capitalism becomes ever more determining of reality, and if we look close enough, American capitalism, through the large scale societal outcomes manufactured by dark design patterns,  is turning culture itself into one giant[ Casino machine](https://www.honest-broker.com/p/the-state-of-the-culture-2024).
 
-![](dopamine-culture.png "Credits: Ted Gioa, \\"The honest Broker\\" substack")
+![](dopamine-culture.png "Credits: Ted Gioa, \\\"The honest Broker\\\" substack")
 
 #### **Generative AI and Synthetic Media**
 
@@ -227,17 +227,6 @@ As I've written in my Artscience post, inventions and tools that start out as cr
 
 Bottom-up engineering is what we can call "hacking". The origin of the word "hack" did not mean to break into computer security systems, but [to create unique, funny  and novel inventions](https://www.catb.org/jargon/html/meaning-of-hack.html). Take for example the hacker mindset from the ["hacker how to " website](http://www.catb.org/~esr/faqs/hacker-howto.html):
 
-> <!--StartFragment-->
->
-> ## The Hacker Attitude
->
-> * * [1. The world is full of fascinating problems waiting to be solved.](http://www.catb.org/~esr/faqs/hacker-howto.html#believe1)
->   * [2. No problem should ever have to be solved twice.](http://www.catb.org/~esr/faqs/hacker-howto.html#believe2)
->   * [3. Boredom and drudgery are evil.](http://www.catb.org/~esr/faqs/hacker-howto.html#believe3)
->   * [4. Freedom is good.](http://www.catb.org/~esr/faqs/hacker-howto.html#believe4)
->
-> <!--EndFragment-->
-
 Creative engineering doesn't come from an overlord giving instructions. Rather, we see that it's a process that comes from your own desire to play, experiment, tool, fabricate and reconstruct all the weird and wacky things that the world never knew it needed. This is something  hard to understand in a culture that consistently demands one be "practical" (an ever shifting transient definitions), but take the case of the first Iphone model.
 
 When the first iphone released, it had:
@@ -254,3 +243,75 @@ Every powerful innovation is in some shape or form an instrument. Whether they b
 I think I need to learn how to hack stuff simply because that's what creative technology really is about: generating abilities and affordances we could not think of before.
 
 **Design: The grammar of coupling and usability**
+
+Now  while I have till now demonstrated poor regard for the work of Norman, Nielsen and Brown, I do appreciate that they, along with the talented people at Apple, have made a profound shift in what we think of design *as:* The change of the idea of making beautiful things to the ability to make things both beautiful *and* usable. That shift from the craft based origins of Bauhasian Industrial and Graphic design to the usability aspects birthed by their evolutes (Ergonomics and Branding) has done the field much more duty and has given it a degree of humanity that disciplines *lack* in general. 
+
+Thus, while design emerged from artisanship, it is really not reducible to it as such and in many forms even opposed to it (just like how early science emerged in the sanctuaries of the catholic church yet soon became its end). Design is not art, art is not design. Design can artful, and art can be designed, but that's permeability, not sameness. When we think of something well designed, we think of something that's a bonafide joy to use, as opposed to something that we want to throw against a wall. Ease of use is now the dominant motive of design overall. 
+
+While I disagree that a privileged person can ever really put themselves in the shoes of the underprivileged, that *empathy*  for pain points and the transmutation of pain points into an overall usable, efficient and pleasurable experience marks a paradigm shift, one that is extremely  beneficial to the field itself. Yet now, if we track this, I believe that this can only go in one more direction: The powerful, networked, stable and customized via *the Modular.*
+
+Craft based design: *Beautiful artisanship* ->
+
+\-> User Experience design: *Usable and ergonomic* ->
+
+\-> **Modulative** design:  *systemic, stable, interdependent, custom tailored* 
+
+We have failures of top-down empathy play out in GainesVille, when IDEO tried their Design Thinking method to create solutions for large scale communities. It didn't work, because of many interdependent systemic reasons outside of the designer's control. This failure carried the same hubris of design students who think they can solve the climate crisis through an app. What *participatory design* wants to achieve is to make the designer the "facilitator" of solutions for communities who then work with the designer to solve their problems.
+
+The question is, how do we really build these solutions? Hence *modulative*  as opposed to modular.
+
+> <!--StartFragment-->
+>
+> “In order to design like nature, we need to consider how we can design a species. Thus, we will reframe the designer’s task *from the design of a single physical object with a fixed form (the individual)*, to ***the design of abstract systems which encode the full range of formal possibilities for a particular design*** concept (the species).”
+>
+> \-Daniel Nagy, Generative designer, on the topic of designing in grasshopper 3d
+>
+> <!--EndFragment-->
+
+Thus while the participants articulate the data and formulations, it's the designer that makes this formulation usable, systemically integrated and cohesive instead of tacky, ill bordered and ill fitted.
+
+To be honest, this kind of design is so alien to me that I'm not sure of what existing product really look like, but here are some clues that I think can point us *towards*  a bottom up design. To start off with a quote from Christopher Alexander from *A pattern Language:*
+
+> <!--StartFragment-->
+>
+> ##### **Christopher Alexander, “Systems generating systems”**
+>
+> [1](https://coevolving.com/blogs/index.php/archive/systems-generating-systems-architectural-design-theory-by-christopher-alexander-1968/#one). There are two ideas hidden in the word system: *the idea of a system as a whole* and *the idea of a generating system.*
+>
+> [2](https://coevolving.com/blogs/index.php/archive/systems-generating-systems-architectural-design-theory-by-christopher-alexander-1968/#two). A system as a whole is not an object but a way of looking at an object. It focuses on some holistic property which can only be understood *as a product of interaction among parts*.
+>
+> [3](https://coevolving.com/blogs/index.php/archive/systems-generating-systems-architectural-design-theory-by-christopher-alexander-1968/#three). A generating system is not a view of a single thing. *It is a kit of parts, with rules  about the way these parts may be combined.*
+>
+> [4](https://coevolving.com/blogs/index.php/archive/systems-generating-systems-architectural-design-theory-by-christopher-alexander-1968/#four). Almost every ‘system as a whole’ is generated by a ‘generating system’. *If we wish to make things which function as ‘wholes’ we shall have to invent generating systems to create them*.  \[Alexander 2011, p. 59; Alexander 1968, p. 605]
+>
+> <!--EndFragment-->
+
+![](mindstroms-about-prod_lineup-hero-standard-large.jpeg "Lego is an example. There's a set amount of kit parts, yet the participants can build a huge variety of creative models from the parts")
+
+![](7b5ad308995bdfe91fe44cbd0b370088.jpg "Airpod MAX mods give the product a flavour it did not possess earlier, yet adds to its \"coolness\"")
+
+![](https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/07/bosuzoku.jpg "Modded street racing cars are another greater example of \"bottom-up\" design")
+
+![](1-dqxvletktoo1gdus9nucrw.png "The Bottom-up data collection processes that citizen uses allows scientists to do their job exponentially  with the crowdsourced  help of those who aren't necessarily trained in science but are highly interested in it. This allows scientists the ability to create informed models of scale to influence policy etc.")
+
+
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*Hk7CmXXBxIGyZwNrzTanmQ.png "Stable Diffusion, an AI diffusion model, can help users generate custom models, merge them with other models, generate custom images in a certain style or even use another person's model. At  some level, this is a proto-generative graphic design process")
+
+![](https://www.gamerz.ma/wp-content/uploads/2022/12/Pokemon-Glazed.jpg "Hacking and modding in videogames allows creative potential that the original creators did not necessarily intend")
+
+![](https://images.squarespace-cdn.com/content/v1/5df94dc4f40e87030eeeacee/1c3be14e-dd0d-4cf7-8cbf-090361e3e620/material+design.png "With the idea of \"design systems\" (and GenAI) we have already solved the problem of cohesiveness in a kit of parts, visually")
+
+![](ert5oytym7dz.jpg "Ideally it would be like a synth, where each module can be independently constructed yet plugged-in to one another in one coherent powerful system")
+
+What I am probably trying to advocate for myself is, just like Barthes called for "death of the author" as a way to separate an author from their creative output (like how you separate JK rowling from Harry Potter), I'm calling for **death of the designer** *where* the designer is actually separate from what the final outcome and potential of the design itself would be. In this manner, the designer's job would be twofold:
+
+1. Building a powerful, creative and  generative system via crowdsourced data
+2. Finding the best space within the immensity of those generated possibilities and reaching an optimal" zone" where those possibilities are various enough for choice yet not too many to paralyze  
+3. Giving the participant the ability to choose their design solution.
+
+Obviously, the reason that I used the example of a modular synth is because the selection process of those said possibilities will probably require *parameters* i.e Knobs and buttons determining how much of a certain trait you want in a solution.
+
+![](linear-design.png)
+
+![](computational-design.png)
