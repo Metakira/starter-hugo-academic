@@ -302,7 +302,7 @@ To be honest, this kind of design is so alien to me that I'm not sure of what ex
 
 ![](https://images.squarespace-cdn.com/content/v1/5df94dc4f40e87030eeeacee/1c3be14e-dd0d-4cf7-8cbf-090361e3e620/material+design.png "With the idea of \"design systems\" (and GenAI) we have already solved the problem of cohesiveness in a kit of parts, visually")
 
-![](ert5oytym7dz.jpg "Ideally it would be like a synth, where each module can be independently constructed yet plugged-in to one another in one coherent powerful system.")
+![](ert5oytym7dz.jpg "Ideally it would be like a synth, where each module can be independently constructed yet plugged-in to one another in one coherent powerful system. And much like how we \"play\" with the getting the right modules to get a good setup as well as \"play\" with the knobs to get a good generative beat going, designing systems and their outcomes will be a product of playfulness.")
 
 ![](osc-1.jpg "In a prototypical fashion, certain inter-messaging protocols allow two programs to be completely distinct and yet make full use of the other's capabilities. Software companies have begun to notice this, which is why many of them are pivoting to open-standards and intercommunication protocols. Now, how do we design for both modulation of internal components of a system as well direct modulation of exernal programs as well?")
 
@@ -328,4 +328,10 @@ So in a way, it's kind of like giving RPG and worldbuilding. We have to give use
 
 This idea is a little too schizo and far fetched, and to be honest, I really don't know what it will look like. But when LLM's give people abilities they don't necessarily have to sink years into (such as coding and design)), and we have large scale systems, wicked problems as well as huge data sets, the role of the designer will obviously change, into one that make sure systems become *inter-dependent*. Like a living organism, each member does its own thing yet positively contributes to the functioning of the larger systems overall functioning.
 
-This is where design moves from a topdown physical craft based model to a biological bottom-up generative *breeding* of solutions model. Yes, I know it sounds strange, but stay with me.
+This is where design moves from a topdown physical craft based model to a biological bottom-up generative *breeding* of solutions model. Yes, I know it sounds strange, but stay with me. 
+
+![](gendesign.png "Generative design looks more like genome sequencing and \"breeding\" the final optimal solution in a space of possibilities")
+
+![](antenna-design.jpg "Some people have even commented that Generative Design solutions constructed by deep learning algorithms, though far more effective than human designs, look like strange alien biology.")
+
+![](datadriven.png "Generative design isn't a magic bullet as designers will still have to deal with the problem of \"solution slopes\". Think of it this way, you're trekking in an unknown valley to reach the highest point and you start climbing the closest slope available, only to find that you've climbed a hill and the mountain still looms in the distance. That's the problem of \"local minima\". Credit: Joshua porter , \"The local maximum\"")
