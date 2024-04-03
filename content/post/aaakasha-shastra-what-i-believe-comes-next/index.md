@@ -84,7 +84,7 @@ What we are actively seeing happen is the transformation of computers from inert
 
 ![](endosymbiosis_med.jpeg "The modular nature of computers looks more like a permeable cell than an impermeable chemical")
 
-The problem then becomes clearer that current design models are derivative of the mother disciplines of industrial and graphic design, both themselves representative of a top down approach that is great at dealing with inert objects but struggles with the complexity of living creatures. The implication is that after a certain threshold is reached, the physical model that we have used for design will have to eventually give way due to being insufficient.
+The problem then becomes clearer that current design models are derivative of the mother disciplines of industrial and graphic design, both themselves representative of a top down approach that is great at dealing with inert objects but struggles with the complexity of living creatures. The implication is that after a certain threshold is reached, the [reductionist enlightenment era physical model](https://patterns.architexturez.net/doc/az-cf-172819) that we have used for design will have to eventually give way due to being insufficient.
 
 It's safe to say that current design methodology is good enough, but doesn't really make complete use of what computers *really* are and what they eventually will become.  As a wise (disgraced) man once said:
 
@@ -258,7 +258,7 @@ Craft based design: *Beautiful artisanship* ->
 
 We have failures of top-down empathy play out in GainesVille, when IDEO tried their Design Thinking method to create solutions for large scale communities. It didn't work, because of many interdependent systemic reasons outside of the designer's control. This failure carried the same hubris of design students who think they can solve the climate crisis through an app. What *participatory design* wants to achieve is to make the designer the "facilitator" of solutions for communities who then work with the designer to solve their problems.
 
-The question is, how do we really build these solutions? Hence *modulative*  as opposed to modular.
+The question is, how do we really build these solutions? Hence *modulative*  as opposed to modular (modulation is basically changing the properties of a system. For example, if you turn up the AC in your house, you are modulating the temperature)
 
 > <!--StartFragment-->
 >
@@ -296,13 +296,15 @@ To be honest, this kind of design is so alien to me that I'm not sure of what ex
 
 
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*Hk7CmXXBxIGyZwNrzTanmQ.png "Stable Diffusion, an AI diffusion model, can help users generate custom models, merge them with other models, generate custom images in a certain style or even use another person's model. At  some level, this is a proto-generative graphic design process")
+![](https://miro.medium.com/v2/resize:fit:1400/1*Hk7CmXXBxIGyZwNrzTanmQ.png "Stable Diffusion, an AI diffusion model, can help users generate custom models, merge them with other models, generate custom images in a certain style or even use another person's model. At  some level, this is a proto-generative graphic design process.")
 
-![](https://www.gamerz.ma/wp-content/uploads/2022/12/Pokemon-Glazed.jpg "Hacking and modding in videogames allows creative potential that the original creators did not necessarily intend")
+![](https://www.gamerz.ma/wp-content/uploads/2022/12/Pokemon-Glazed.jpg "Hacking and modding in videogames allows creative potential that the original creators did not necessarily intend. Pokemon \"Glazed version\" is a ROM hack of pokemon Emerald, an official gamefreak title.")
 
 ![](https://images.squarespace-cdn.com/content/v1/5df94dc4f40e87030eeeacee/1c3be14e-dd0d-4cf7-8cbf-090361e3e620/material+design.png "With the idea of \"design systems\" (and GenAI) we have already solved the problem of cohesiveness in a kit of parts, visually")
 
-![](ert5oytym7dz.jpg "Ideally it would be like a synth, where each module can be independently constructed yet plugged-in to one another in one coherent powerful system")
+![](ert5oytym7dz.jpg "Ideally it would be like a synth, where each module can be independently constructed yet plugged-in to one another in one coherent powerful system.")
+
+![](osc-1.jpg "In a prototypical fashion, certain inter-messaging protocols allow two programs to be completely distinct and yet make full use of the other's capabilities. Software companies have begun to notice this, which is why many of them are pivoting to open-standards and intercommunication protocols. Now, how do we design for both modulation of internal components of a system as well direct modulation of exernal programs as well?")
 
 What I am probably trying to advocate for myself is, just like Barthes called for "death of the author" as a way to separate an author from their creative output (like how you separate JK rowling from Harry Potter), I'm calling for **death of the designer** *where* the designer is actually separate from what the final outcome and potential of the design itself would be. In this manner, the designer's job would be twofold:
 
@@ -318,4 +320,12 @@ Obviously, the reason that I used the example of a modular synth is because the 
 
 Thus, design becomes something that encourages people to move past their limits and ***make full use of the energy*** captured in a device, system or innovation, and not the perception management and mediocrity encouragement practice that we see it as today. 
 
-![](asada.png "Dark souls and Violins are both difficult, yet when fully mastered, demonstrates the extent of human potential. Modern design assumes that we must make people lazier and appeal to their every vice and comfort. That's not empathy, that's just being a bad influence. And a lot of design's are just that. A bad influence tainted by the spell of corporate capital. Yet what we also forget that self-improvement is a HUGE industry as well.")
+![](asada.png "Dark souls and Violins are both difficult, yet when fully mastered, demonstrates the extent of human potential. Modern design assumes that we must make people lazier and appeal to their every vice and comfort. That's not empathy, that's just being a bad influence. And a lot of design's are just that. A bad influence tainted by the spell of corporate capital. Yet what we also forget that self-improvement is a HUGE industry as well. People don't want to be lazy, they do want to make their lives better. How do we encourage our users to have better lives and take better decisions?")
+
+In this manner, I think the future of design has to be some amalgamation of all of the above. An interesting aspect of why I think the above is necessary is because software and internet systems in general resemble a living organism undergoing change and updates rather than physical object. You can dynamically add features to and take away from a software like Adobe photoshop for example, which you cannot for say an Ipad.
+
+So in a way, it's kind of like giving RPG and worldbuilding. We have to give users the power to create their own worlds, while the task of usability and cohesiveness will become *invisible* i.e already done for them. This may not make a lot of sense in the context of phone apps, but in the context extended environments and immersive realities, trust me, this fact will become too obvious to ignore. 
+
+This idea is a little too schizo and far fetched, and to be honest, I really don't know what it will look like. But when LLM's give people abilities they don't necessarily have to sink years into (such as coding and design)), and we have large scale systems, wicked problems as well as huge data sets, the role of the designer will obviously change, into one that make sure systems become *inter-dependent*. Like a living organism, each member does its own thing yet positively contributes to the functioning of the larger systems overall functioning.
+
+This is where design moves from a topdown physical craft based model to a biological bottom-up generative *breeding* of solutions model. Yes, I know it sounds strange, but stay with me.
