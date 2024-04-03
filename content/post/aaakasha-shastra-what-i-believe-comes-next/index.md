@@ -88,14 +88,6 @@ The problem then becomes clearer that current design models are derivative of th
 
 It's safe to say that current design methodology is good enough, but doesn't really make complete use of what computers *really* are and what they eventually will become.  As a wise (disgraced) man once said:
 
-> <!--StartFragment-->
->
-> “ Design has also evolved from the design of objects, both physical and material, to the design of systems, to the design of complex adaptive systems. This evolution is shifting the role of designers; they are no longer the central planners, but participants within the systems in which they work. This is a fundamental shift- ***one that requires a new set of values***”
->
-> * *Joi Ito, former MIT media lab director*
->
-> <!--EndFragment-->
-
 #### **The emergence and evolution of the Internet (Metcalfe's law)**
 
 ![](metcalfe2.png "As more nodes get connected, the network , past a critical mass, acquires newfound properties")
@@ -129,7 +121,7 @@ Capitalism's influence on design outcomes will always stay, and businesses do no
 
 The eye of capitalism becomes ever more determining of reality, and if we look close enough, American capitalism, through the large scale societal outcomes manufactured by dark design patterns,  is turning culture itself into one giant[ Casino machine](https://www.honest-broker.com/p/the-state-of-the-culture-2024).
 
-![](dopamine-culture.png "Credits: Ted Gioa, \"The honest Broker\" substack")
+![](dopamine-culture.png "Credits: Ted Gioa, \\"The honest Broker\\" substack")
 
 #### **Generative AI and Synthetic Media**
 
@@ -167,14 +159,6 @@ The dangers of synthetic media, however, are even more grim. For the first time 
 
 Syncretism is defined as:
 
-> <!--StartFragment-->
->
-> "...... the practice of combining different beliefs and various schools of thought. Syncretism involves the merging or assimilation of several originally discrete traditions"
->
-> \-Wikipedia
->
-> <!--EndFragment-->
-
 So obviously I'm talking about building a new discipline in and of itself. But here's the deal. I don't think of myself as any guru or innovator or visionary, and I don't really need to be one in order to justify the need for a syncretism. The simple reason for a syncretism is that overall, I'm interested in a great many things, and yet its ***hard***  to put all of this in a box. Is it Computational design? Is it New Media? Is it creative tech? Music technology? My head really starts to hurt because ***all of these things are very closely related, yet none of them really have any overarching term.*** It's both all AND none of the above. So while I have said that this is the future of design (for my thesis), the truth is that this has nothing to do with design, technology, media, art, science, philosophy, and has everything to do with them as well. It's a fucking headache.
 
 Sure we can try slapping on "media arts and sciences" but that still doesn't really fit or express what I am seeing in this diverse field of knowledge. All of the things in this map have it, but the entire field itself is not reducible to any single discipline. ***But whatever "it" is, it's here, it's important and I believe it's the future.***
@@ -205,7 +189,7 @@ Dostoevsky once said "Beauty will save the world". Why? Because while people fig
 
 The power of artistic beauty to rejuvenate the soul in a simulation of its own making is what gives it this incredible ability to ***create its own future.*** Desire is a powerful thing if we cage its need to consume the object of its desire, because then [it strives to create the object of desire itself.](https://www.theguardian.com/media-network/2015/aug/13/science-fiction-reality-predicts-future-technology) Consider that AI first appeared in sci-fi novels as a concept long before computers were even mainstream and before the field of machine learning itself, and we can begin to see how desire is a creative force if guided properly. 
 
-Art has the ability to generate a desire for new ways of being if we are enveloped in its creative potential. In New Media art, this is probably a potential latent in immersive media specifically. 
+Art has the ability to generate a desire via its ability to inspire imagination for new ways of being if we are enveloped in its creative potential. In New Media art, this is probably a potential latent in immersive media specifically. 
 
 **Science: The grammar of evidence based conclusions**
 
@@ -229,4 +213,44 @@ Science is an attitude of observing and confirming reality as it that we must se
 
 **Engineering: The grammar of constructed affordances and abilities**
 
-Engineering is just an extension of a core human capability: The ability to build tools. Tool-making is central to human nature, it's what we excel at as a species.
+Engineering is just an extension of a core human capability: The ability to build tools. Tool-making is central to human nature, it's what we excel at as a species. Tool development and its usage is what makes a man.
+
+Engineering is the construction of tools, abilities and affordances. A tool, like Mcluhan said, is like media: An extension of man. The wheel an extension of the legs, a telescope the extension of the eye. A tool represents the capture of certain forces of nature and re-directing them towards our own ends and means. For example, computer chips are just glorified rocks with inscribed sigils that "capture" electricity and direct it towards information processing. Thus, engineering a tool or instrument becomes constructing things that allow us to do *more.* 
+
+The great myth of the genius inventor lies in the templatesque story propagated throughout the social sphere. A lone genius comes up with a grand idea, hacks away at something in his lab and then creates an innovation that he then sells for a massive profit. The truth is that most innovations come about as toys, accidents, fringe experiments or fixes to some annoying problem. For example, Pencillin, the famous antibiotic, was a consequence of Alexander Fleming forgetting to wash his bacterial culture dishes. The chariot was built in the steppes by the early central-asian tribes to traverse it more effectively with their horses. It's very, very rare for truly disruptive innovation to develop from mainstream academic or industrial thought processes, and more likely for it to be something that is initially considered fringe, occult and esoteric ([reminder that Isaac Newton was a very weird person with no friends, spent very little time on physics and dedicated most of his life to predicting the return of Jesus christ and finding the recipe to the philosophers stone](https://en.wikipedia.org/wiki/Isaac_Newton%27s_occult_studies)).
+
+ In fact, we find that the mainstream top-down approach and argument from authrority is actually *bad* for innovation, and that fringe-tech in weird humble places works better. For example, neural networks were about to gain traction in the early days of AI, where it not for MIT AI lab head Marvin Minsky actual going out of his way to say that they were unusable and that his own "perceptron" method was better (Hint: it wasn't). What ended up happening was an AI funding winter where neural networks and AI as a field in general lagged behind for 20 years. 
+
+As I've written in my Artscience post, inventions and tools that start out as crafts are initially not taken seriously, but much often later down the line acquire serious artistic, scientific and engineering merit. For example[, origami , the kidfriendly paper-folding craft is now starting to be applied to designing and building spacecraft.](https://medium.com/purdue-engineering/origami-in-space-shape-changing-is-a-game-changer-a17ef290a587)
+
+![](spacecraft.png)
+
+Bottom-up engineering is what we can call "hacking". The origin of the word "hack" did not mean to break into computer security systems, but [to create unique, funny  and novel inventions](https://www.catb.org/jargon/html/meaning-of-hack.html). Take for example the hacker mindset from the ["hacker how to " website](http://www.catb.org/~esr/faqs/hacker-howto.html):
+
+> <!--StartFragment-->
+>
+> ## The Hacker Attitude
+>
+> * * [1. The world is full of fascinating problems waiting to be solved.](http://www.catb.org/~esr/faqs/hacker-howto.html#believe1)
+>   * [2. No problem should ever have to be solved twice.](http://www.catb.org/~esr/faqs/hacker-howto.html#believe2)
+>   * [3. Boredom and drudgery are evil.](http://www.catb.org/~esr/faqs/hacker-howto.html#believe3)
+>   * [4. Freedom is good.](http://www.catb.org/~esr/faqs/hacker-howto.html#believe4)
+>
+> <!--EndFragment-->
+
+Creative engineering doesn't come from an overlord giving instructions. Rather, we see that it's a process that comes from your own desire to play, experiment, tool, fabricate and reconstruct all the weird and wacky things that the world never knew it needed. This is something  hard to understand in a culture that consistently demands one be "practical" (an ever shifting transient definitions), but take the case of the first Iphone model.
+
+When the first iphone released, it had:
+
+* No app store 
+* No mobile data (Jobs had to convince AT&T and Verizon to actually make this happen)
+* It had no low processing power
+* Even the touchscreen aspect was glitchy
+
+For all intents and purposes, , it was product without a customer. But thing is, magical products, in the right time and place,  despite their gimmicky nature have this incredible capacity to *generate* their own use cases. It's this desire to experiment *with* their multifarious capacities and capabilities that builds an ecosystem around them. That's why invention, true creative innovation, can't happen within the mainstream. It has to be the "weird made cool". 
+
+Every powerful innovation is in some shape or form an instrument. Whether they be a scientific instrument (microscope) or artistic one (guitar). There's also this weird tendency for objects that can do both to be exalted to this otherworldly status of sacred. Instruments, especially musical ones, are the objects that led me to question my design education, because it seems to me that we use design to limit the abilities of the instrument to satisfy human needs rather than get humans to bypass their limits and merge with the potential of the instrument itself. Symbiosis is important yet lacking: How do we tap into the real potential of an invention as it  presents itself? We can either raise ponies that allow humans to trot on the field in peace and quiet, or we can raise horses that allow humans to move past their human speed limit and create figures like Alexander the Great and Genghis Khan. If design refuses to lean *into* engineering, we're going to be stuck in a vapid culture that loves to bring out the mediocre in the great.
+
+I think I need to learn how to hack stuff simply because that's what creative technology really is about: generating abilities and affordances we could not think of before.
+
+**Design: The grammar of coupling and usability**
