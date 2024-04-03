@@ -318,4 +318,4 @@ Obviously, the reason that I used the example of a modular synth is because the 
 
 Thus, design becomes something that encourages people to move past their limits and ***make full use of the energy*** captured in a device, system or innovation, and not the perception management and mediocrity encouragement practice that we see it as today. 
 
-![](asada.png "Dark souls and Violins are both difficult, yet when fully mastered, demonstrates the extent of human potential. Modern design assumes that we must make people lazier and appeal to their every vice and comfort. That's not empathy, that's just being a bad influence. And a lot of design's are just that. A bad influence tainted by the spell of corporate capital.")
+![](asada.png "Dark souls and Violins are both difficult, yet when fully mastered, demonstrates the extent of human potential. Modern design assumes that we must make people lazier and appeal to their every vice and comfort. That's not empathy, that's just being a bad influence. And a lot of design's are just that. A bad influence tainted by the spell of corporate capital. Yet what we also forget that self-improvement is a HUGE industry as well.")
