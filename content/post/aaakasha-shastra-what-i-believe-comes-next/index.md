@@ -348,6 +348,6 @@ So to summarize a consolidated generative language:
 
 **Engineering** -> The capture of forces and their transmutation into playful affordances, abilities and even *senses*  that allow us to do a lot more than previously 
 
-**Design** -> Making this potential usable, modular, customizable and tailor fit. 
+**Design** -> Making this potential usable, modular, customizable and tailor fit to a wide variety of people, as well as synergetic with other engineered systems
 
 I don't know what this could really look like in contemporary terms, but UCSB's [Allosphere](https://www.youtube.com/watch?v=u-D-zEToJQ4) is a good example. It's immersive, sublime, musical, scientific, modular and pretty much fulfills all of the above. But maybe I need to start making stuff to actually fulfill this outline of what I think lies beyond.
