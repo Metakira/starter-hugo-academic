@@ -191,7 +191,7 @@ Dostoevsky once said "Beauty will save the world". Why? Because while people fig
 
 The power of artistic beauty to rejuvenate the soul in a simulation of its own making is what gives it this incredible ability to ***create its own future.*** Desire is a powerful thing if we cage its need to consume the object of its desire, because then [it strives to create the object of desire itself.](https://www.theguardian.com/media-network/2015/aug/13/science-fiction-reality-predicts-future-technology) Consider that AI first appeared in sci-fi novels as a concept long before computers were even mainstream and before the field of machine learning itself, and we can begin to see how desire is a creative force if guided properly. 
 
-Art has the ability to generate a desire via its ability to inspire imagination for new ways of being if we are enveloped in its creative potential. In New Media art, this is probably a potential latent in immersive media specifically. 
+Art has the ability to generate a desire via its ability to inspire imagination for new ways of being if we are enveloped in its creative potential. In New Media art, this is probably a potential latent in immersive media specifically. It's like Kafka's *Metamorphosis* or the anime *Serial experiments Lain*. The mysterious and surreal nature of those stories generated millions of interpretations while also being sublime, impactful and profound.
 
 **Science: The grammar of evidence based conclusions**
 
@@ -211,7 +211,7 @@ Scientific modelling from complexity theory , such as the use of data science pr
 
 Personally, the research and ideation phase of design is clearly inspired by the scientific paradigm  and has been all the better for it. The ability to draw new conclusions and overthrow previous models is why science continuously evolves with the times and is sensible, because the ability to infer from reality is a powerful bottom-up process, one which design sorely needs. To illustrate the problems of top-down impositional conclusions, here's [a list of absurd cures for the Bubonic plague as a result of Europe using the top-down conclusions passed down to them from the Greeks](https://www.worldhistory.org/article/1540/medieval-cures-for-the-black-death/), before the microscope determined the existence of bacteria and kickstarted the field of medicine.
 
-Science is an attitude of observing and confirming reality as it that we must seek to cultivate through new media, if we are to have society solve its most difficult internal struggles. It's also a key to solving a larger crisis that I will expand upon later down this essay. I believe that I will benefit a lot from learning about the many intricacies of data-science and Complex systems modelling.
+Science is an attitude of observing and confirming reality as it that we must seek to cultivate through new media, if we are to have society solve its most difficult internal struggles. It's also a key to solving a larger crisis that I will expand upon later down this essay. I believe that I will benefit a lot from learning about the many intricacies of data-science and Complex systems modelling, especially since the later is oft applied to the study of biology and ecology.
 
 **Engineering: The grammar of constructed affordances and abilities**
 
@@ -223,7 +223,7 @@ The great myth of the genius inventor lies in the templatesque story propagated 
 
  In fact, we find that the mainstream top-down approach and argument from authrority is actually *bad* for innovation, and that fringe-tech in weird humble places works better. For example, neural networks were about to gain traction in the early days of AI, where it not for MIT AI lab head Marvin Minsky actual going out of his way to say that they were unusable and that his own "perceptron" method was better (Hint: it wasn't). What ended up happening was an AI funding winter where neural networks and AI as a field in general lagged behind for 20 years. 
 
-As I've written in my Artscience post, inventions and tools that start out as crafts are initially not taken seriously, but much often later down the line acquire serious artistic, scientific and engineering merit. For example[, origami , the kidfriendly paper-folding craft is now starting to be applied to designing and building spacecraft.](https://medium.com/purdue-engineering/origami-in-space-shape-changing-is-a-game-changer-a17ef290a587)
+As I've written in my Artscience post, inventions and tools that start out as crafts are initially not taken seriously, but much often later down the line acquire serious artistic, scientific and engineering merit. For example[, origami , the kidfriendly paper-folding craft is now starting to be applied to designing and building spacecraft.](https://medium.com/purdue-engineering/origami-in-space-shape-changing-is-a-game-changer-a17ef290a587) Tools may start out as fun past-times or gimmicks, but by extending the human senses and consequently the human mind, they possess the ability to generate new perceptions.
 
 ![](spacecraft.png)
 
@@ -242,7 +242,7 @@ For all intents and purposes, , it was product without a customer. But thing is,
 
 Every powerful innovation is in some shape or form an instrument. Whether they be a scientific instrument (microscope) or artistic one (guitar). There's also this weird tendency for objects that can do both to be exalted to this otherworldly status of sacred. Instruments, especially musical ones, are the objects that led me to question my design education, because it seems to me that we use design to limit the abilities of the instrument to satisfy human needs rather than get humans to bypass their limits and merge with the potential of the instrument itself. Symbiosis is important yet lacking: How do we tap into the real potential of an invention as it  presents itself? We can either raise ponies that allow humans to trot on the field in peace and quiet, or we can raise horses that allow humans to move past their human speed limit and create figures like Alexander the Great and Genghis Khan. If design refuses to lean *into* engineering, we're going to be stuck in a vapid culture that loves to bring out the mediocre in the great.
 
-I think I need to learn how to hack stuff simply because that's what creative technology really is about: generating abilities and affordances we could not think of before.
+I think I need to learn how to hack stuff simply because ***that's what creative technology really is about***: generating new, creative ways of doing and being that we could not think of before. *The creative potential latent to technological instruments.*
 
 **Design: The grammar of coupling and usability**
 
@@ -304,9 +304,9 @@ To be honest, this kind of design is so alien to me that I'm not sure of what ex
 
 ![](https://images.squarespace-cdn.com/content/v1/5df94dc4f40e87030eeeacee/1c3be14e-dd0d-4cf7-8cbf-090361e3e620/material+design.png "With the idea of \"design systems\" (and GenAI) we have already solved the problem of cohesiveness in a kit of parts, visually")
 
-![](ert5oytym7dz.jpg "Ideally it would be like a synth, where each module can be independently constructed yet plugged-in to one another in one coherent powerful system. And much like how we \"play\" with the getting the right modules to get a good setup as well as \"play\" with the knobs to get a good generative beat going, designing systems and their outcomes will be a product of playfulness.")
+![](ert5oytym7dz.jpg "Ideally it would be like a  modular synth  (a machine that makes music via electrici signal processing), where each module can be independently constructed yet plugged-in to one another in one coherent powerful system. And much like how we \"play\" with the getting the right modules to get a good setup as well as \"play\" with the knobs to get a good generative beat going, designing systems and their outcomes will be a product of playfulness.")
 
-![](osc-1.jpg "In a prototypical fashion, certain inter-messaging protocols allow two programs to be completely distinct and yet make full use of the other's capabilities. Software companies have begun to notice this, which is why many of them are pivoting to open-standards and intercommunication protocols. Now, how do we design for both modulation of internal components of a system as well direct modulation of exernal programs as well?")
+![](osc-1.jpg "In a prototypical fashion, certain inter-messaging protocols allow two programs to be completely distinct and yet make full use of the other's capabilities. Software companies have begun to notice this, which is why many of them are pivoting to open-standards and intercommunication protocols. Now, how do we design for both modulation of internal components of a system as well direct modulation of exernal programs as well? OSC allows Unreal Engine and Touchdesigner to \"gain\" each others powers and abilities unique to each other, creating a powerful example of symbiosis.")
 
 What I am probably trying to advocate for myself is, just like Barthes called for "death of the author" as a way to separate an author from their creative output (like how you separate JK rowling from Harry Potter), I'm calling for **death of the designer** *where* the designer is actually separate from what the final outcome and potential of the design itself would be. In this manner, the designer's job would be twofold:
 
@@ -344,10 +344,12 @@ So to summarize a consolidated generative language:
 
 **Art** -> Immersive, emotional and sublime beauty that generates novel imagination, sanctuary and transcendence
 
-**Science** -> The discovery of nature's truths , mechanisms and forces *as they are*  and the construction of models simulating them
+**Science** -> The discovery of  truths, mechanisms and forces *as they are*  and the construction of models simulating them, allowing for new developments to overthrow the old.
 
 **Engineering** -> The capture of forces and their transmutation into playful affordances, abilities and even *senses*  that allow us to do a lot more than previously 
 
-**Design** -> Making this potential usable, modular, customizable and tailor fit to a wide variety of people, as well as synergetic with other engineered systems
+**Design** -> Making this potential usable, modular, customizable and tailor fit to a wide variety of people, as well as *synergistically coupled* with other dynamic systems, like the relationship between a bee and a flower. 
 
 I don't know what this could really look like in contemporary terms, but UCSB's [Allosphere](https://www.youtube.com/watch?v=u-D-zEToJQ4) is a good example. It's immersive, sublime, musical, scientific, modular and pretty much fulfills all of the above. But maybe I need to start making stuff to actually fulfill this outline of what I think lies beyond.
+
+These artefacts create new ideas, new abilities, new discoveries and new expressions in those that experience them , and can thus be called a generative artefact. This may seem like something new, but they've been here before, only to look like something that landed from outer space when they first released, like the printing press, the personal computer, the modular synthesizer, and most recently generative AI.
