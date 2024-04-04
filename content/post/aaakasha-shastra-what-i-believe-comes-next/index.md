@@ -355,7 +355,7 @@ Eastern cultures work in circles and space, as opposed to the Western idea of li
 
 Another example that comes to mind (I have a lot but it would massively extend this article), is the idea of *avatara.* This is a direct consequence of the Hindu belief in *Brahman* , a field of conscious, imperceptible space from whose matrix emerges individual forms with their unique attributes. 
 
-![](https://m.media-amazon.com/images/I/8161p8OinzL._AC_UF1000,1000_QL80_.jpg)
+![](https://study.com/cimages/multimages/16/1avatar4043546336077231044.jpg)
 
 This aspect becomes very interesting, after I quote this from the *Computational Design thinking* reader:
 
