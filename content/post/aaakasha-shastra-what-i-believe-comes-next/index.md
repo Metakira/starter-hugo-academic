@@ -285,9 +285,9 @@ To be honest, this kind of design is so alien to me that I'm not sure of what ex
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*Hk7CmXXBxIGyZwNrzTanmQ.png "Stable Diffusion, an AI diffusion model, can help users generate custom models, merge them with other models, generate custom images in a certain style or even use another person's model. At  some level, this is a proto-generative graphic design process.")
 
-![](https://images.squarespace-cdn.com/content/v1/5df94dc4f40e87030eeeacee/1c3be14e-dd0d-4cf7-8cbf-090361e3e620/material+design.png "With the idea of \\\\"design systems\\\\" (and GenAI) we have already solved the problem of cohesiveness in a kit of parts, visually")
+![](https://images.squarespace-cdn.com/content/v1/5df94dc4f40e87030eeeacee/1c3be14e-dd0d-4cf7-8cbf-090361e3e620/material+design.png "With the idea of \"design systems\" (and GenAI) we have already solved the problem of cohesiveness in a kit of parts, visually")
 
-![](ert5oytym7dz.jpg "Ideally it would be like a  modular synth  (a machine that makes music via electrical signal processing), where each module can be independently constructed yet plugged-in to one another in one coherent powerful system. And much like how we \\"play\\" with the getting the right modules to get a good setup as well as \\"play\\" with the knobs to get a good generative beat going, designing systems and their outcomes will be a product of playfulness.")
+![](ert5oytym7dz.jpg "Ideally it would be like a  modular synth  (a machine that makes music via electrical signal processing), where each module can be independently constructed yet plugged-in to one another in one coherent powerful system. And much like how we \"play\" with the getting the right modules to get a good setup as well as \\"play\\" with the knobs to get a good generative beat going, designing systems and their outcomes will be a product of playfulness.")
 
 What I am probably trying to advocate for myself is, just like Barthes called for "death of the author" as a way to separate an author from their creative output (like how you separate JK rowling from Harry Potter), I'm calling for **death of the designer** *where* the designer is actually separate from what the final outcome and potential of the design itself would be. In this manner, the designer's job would be twofold:
 
@@ -307,7 +307,7 @@ This idea is a little too schizo and far fetched, and to be honest, I really don
 
 This is where design moves from a topdown physical craft based model to a biological bottom-up generative *breeding* of solutions model. Yes, I know it sounds strange, but stay with me. 
 
-![](gendesign.png "Generative design looks more like genome sequencing and \\"breeding\\" the final optimal solution in a space of possibilities. Here the genes x,y and z correspond to the length, width and height of the box.")
+![](gendesign.png "Generative design looks more like genome sequencing and \"breeding\" the final optimal solution in a space of possibilities. Here the genes x,y and z correspond to the length, width and height of the box.")
 
 Design then becomes the task of creating and living within a creative universe, and then subsequently guiding its evolution. What we have to do is to still make things usable, but we have to divorce ourselves from what the final design actually ends up looking it (when it stops being the object that designers want and starts being the object that users want) and what it is fully capable of (including how it interacts with things outside of it). This last part becomes more relevant especially when design's reach becomes spatial and we have to design for crowds of "users", including people from all walks of life both regular users and absolute newbies. 
 
