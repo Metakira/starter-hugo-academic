@@ -309,6 +309,8 @@ To be honest, this kind of design is so alien to me that I'm not sure of what ex
 
 ![](https://images.squarespace-cdn.com/content/v1/5df94dc4f40e87030eeeacee/1c3be14e-dd0d-4cf7-8cbf-090361e3e620/material+design.png "With the idea of \"design systems\" (and GenAI) we have already solved the problem of cohesiveness in a kit of parts, visually")
 
+![](7b5ad308995bdfe91fe44cbd0b370088.jpg "User modding, both software and hardware, adds personal flavour to the design language of the original")
+
 ![](ert5oytym7dz.jpg "It's like modular synth culture. Playfully build, playfully arrange, play with your knobs and generate music.")
 
 What I am probably trying to advocate for myself is, just like Barthes called for "death of the author" as a way to separate an author from their creative output (like how you separate JK Rowling from Harry Potter), I'm calling for **death of the designer** *where* the designer is actually separate from what the final outcome and potential of the design itself would be. In this manner, the designer's job would be twofold:
@@ -376,6 +378,8 @@ But in the worlds of science and data, we're beginning to shifts. Now, scientist
 Eastern cultures work in circles and space, as opposed to the Western idea of lines and linearity. We can observe this most directly in terms of how religions in each hemisphere view the afterlife (heaven vs reincarnation as line from A to B versus Cyclic repetition), as well as creation stories. In Genesis (the first book of the bible), god first exclaims "let there be light", after which creation is molded by god's hand. In Hinduism however, creation bursts through the first *sound*, the ***shabda*** whose vibrations dynamically materialize the universe. This is one of the many instances where Indian thought takes the idea of *emergent spatiality* very seriously, most notably in the figure of the *yantra*  as a geometrical visual representation a sound based *mantra*.
 
 Another example that comes to mind (I have a lot but it would massively extend this article), is the idea of *avatara.* This is a direct consequence of the Hindu belief in *Brahman* , a field of conscious, imperceptible space from whose matrix emerges individual forms with their unique attributes. 
+
+![](https://i.pinimg.com/736x/18/d2/ff/18d2ff6ccecec5be8b517214c194e099.jpg)
 
 This aspect becomes very interesting, after I quote this from the *Computational Design thinking* reader:
 
