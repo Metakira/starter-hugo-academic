@@ -317,7 +317,7 @@ What I am probably trying to advocate for myself is, just like Barthes called fo
 
 1. Building a powerful, creative and  generative system via crowdsourced data
 2. Finding the best space within the immensity of those generated possibilities and reaching an optimal" zone" where those possibilities are various enough for choice yet not too many to paralyze  
-3. Giving the participant the ability to choose their design solution.
+3. Giving the participant the ability to choose and personally finetune their design solution.
 
 Obviously, the reason that I used the example of a modular synth is because the selection process of those said possibilities will probably require *parameters* i.e Knobs and buttons determining how much of a certain trait you want in a solution. 
 
