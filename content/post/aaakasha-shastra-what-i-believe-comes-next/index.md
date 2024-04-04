@@ -317,8 +317,6 @@ To be honest, this kind of design is so alien to me that I'm not sure of what ex
 
 ![](ert5oytym7dz.jpg "Ideally it would be like a  modular synth  (a machine that makes music via electrical signal processing), where each module can be independently constructed yet plugged-in to one another in one coherent powerful system. And much like how we \\\\"play\\\\" with the getting the right modules to get a good setup as well as \\\\"play\\\\" with the knobs to get a good generative beat going, designing systems and their outcomes will be a product of playfulness.")
 
-![](osc-1.jpg "In a prototypical fashion, certain inter-messaging protocols allow two programs to be completely distinct and yet make full use of the other's capabilities. Software companies have begun to notice this, which is why many of them are pivoting to open-standards and intercommunication protocols. Now, how do we design for both modulation of internal components of a system as well direct modulation of exernal programs as well? OSC allows Unreal Engine and Touchdesigner to \\\\"gain\\\\" each others powers and abilities unique to each other, creating a powerful example of symbiosis.")
-
 What I am probably trying to advocate for myself is, just like Barthes called for "death of the author" as a way to separate an author from their creative output (like how you separate JK rowling from Harry Potter), I'm calling for **death of the designer** *where* the designer is actually separate from what the final outcome and potential of the design itself would be. In this manner, the designer's job would be twofold:
 
 1. Building a powerful, creative and  generative system via crowdsourced data
@@ -340,8 +338,6 @@ Obviously, the reason that I used the example of a modular synth is because the 
 ![](computational-design.png)
 
 Thus, design becomes something that encourages people to move past their limits and ***make full use of the energy*** captured in a device, system or innovation, and not the perception management and mediocrity encouragement practice that we see it as today. 
-
-![](asada.png "Dark souls and Violins are both difficult, yet when fully mastered, demonstrates the extent of human potential. Modern design assumes that we must make people lazier and appeal to their every vice and comfort. That's not empathy, that's just being a bad influence. And a lot of design's are just that. A bad influence tainted by the spell of corporate capital. Yet what we also forget that self-improvement is a HUGE industry as well. People don't want to be lazy, they do want to make their lives better. How do we encourage our users to have better lives and take better decisions?")
 
 In this manner, I think the future of design has to be some amalgamation of all of the above. An interesting aspect of why I think the above is necessary is because software and internet systems in general resemble a living organism undergoing change and updates rather than physical object. You can dynamically add features to and take away from a software like Adobe photoshop for example, which you cannot for say an Ipad.
 
@@ -410,8 +406,6 @@ This aspect becomes very interesting, after I quote this from the *Computational
 ![](https://blog.hootsuite.com/wp-content/uploads/2023/06/ai-art-prompt-4.png "One prompt can appear as a variety of outputs from a given abstract model.")
 
 When we think of Generative design as the training of design models with data and creating emergent design from that via parameters, this strange yet analogical impression must be given a change. Generative design, in some way, fits Indian philosophy. How that came to be, I do not know, but it's here and it ***works.***
-
-![](https://www.assemblymag.com/ext/resources/Issues/2019/FoF/software/asbfotf0519gen2.jpg?t=1556733100&width=1080 "Example from Generative design in manufacturing.")
 
 Sound runs through the core of Indian thought and practice. India has been a historically oral culture, with many artifacts of its literature passed down via spoken word and memorized in its entirety (This is why the veda's have been cryptic, because the actual meaning of what is being said can only be understood via certain aspects of how it is vocally expressed). The *Bhagavad Gita* , a holy book of Hinduism, translates very literally to "The Song of God". We see that sound is running thread throughout Indian thought, and this must be paid attention to. 
 
