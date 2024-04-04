@@ -315,7 +315,7 @@ To be honest, this kind of design is so alien to me that I'm not sure of what ex
 
 ![](https://images.squarespace-cdn.com/content/v1/5df94dc4f40e87030eeeacee/1c3be14e-dd0d-4cf7-8cbf-090361e3e620/material+design.png "With the idea of \\\"design systems\\\" (and GenAI) we have already solved the problem of cohesiveness in a kit of parts, visually")
 
-![](ert5oytym7dz.jpg "Ideally it would be like a  modular synth  (a machine that makes music via electrical signal processing), where each module can be independently constructed yet plugged-in to one another in one coherent powerful system. And much like how we \\\\"play\\\\" with the getting the right modules to get a good setup as well as \\\\"play\\\\" with the knobs to get a good generative beat going, designing systems and their outcomes will be a product of playfulness.")
+![](ert5oytym7dz.jpg "Ideally it would be like a  modular synth  (a machine that makes music via electrical signal processing), where each module can be independently constructed yet plugged-in to one another in one coherent powerful system. And much like how we \"play\" with the getting the right modules to get a good setup as well as \"play\" with the knobs to get a good generative beat going, designing systems and their outcomes will be a product of playfulness.")
 
 What I am probably trying to advocate for myself is, just like Barthes called for "death of the author" as a way to separate an author from their creative output (like how you separate JK rowling from Harry Potter), I'm calling for **death of the designer** *where* the designer is actually separate from what the final outcome and potential of the design itself would be. In this manner, the designer's job would be twofold:
 
@@ -333,10 +333,6 @@ What I am probably trying to advocate for myself is, just like Barthes called fo
 
 Obviously, the reason that I used the example of a modular synth is because the selection process of those said possibilities will probably require *parameters* i.e Knobs and buttons determining how much of a certain trait you want in a solution.
 
-![](linear-design.png)
-
-![](computational-design.png)
-
 Thus, design becomes something that encourages people to move past their limits and ***make full use of the energy*** captured in a device, system or innovation, and not the perception management and mediocrity encouragement practice that we see it as today. 
 
 In this manner, I think the future of design has to be some amalgamation of all of the above. An interesting aspect of why I think the above is necessary is because software and internet systems in general resemble a living organism undergoing change and updates rather than physical object. You can dynamically add features to and take away from a software like Adobe photoshop for example, which you cannot for say an Ipad.
@@ -347,9 +343,7 @@ This idea is a little too schizo and far fetched, and to be honest, I really don
 
 This is where design moves from a topdown physical craft based model to a biological bottom-up generative *breeding* of solutions model. Yes, I know it sounds strange, but stay with me. 
 
-![](gendesign.png "Generative design looks more like genome sequencing and \\\\"breeding\\\\" the final optimal solution in a space of possibilities. Here the genes x,y and z correspond to the length, width and height of the box.")
-
-![](antenna-design.jpg "Some people have even commented that Generative Design solutions constructed by deep learning algorithms, though far more effective than human designs, look like strange alien biology.")
+![](gendesign.png "Generative design looks more like genome sequencing and \"breeding\" the final optimal solution in a space of possibilities. Here the genes x,y and z correspond to the length, width and height of the box.")
 
 Design then becomes the task of creating and living within a creative universe, and then subsequently guiding its evolution. What we have to do is to still make things usable, but we have to divorce ourselves from what the final design actually ends up looking it (when it stops being the object that designers want and starts being the object that users want) and what it is fully capable of (including how it interacts with things outside of it). This last part becomes more relevant especially when design's reach becomes spatial and we have to design for crowds of "users", including people from all walks of life both regular users and absolute newbies. 
 
@@ -397,7 +391,7 @@ Eastern cultures work in circles and space, as opposed to the Western idea of li
 
 Another example that comes to mind (I have a lot but it would massively extend this article), is the idea of *avatara.* 
 
-![](https://miro.medium.com/v2/resize:fit:1107/0*dNVT9LwII3X43o2W.jpg "Vishnu is being whose multiplicity incarnates in many diverse forms. This is due to the belief is \\"Brahman\\", where the entire universe is a singular conscious substance and multiple forms emerge from this matrix.")
+![](https://miro.medium.com/v2/resize:fit:1107/0*dNVT9LwII3X43o2W.jpg "Vishnu is being whose multiplicity incarnates in many diverse forms. This is due to the belief is \"Brahman\\", where the entire universe is a singular conscious substance and multiple forms emerge from this matrix.")
 
 This aspect becomes very interesting, after I quote this from the *Computational Design thinking* reader:
 
@@ -423,7 +417,7 @@ This is also something strange, but bear with me. Two quotes, one from the "Comp
 >
 > "The whole, the Nyaya philosophers maintain, is something different (arhantara) from its parts, even as a melody is something more than a sum of its notes..... The whole and the parts are related by way of inherence'
 >
-> \-pg 179k, Indian Philosophy volume 2
+> \-pg 179, Indian Philosophy volume 2
 
 The reason for this is probably due to the Idea that the universe is of cosmic intelligence. Brahman, the all pervading matrix from which substances *e*merge in their individual forms, is a *conscious* matter. This is a very sharp contrast to the mechanistic model of the universe as promoted [originally by the Greeks and later by Descartes](https://go.gale.com/ps/i.do?id=GALE%7CA89380915&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=01479369&p=AONE&sw=w&userGroupName=anon%7Ecf90014b&aty=open-web-entry)
 
