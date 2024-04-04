@@ -128,7 +128,7 @@ Capitalism's influence on design outcomes will always stay, and businesses do no
 
 The eye of capitalism becomes ever more determining of reality, and if we look close enough, American capitalism, through the large scale societal outcomes manufactured by dark design patterns,  is turning culture itself into one giant[ Casino machine](https://www.honest-broker.com/p/the-state-of-the-culture-2024).
 
-![](dopamine-culture.png "Credits: Ted Gioa, \\\\\\\\"The honest Broker\\\\\\\\" substack")
+![](dopamine-culture.png "Credits: Ted Gioa, \"The honest Broker\" substack")
 
 #### **Generative AI and Synthetic Media**
 
