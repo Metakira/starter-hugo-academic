@@ -43,7 +43,7 @@ A lot of important trends have taken place that design, as a field, really hasn'
 
 ![](v7sj89c8emq91.jpg "The top left hard drive is probably 120 mb, and the micro sd card to the bottom right is probably around 16 gb. ")
 
-The above image showcases the development of storage devices over 45 years. What we can directly infer from this evolution is that personal storage is getting smaller, more dense and more mobile. The factors that have driven this growth is something called "moore's law", which states that *that the number of transistors in an integrated circuit (IC) doubles about every two years*. What this results in, is something futurist Ray Kurzweil called the "law of accelerating returns.
+The above image showcases the development of storage devices over 45 years. What we can directly infer from this evolution is that personal storage is getting smaller, more dense and more mobile. The factors that have driven this growth is something called "moore's law", which states that *that the number of transistors in an integrated circuit (IC) doubles about every two years*. What this results in, is something futurist Ray Kurzweil called the "law of accelerating returns".
 
 ![](1688887152091.png "How computers improve exponentially over the years")
 
@@ -393,10 +393,36 @@ Whatever "it" is, it's musical at is core.
 
 *  **Indian philosophy, somehow, in many ways fits complexity thinking better.**
 
+This is also something strange, but bear with me. Two quotes, one from the "Computational Design Thinking" reader by Menges and Ahlquist and another from "Indian Philosophy Vol. 2" by S. Radhakrishnan
 
+> "The holistic nature cannot be seen in the individual part, nor can it be seen in the addition of its parts. The system behavior only emerges in the dynamics of the interactions of its parts. This is not a cumulative linear effect but a cyclic causal effect in which the complexity of the level and amount of interaction **cannot be directly deciphered.**"
+>
+> \-pg 15, Computational design thinking Reader
+>
+> "The whole, the Nyaya philosophers maintain, is something different (arhantara) from its parts, even as a melody is something more than a sum of its notes..... The whole and the parts are related by way of inherence'
+>
+> \-pg 179k, Indian Philosophy volume 2
 
+The reason for this is probably due to the Idea that the universe is of cosmic intelligence. Brahman, the all pervading matrix from which substances *e*merge in their individual forms, is a *conscious* matter. This is a very sharp contrast to the mechanistic model of the universe as promoted [originally by the Greeks and later by Descartes](https://go.gale.com/ps/i.do?id=GALE%7CA89380915&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=01479369&p=AONE&sw=w&userGroupName=anon%7Ecf90014b&aty=open-web-entry)
 
+Emergence, systems intelligence, transience, chaos and complexity all work with Indian philosophy better. To map it out completely then, is a monumental task that can bear a huge variety of real fruit of labour.
 
 
 
 # So what is *Akaasha-shaastra*?
+
+*Akaasha-shastra* is a combination of two words. It is difficult to translate, and may sound huge pretentious (as well as borderline nationalistic), but I have genuinely coined this term because its a great way to neatly encompass what I want to do. 
+
+First, *Akaasha.* The world itself is a reference to the element of "akaasha" (roughly 'ether') from the Nyaya school of atomic theory. Akaasha in modern times seems to be translated as space, but a better paraphrasing would be ether, negation or simply "information" (as I see it). Akasha, as defined in the Nyaya literature, is the medium that gives rise to "shabda" or sound, and is of celestial and cosmic nature. Akaasha is thus an undefinable space where the gods reside and magic weapons are formulated. 
+
+Analogically, I'd like to think of it as the media of information . A computer can process an image of a triangle and display it on a screen, but if we unplug the screen, where's the triangle? There's no literal triangle, it's a sequence of beeps and boops. Likewise, when people imagine a triangle, there's not literal triangle in their brain, it's just the manifestation of neural information pathways. In a larger context, I'd like to think of information as celestial media that precedes the creation of the universe itself. 
+
+The word "celestial" and "cosmic" is such a great way to describe what I want to do, whether it be the space-like ambience of a modular synth, the immersive worlds of XR or the universes of data that manifest via the creative potential of deep learning[ latent space](https://theacademic.com/generative-models-and-their-latent-space/) in Generative Design, or may the infinite space of possibilities of new media itself, the cosmic and the celestial potential of the media arts practitioner is a a magical way to think about all of this. A universe doesn't need a religion or a set of values to appear magical, awe inspiring and sacred. It's us as humans in our imperfect nature, fueled by the ever consuming desire of consumerism that have turned away from what beauty *truly is.*
+
+*Shaastra*  means "compendium", but I take my definition from Bharata yet again. In the *Natyashastra,* he advocates a unitary synthesis between all disciplines, especially art and science (similar to Wagner's *Gesamkunstwerk* .or "total art"), yet Bharata takes a peculiarly modern stance by saying " treat this not as a manual, but a compendium. Take what you need, follow what works, and change the rules if the situation requires it). This is a huge contrast to modern founding texts, whose institutional influence actually prevents further progress by acting as a sort of holy book whose tenets must neither be questioned nor disobeyed. 
+
+In many ways, *Shastra* is kind of like Deleuze and Guattari's Rhizome: An open system whose ingestion doesn't constrain by being a holy manual, but a way to generate ever more creative potentialities as a modular system whose modules you can actively include or ignore.
+
+So if I had to translate, it would be " The Art and Science of Celestial Sonorous media", but I guess that still wouldn't cover everything.
+
+I hope It's still enough of a map to find my way out there in the real world.
