@@ -389,7 +389,7 @@ Eastern cultures work in circles and space, as opposed to the Western idea of li
 
 Another example that comes to mind (I have a lot but it would massively extend this article), is the idea of *avatara.* 
 
-![](https://miro.medium.com/v2/resize:fit:1107/0*dNVT9LwII3X43o2W.jpg "Vishnu is being whose multiplicity incarnates in many diverse forms. This is due to the belief is \"Brahman\\", where the entire universe is a singular conscious substance and multiple forms emerge from this matrix.")
+![](https://m.media-amazon.com/images/I/8161p8OinzL._AC_UF1000,1000_QL80_.jpg)
 
 This aspect becomes very interesting, after I quote this from the *Computational Design thinking* reader:
 
