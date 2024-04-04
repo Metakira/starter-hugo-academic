@@ -11,7 +11,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-:
+
 
 After four years of my studies at Srishti, and with less than two months left for my graduation, the time obviously comes for every undergraduate student to answer a very critical question:
 
@@ -25,15 +25,17 @@ For some, this may be giving up on the subject of their undergraduate degree alt
 
 All these paths, to me, are equally valid. There is nothing wrong with any of these directions.
 
-To me however, the past 5 years have only instilled in me a deep sense of dissatisfaction, and an even deeper sense of curiosity. Many years of talking, doing, making, both succeeding and failing, both teaching and learning, from the many people I've met along the journey as well as my own nature as a person, have led me to the conclusion that there are many things in this world that need to be answered, and many fuzzy, barely perceptible things need to be brought to light. 
+The past 5 years have only instilled in me a deep sense of dissatisfaction, and an even deeper sense of curiosity. Many years of talking, doing, making, both succeeding and failing, both teaching and learning, from the many people I've met along the journey as well as my own nature as a person, have led me to the conclusion that there are many things in this world that need to be answered, and many fuzzy, barely perceptible things need to be brought to light. 
 
 As I see it, there are two gaps to be bridged. 
 
-One, the gap between what the world needs and what we are capable of doing to address those needs, and Two, my desires as a person and my capacity to act on and fulfill those desires.
+**One**, the gap between what the world needs and what we are capable of doing to address those needs, and **Two**, my desires as a person and my capacity to act on and fulfill those desires.
 
 Obviously, the nature of what I intend to accomplish with my career as a project may span many, many years, with no end in sight. It may require a tenacity, work ethic, resilience and perseverance that I may not possess. Yet, a whisper still rings in my heart, that what I believe -nay, what I have faith in- must be accomplished, even if it is imperfect. I may succeed or fail, but it has to be outlined, demarcated, expressed, even in its roughest impure form.
 
-So, what are my larger goals? What exactly are the grand ambitions of this clueless, broke armchair-philosopher 23 year old? I've written this to clarify what my field and intentions are, so as to dispel any confusion.
+So, what are my larger goals? What exactly are the grand ambitions of this clueless, broke armchair-philosopher 23 year old? I've written this to clarify what my field and intentions are, so as to dispel any confusion. This is going to be a VERY long read that can be dry at times, so please note before you proceed.
+
+
 
 # New needs, New developments
 
@@ -71,7 +73,7 @@ Industrial ( Early days of US millitary) ->
 
 \->  Personal (Apple Macintosh)  ->
 
-\-> Mobile (Iphone) -> Wearable (smar
+\-> Mobile (Iphone) -> 
 
 \-> Wearable (smartwatches) ->
 
@@ -89,6 +91,14 @@ What we are actively seeing happen is the transformation of computers from inert
 The problem then becomes clearer that current design models are derivative of the mother disciplines of industrial and graphic design, both themselves representative of a top down approach that is great at dealing with inert objects but struggles with the complexity of living creatures. The implication is that after a certain threshold is reached, the [reductionist enlightenment era physical model](https://patterns.architexturez.net/doc/az-cf-172819) that we have used for design will have to eventually give way due to being insufficient.
 
 It's safe to say that current design methodology is good enough, but doesn't really make complete use of what computers *really* are and what they eventually will become.  As a wise (disgraced) man once said:
+
+> <!--StartFragment-->
+>
+> “ Design has also evolved from the design of objects, both physical and material, to the design of systems, to the design of complex adaptive systems. This evolution is shifting the role of designers; they are no longer the central planners, but participants within the systems in which they work. ***This is a fundamental shift- one that requires a new set of values”***
+>
+> * Joi Ito, former MIT media lab director
+>
+> <!--EndFragment-->
 
 #### **The emergence and evolution of the Internet (Metcalfe's law)**
 
@@ -113,7 +123,8 @@ Fighting against data is pointless, and designers will be on a losing streak if 
 1. Design outcomes become more "abstract"
 2. Design increasingly divorces itself  from its craft-based Bauhausian roots
 3. Design approaches problems of increasing scale
-4. The outcomes stay in "place" for longer and are more spatial
+4. The outcomes stay in "place" for longer and its field of influence grows
+5. Design itself, like computing, becomes more "invisible" and automatic
 
 For example:
 
@@ -123,7 +134,7 @@ Capitalism's influence on design outcomes will always stay, and businesses do no
 
 The eye of capitalism becomes ever more determining of reality, and if we look close enough, American capitalism, through the large scale societal outcomes manufactured by dark design patterns,  is turning culture itself into one giant[ Casino machine](https://www.honest-broker.com/p/the-state-of-the-culture-2024).
 
-![](dopamine-culture.png "Credits: Ted Gioa, \\\"The honest Broker\\\" substack")
+![](dopamine-culture.png "Credits: Ted Gioa, \\\\"The honest Broker\\\\" substack")
 
 #### **Generative AI and Synthetic Media**
 
@@ -149,11 +160,15 @@ The slide is interesting because in the wake of generative AI, the above equatio
 
 Synthetic media is fast, it's powerful, it has access to numbers you as a person don't, can perform many more iterations at a faster rate than you do and even if it isn't perfect, it's good enough for businesses to ship. This last sentence is more key because culture , due to Moore's law, is accelerating at previously little understood paces, and now any business that works with the power of the internet and computers has much much more to gain than the Bauhasian perfectionism of early design culture.
 
-Take for example the current headset war between Apple and Meta. Apple spent years on the Vision pro, as early as 2016, and in the end, to much hype and glory, announced the arrival of "spatial computing". Meta on the other hand, ran into the ground headfirst with its hugely mocked "metaverse" and the little spoken of Quest 3. Yet Meta's approach, which decided to go open source and imperfect as long as it hit the ground running, now came up with ***[the actual better product for its price](https://www.hindustantimes.com/technology/quest-is-better-than-vision-pro-why-zuckerberg-rates-meta-vr-above-apples-101707914233437.html).*** [Many have now returned their "overpriced" Vision Pros'](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theverge.com/2024/2/14/24072792/apple-vision-pro-early-adopters-returns&ved=2ahUKEwi9mvb60KOFAxVBa2wGHUIrDlEQFnoECCAQAQ&usg=AOvVaw2_-AYW93zIs4FLq9UeVvxP), and I believe Apple knew it, which is why they manufactured very few units of the same. Apple has understood , to some degree, that it's closed source perfectionist approach is starting to lose in business and leaving them in the dust, which is probably why it released its [Ferret LLM AI model as open-source on github.](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.techopedia.com/apple-unveils-ferret-an-open-source-genai-for-vision-language-tasks&ved=2ahUKEwjXtOSd0aOFAxXfbmwGHQxjCx0QFnoECDAQAQ&usg=AOvVaw1CmaAFdS4QxMLNgwXzeKr2)
+Take for example the current headset war between Apple and Meta. Apple spent years on the Vision pro, as early as 2016, and in the end, to much hype and glory, announced the arrival of "spatial computing". Meta on the other hand, ran into the ground headfirst with its hugely mocked "metaverse" and the little spoken of Quest 3. 
+
+Yet Meta's approach, which decided to go open source and imperfect as long as it hit the ground running, now came up with ***[the actual better product for its price](https://www.hindustantimes.com/technology/quest-is-better-than-vision-pro-why-zuckerberg-rates-meta-vr-above-apples-101707914233437.html).*** [Many have now returned their "overpriced" Vision Pros'](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theverge.com/2024/2/14/24072792/apple-vision-pro-early-adopters-returns&ved=2ahUKEwi9mvb60KOFAxVBa2wGHUIrDlEQFnoECCAQAQ&usg=AOvVaw2_-AYW93zIs4FLq9UeVvxP), and I believe Apple knew it, which is why they manufactured very few units of the same. Apple has understood , to some degree, that it's closed source perfectionist approach is starting to lose in business and leaving them in the dust, which is probably why it released its [Ferret LLM AI model as open-source on github.](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.techopedia.com/apple-unveils-ferret-an-open-source-genai-for-vision-language-tasks&ved=2ahUKEwjXtOSd0aOFAxXfbmwGHQxjCx0QFnoECDAQAQ&usg=AOvVaw1CmaAFdS4QxMLNgwXzeKr2)
 
 In the age of rapid change, first and "good enough" shatters the perfectionism of design hubris, which is why designers are going to be in for a huge shock if they think companies will be open minded to month long research cycles and relatively small scale prototyping phases. AI is a threat, and design, despite the showboating, is clearly clueless as a discipline on how to effectively utilize it.
 
 The dangers of synthetic media, however, are even more grim. For the first time in history, people's faces and voices can be separated from their body, and evidence can be cooked from straight up from nothing. Synthetic exacerbates the growing problem of a [post-truth society](https://en.wikipedia.org/wiki/Post-truth), where deception prevails, and truth imperceptible. However, tackling synthetic media in and of its own is still not an often talked about topic, despite this specific issue being the utmost priority to tackle for proponents of design justice.
+
+
 
 # A need for a novel syncretism
 
@@ -161,7 +176,9 @@ The dangers of synthetic media, however, are even more grim. For the first time 
 
 Syncretism is defined as:
 
-So obviously I'm talking about building a new discipline in and of itself. But here's the deal. I don't think of myself as any guru or innovator or visionary, and I don't really need to be one in order to justify the need for a syncretism. The simple reason for a syncretism is that overall, I'm interested in a great many things, and yet its ***hard***  to put all of this in a box. Is it Computational design? Is it New Media? Is it creative tech? Music technology? My head really starts to hurt because ***all of these things are very closely related, yet none of them really have any overarching term.*** It's both all AND none of the above. So while I have said that this is the future of design (for my thesis), the truth is that this has nothing to do with design, technology, media, art, science, philosophy, and has everything to do with them as well. It's a fucking headache.
+So obviously I'm talking about building a new discipline in and of itself. But here's the deal. I don't think of myself as any guru or innovator or visionary, and I don't really need to be one in order to justify the need for a syncretism. The simple reason for a syncretism is that overall, I'm interested in a great many things, and yet its ***hard***  to put all of this in a box. Is it Computational design? Is it New Media? Is it creative tech? Music technology? 
+
+My head really starts to hurt because ***all of these things are very closely related, yet none of them really have any overarching term.*** It's both all AND none of the above. So while I have said that this is the future of design (for my thesis), the truth is that this has nothing to do with design, technology, media, art, science, philosophy, and has everything to do with them as well. It's a fucking headache.
 
 Sure we can try slapping on "media arts and sciences" but that still doesn't really fit or express what I am seeing in this diverse field of knowledge. All of the things in this map have it, but the entire field itself is not reducible to any single discipline. ***But whatever "it" is, it's here, it's important and I believe it's the future.***
 
@@ -181,9 +198,15 @@ What I believe is required is something similar to what the Media lab outlined a
 
 **Art: The grammar of transcendent sublime beauty that generates desire.**
 
-To me, I don't believe in any nonsensical post-modernist ideas of art being either representation, bringing to surface, creation of concepts etc. That is a bourgiosie notion of art that deviously acts a class signifier separating rich people from the poor. If something needs you to read four books on Hegel, 3 essays from Foucault and a Spivak concept reader, its obvious that it's meant for some "enlightened" rich brat with too much time on their hands. It's also obvious how it acts as a means to separate the rich from the poor, as a poor person trapped in the capitalist machine forced to work 12 hours a day at the factory to send his kids to school and put food on the table will neither have the time nor education necessary to appreciate such "art". Let's call that kind of rubbish what it really is: ***jerking off the rich and privileged.*** (And no, I do not care for any justifications from snobby privileged elitists.) 
+To me, I don't believe in any nonsensical post-modernist ideas of art being either representation, bringing to surface, creation of concepts etc. That is a bourgiosie notion of art that deviously acts a class signifier separating rich people from the poor. If something needs you to read four books on Hegel, 3 essays from Foucault and a Spivak concept reader, its obvious that it's meant for some "enlightened" rich brat with too much time on their hands. 
 
-My idea of what art *is,* comes from the Indian sage Bharata and his treatise *the Natyashastra*. To Bharata, art is the *maya*, the illusion and simulation, the creation of the world of beauty, that realm which solely belongs to the title of those privileged enough to call themselves artists. The artist projects his magic, his immersive illusion of beauty, onto us until it envelops us completely. The sublime, that feeling of boundless awe , wonder and slight terror at the magnificence of a starry night sky, that's what art can do for the human race.  To Bharata, Art is a social responsibility that  the artist must carry out, the goal being the *enlightenment and* *transcendence of the viewer.* And unlike his contemporaries, Bharata believed that Art must be accessible to people from all walks of society (including the lower castes who were socially excluded in his time period). ***To me, this "open-source" art is far more valuable to society's overall health***, than some sick money making tax fraud scheme. Artists create a sanctuary called beauty, providing rest and relief to all those who partake in its mesmerizing influence, and this is a means by which Art serves the social function of a soothing balm for a society in a mental health crisis.
+It's also obvious how it acts as a means to separate the rich from the poor, as a poor person trapped in the capitalist machine forced to work 12 hours a day at the factory to send his kids to school and put food on the table will neither have the time nor education necessary to appreciate such "art". Let's call that kind of rubbish what it really is: ***jerking off the rich and privileged.*** (And no, I do not care for any justifications from snobby privileged elitists.) 
+
+My idea of what art *is,* comes from the Indian sage Bharata and his treatise *the Natyashastra*. To Bharata, art is the *maya*, the illusion and simulation, the creation of the world of beauty, that realm which solely belongs to the title of those privileged enough to call themselves artists. The artist projects his magic, his immersive illusion of beauty, onto us until it envelops us completely. 
+
+The sublime, that feeling of boundless awe , wonder and slight terror at the magnificence of a starry night sky, that's what art can do for the human race.  To Bharata, Art is a social responsibility that  the artist must carry out, the goal being the *enlightenment and* *transcendence of the viewer.* And unlike his contemporaries, Bharata believed that Art must be accessible to people from all walks of society (including the lower castes who were socially excluded in his time period). 
+
+***To me, this "open-source" art is far more valuable to society's overall health***, than some sick money making tax fraud scheme. Artists create a sanctuary called beauty, providing rest and relief to all those who partake in its mesmerizing influence, and this is a means by which Art serves the social function of a soothing balm for a society in a mental health crisis.
 
 ![](https://www.teamlab.art/images/pc-l/32037 "In my ADCx talk, I argue that immersive media has this innate unique sublime beauty that fulfills self-transcendence, the highest point of needs as articulated by Maslow before his death")
 
@@ -191,7 +214,7 @@ Dostoevsky once said "Beauty will save the world". Why? Because while people fig
 
 The power of artistic beauty to rejuvenate the soul in a simulation of its own making is what gives it this incredible ability to ***create its own future.*** Desire is a powerful thing if we cage its need to consume the object of its desire, because then [it strives to create the object of desire itself.](https://www.theguardian.com/media-network/2015/aug/13/science-fiction-reality-predicts-future-technology) Consider that AI first appeared in sci-fi novels as a concept long before computers were even mainstream and before the field of machine learning itself, and we can begin to see how desire is a creative force if guided properly. 
 
-Art has the ability to generate a desire via its ability to inspire imagination for new ways of being if we are enveloped in its creative potential. In New Media art, this is probably a potential latent in immersive media specifically. It's like Kafka's *Metamorphosis* or the anime *Serial experiments Lain*. The mysterious and surreal nature of those stories generated millions of interpretations while also being sublime, impactful and profound.
+Art generates desire via its ability to inspire imagination for new ways of being if we are enveloped in its creative potential. In New Media art, this is probably a potential latent in immersive media specifically. It's like Kafka's *Metamorphosis* or the anime *Serial experiments Lain*. The mysterious and surreal nature of those stories generated millions of interpretations while also being sublime, impactful and profound.
 
 **Science: The grammar of evidence based conclusions**
 
@@ -219,9 +242,11 @@ Engineering is just an extension of a core human capability: The ability to buil
 
 Engineering is the construction of tools, abilities and affordances. A tool, like Mcluhan said, is like media: An extension of man. The wheel an extension of the legs, a telescope the extension of the eye. A tool represents the capture of certain forces of nature and re-directing them towards our own ends and means. For example, computer chips are just glorified rocks with inscribed sigils that "capture" electricity and direct it towards information processing. Thus, engineering a tool or instrument becomes constructing things that allow us to do *more.* 
 
-The great myth of the genius inventor lies in the templatesque story propagated throughout the social sphere. A lone genius comes up with a grand idea, hacks away at something in his lab and then creates an innovation that he then sells for a massive profit. The truth is that most innovations come about as toys, accidents, fringe experiments or fixes to some annoying problem. For example, Pencillin, the famous antibiotic, was a consequence of Alexander Fleming forgetting to wash his bacterial culture dishes. The chariot was built in the steppes by the early central-asian tribes to traverse it more effectively with their horses. It's very, very rare for truly disruptive innovation to develop from mainstream academic or industrial thought processes, and more likely for it to be something that is initially considered fringe, occult and esoteric ([reminder that Isaac Newton was a very weird person with no friends, spent very little time on physics and dedicated most of his life to predicting the return of Jesus christ and finding the recipe to the philosophers stone](https://en.wikipedia.org/wiki/Isaac_Newton%27s_occult_studies)).
+The great myth of the genius inventor lies in the templatesque story propagated throughout the social sphere. A lone genius comes up with a grand idea, hacks away at something in his lab and then creates an innovation that he then sells for a massive profit. The truth is that most innovations come about as toys, accidents, fringe experiments or fixes to some annoying problem. 
 
- In fact, we find that the mainstream top-down approach and argument from authrority is actually *bad* for innovation, and that fringe-tech in weird humble places works better. For example, neural networks were about to gain traction in the early days of AI, where it not for MIT AI lab head Marvin Minsky actual going out of his way to say that they were unusable and that his own "perceptron" method was better (Hint: it wasn't). What ended up happening was an AI funding winter where neural networks and AI as a field in general lagged behind for 20 years. 
+For example, Penicillin, the famous antibiotic, was a consequence of Alexander Fleming forgetting to wash his bacterial culture dishes. The chariot was built in the steppes by the early central asian tribes to traverse it more effectively with their horses. It's very, very rare for truly disruptive innovation to develop from mainstream academic or industrial thought processes, and more likely for it to be something that is initially considered fringe, occult and esoteric ([reminder that Isaac Newton was a very weird person with no friends, spent very little time on physics and dedicated most of his life to predicting the return of Jesus christ and finding the recipe to the philosophers stone](https://en.wikipedia.org/wiki/Isaac_Newton%27s_occult_studies)).
+
+ In fact, we find that the mainstream top-down approach and argument from authority is actually *bad* for innovation, and that fringe-tech in weird humble places works better. For example, neural networks were about to gain traction in the early days of AI, where it not for MIT AI lab head Marvin Minsky actual going out of his way to say that they were unusable and that his own "perceptron" method was better (Hint: it wasn't). What ended up happening was an AI funding winter where neural networks and AI as a field in general lagged behind for 20 years. 
 
 As I've written in my Artscience post, inventions and tools that start out as crafts are initially not taken seriously, but much often later down the line acquire serious artistic, scientific and engineering merit. For example[, origami , the kidfriendly paper-folding craft is now starting to be applied to designing and building spacecraft.](https://medium.com/purdue-engineering/origami-in-space-shape-changing-is-a-game-changer-a17ef290a587) Tools may start out as fun past-times or gimmicks, but by extending the human senses and consequently the human mind, they possess the ability to generate new perceptions.
 
@@ -240,7 +265,9 @@ When the first iphone released, it had:
 
 For all intents and purposes, , it was product without a customer. But thing is, magical products, in the right time and place,  despite their gimmicky nature have this incredible capacity to *generate* their own use cases. It's this desire to experiment *with* their multifarious capacities and capabilities that builds an ecosystem around them. That's why invention, true creative innovation, can't happen within the mainstream. It has to be the "weird made cool". 
 
-Every powerful innovation is in some shape or form an instrument. Whether they be a scientific instrument (microscope) or artistic one (guitar). There's also this weird tendency for objects that can do both to be exalted to this otherworldly status of sacred. Instruments, especially musical ones, are the objects that led me to question my design education, because it seems to me that we use design to limit the abilities of the instrument to satisfy human needs rather than get humans to bypass their limits and merge with the potential of the instrument itself. Symbiosis is important yet lacking: How do we tap into the real potential of an invention as it  presents itself? We can either raise ponies that allow humans to trot on the field in peace and quiet, or we can raise horses that allow humans to move past their human speed limit and create figures like Alexander the Great and Genghis Khan. If design refuses to lean *into* engineering, we're going to be stuck in a vapid culture that loves to bring out the mediocre in the great.
+Every powerful innovation is in some shape or form an instrument. Whether they be a scientific instrument (microscope) or artistic one (guitar). There's also this weird tendency for objects that can do both to be exalted to this otherworldly status of sacred. Instruments, especially musical ones, are the objects that led me to question my design education, because it seems to me that we use design to limit the abilities of the instrument to satisfy human needs rather than get humans to bypass their limits and merge with the potential of the instrument itself. 
+
+Symbiosis is important yet lacking: How do we tap into the real potential of an invention as it  presents itself? We can either raise ponies that allow humans to trot on the field in peace and quiet, or we can raise horses that allow humans to move past their human speed limit and create figures like Alexander the Great and Genghis Khan. If design refuses to lean *into* engineering, we're going to be stuck in a vapid culture that loves to bring out the mediocre in the great.
 
 I think I need to learn how to hack stuff simply because ***that's what creative technology really is about***: generating new, creative ways of doing and being that we could not think of before. *The creative potential latent to technological instruments.*
 
@@ -262,51 +289,41 @@ We have failures of top-down empathy play out in GainesVille, when IDEO tried th
 
 The question is, how do we really build these solutions? Hence *modulative*  as opposed to modular (modulation is basically changing the properties of a system. For example, if you turn up the AC in your house, you are modulating the temperature)
 
-> <!--StartFragment-->
->
-> “In order to design like nature, we need to consider how we can design a species. Thus, we will reframe the designer’s task *from the design of a single physical object with a fixed form (the individual)*, to ***the design of abstract systems which encode the full range of formal possibilities for a particular design*** concept (the species).”
->
-> \-Daniel Nagy, Generative designer, on the topic of designing in grasshopper 3d
->
-> <!--EndFragment-->
-
 Thus while the participants articulate the data and formulations, it's the designer that makes this formulation usable, systemically integrated and cohesive instead of tacky, ill bordered and ill fitted.
 
 To be honest, this kind of design is so alien to me that I'm not sure of what existing product really look like, but here are some clues that I think can point us *towards*  a bottom up design. To start off with a quote from Christopher Alexander from *A pattern Language:*
 
 > <!--StartFragment-->
 >
-> ##### **Christopher Alexander, “Systems generating systems”**
+> #### Christopher Alexander, “Systems generating systems”
 >
-> [1](https://coevolving.com/blogs/index.php/archive/systems-generating-systems-architectural-design-theory-by-christopher-alexander-1968/#one). There are two ideas hidden in the word system: *the idea of a system as a whole* and *the idea of a generating system.*
+> [1](https://coevolving.com/blogs/index.php/archive/systems-generating-systems-architectural-design-theory-by-christopher-alexander-1968/#one). There are two ideas hidden in the word system: the idea of a system as a whole and the idea of a generating system.
 >
-> [2](https://coevolving.com/blogs/index.php/archive/systems-generating-systems-architectural-design-theory-by-christopher-alexander-1968/#two). A system as a whole is not an object but a way of looking at an object. It focuses on some holistic property which can only be understood *as a product of interaction among parts*.
+> [2](https://coevolving.com/blogs/index.php/archive/systems-generating-systems-architectural-design-theory-by-christopher-alexander-1968/#two). A system as a whole is not an object but a way of looking at an object. It focuses on some holistic property which can only be understood as a product of interaction among parts.
 >
-> [3](https://coevolving.com/blogs/index.php/archive/systems-generating-systems-architectural-design-theory-by-christopher-alexander-1968/#three). A generating system is not a view of a single thing. *It is a kit of parts, with rules  about the way these parts may be combined.*
+> [3](https://coevolving.com/blogs/index.php/archive/systems-generating-systems-architectural-design-theory-by-christopher-alexander-1968/#three). A generating system is not a view of a single thing. It is a kit of parts, with rules  about the way these parts may be combined.
 >
-> [4](https://coevolving.com/blogs/index.php/archive/systems-generating-systems-architectural-design-theory-by-christopher-alexander-1968/#four). Almost every ‘system as a whole’ is generated by a ‘generating system’. *If we wish to make things which function as ‘wholes’ we shall have to invent generating systems to create them*.  \[Alexander 2011, p. 59; Alexander 1968, p. 605]
+> [4](https://coevolving.com/blogs/index.php/archive/systems-generating-systems-architectural-design-theory-by-christopher-alexander-1968/#four). Almost every ‘system as a whole’ is generated by a ‘generating system’. If we wish to make things which function as ‘wholes’ we shall have to invent generating systems to create them.  \[Alexander 2011, p. 59; Alexander 1968, p. 605]
 >
 > <!--EndFragment-->
 
 ![](mindstroms-about-prod_lineup-hero-standard-large.jpeg "Lego is an example. There's a set amount of kit parts, yet the participants can build a huge variety of creative models from the parts")
 
-![](7b5ad308995bdfe91fe44cbd0b370088.jpg "Airpod MAX mods give the product a flavour it did not possess earlier, yet adds to its \"coolness\"")
+![](7b5ad308995bdfe91fe44cbd0b370088.jpg "Airpod MAX mods give the product a flavour it did not possess earlier, yet adds to its \\"coolness\\"")
 
-![](https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/07/bosuzoku.jpg "Modded street racing cars are another greater example of \"bottom-up\" design")
+![](https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/07/bosuzoku.jpg "Modded street racing cars are another greater example of \\"bottom-up\\" design")
 
 ![](1-dqxvletktoo1gdus9nucrw.png "The Bottom-up data collection processes that citizen uses allows scientists to do their job exponentially  with the crowdsourced  help of those who aren't necessarily trained in science but are highly interested in it. This allows scientists the ability to create informed models of scale to influence policy etc.")
 
-
-
 ![](https://miro.medium.com/v2/resize:fit:1400/1*Hk7CmXXBxIGyZwNrzTanmQ.png "Stable Diffusion, an AI diffusion model, can help users generate custom models, merge them with other models, generate custom images in a certain style or even use another person's model. At  some level, this is a proto-generative graphic design process.")
 
-![](https://www.gamerz.ma/wp-content/uploads/2022/12/Pokemon-Glazed.jpg "Hacking and modding in videogames allows creative potential that the original creators did not necessarily intend. Pokemon \"Glazed version\" is a ROM hack of pokemon Emerald, an official gamefreak title.")
+![](https://www.gamerz.ma/wp-content/uploads/2022/12/Pokemon-Glazed.jpg "Hacking and modding in videogames allows creative potential that the original creators did not necessarily intend. Pokemon \\"Glazed version\\" is a ROM hack of pokemon Emerald, an official gamefreak title.")
 
 ![](https://images.squarespace-cdn.com/content/v1/5df94dc4f40e87030eeeacee/1c3be14e-dd0d-4cf7-8cbf-090361e3e620/material+design.png "With the idea of \"design systems\" (and GenAI) we have already solved the problem of cohesiveness in a kit of parts, visually")
 
-![](ert5oytym7dz.jpg "Ideally it would be like a  modular synth  (a machine that makes music via electrici signal processing), where each module can be independently constructed yet plugged-in to one another in one coherent powerful system. And much like how we \"play\" with the getting the right modules to get a good setup as well as \"play\" with the knobs to get a good generative beat going, designing systems and their outcomes will be a product of playfulness.")
+![](ert5oytym7dz.jpg "Ideally it would be like a  modular synth  (a machine that makes music via electrical signal processing), where each module can be independently constructed yet plugged-in to one another in one coherent powerful system. And much like how we \\"play\\" with the getting the right modules to get a good setup as well as \\"play\\" with the knobs to get a good generative beat going, designing systems and their outcomes will be a product of playfulness.")
 
-![](osc-1.jpg "In a prototypical fashion, certain inter-messaging protocols allow two programs to be completely distinct and yet make full use of the other's capabilities. Software companies have begun to notice this, which is why many of them are pivoting to open-standards and intercommunication protocols. Now, how do we design for both modulation of internal components of a system as well direct modulation of exernal programs as well? OSC allows Unreal Engine and Touchdesigner to \"gain\" each others powers and abilities unique to each other, creating a powerful example of symbiosis.")
+![](osc-1.jpg "In a prototypical fashion, certain inter-messaging protocols allow two programs to be completely distinct and yet make full use of the other's capabilities. Software companies have begun to notice this, which is why many of them are pivoting to open-standards and intercommunication protocols. Now, how do we design for both modulation of internal components of a system as well direct modulation of exernal programs as well? OSC allows Unreal Engine and Touchdesigner to \\"gain\\" each others powers and abilities unique to each other, creating a powerful example of symbiosis.")
 
 What I am probably trying to advocate for myself is, just like Barthes called for "death of the author" as a way to separate an author from their creative output (like how you separate JK rowling from Harry Potter), I'm calling for **death of the designer** *where* the designer is actually separate from what the final outcome and potential of the design itself would be. In this manner, the designer's job would be twofold:
 
@@ -326,19 +343,38 @@ Thus, design becomes something that encourages people to move past their limits 
 
 In this manner, I think the future of design has to be some amalgamation of all of the above. An interesting aspect of why I think the above is necessary is because software and internet systems in general resemble a living organism undergoing change and updates rather than physical object. You can dynamically add features to and take away from a software like Adobe photoshop for example, which you cannot for say an Ipad.
 
-So in a way, it's kind of like giving RPG and worldbuilding. We have to give users the power to create their own worlds, while the task of usability and cohesiveness will become *invisible* i.e already done for them. This may not make a lot of sense in the context of phone apps, but in the context extended environments and immersive realities, trust me, this fact will become too obvious to ignore. 
+So in a way, we have to give users the power to create their own worlds, while the task of usability and cohesiveness will become *invisible* i.e already done for them. This may not make a lot of sense in the context of phone apps, but in the context extended environments and immersive realities, trust me, this fact will become too obvious to ignore. 
 
 This idea is a little too schizo and far fetched, and to be honest, I really don't know what it will look like. But when LLM's give people abilities they don't necessarily have to sink years into (such as coding and design)), and we have large scale systems, wicked problems as well as huge data sets, the role of the designer will obviously change, into one that make sure systems become *inter-dependent*. Like a living organism, each member does its own thing yet positively contributes to the functioning of the larger systems overall functioning.
 
 This is where design moves from a topdown physical craft based model to a biological bottom-up generative *breeding* of solutions model. Yes, I know it sounds strange, but stay with me. 
 
-![](gendesign.png "Generative design looks more like genome sequencing and \"breeding\" the final optimal solution in a space of possibilities. Here the genes x,y and z correspond to the length, width and height of the box.")
+![](gendesign.png "Generative design looks more like genome sequencing and \\"breeding\\" the final optimal solution in a space of possibilities. Here the genes x,y and z correspond to the length, width and height of the box.")
 
 ![](antenna-design.jpg "Some people have even commented that Generative Design solutions constructed by deep learning algorithms, though far more effective than human designs, look like strange alien biology.")
 
-![](datadriven.png "Generative design isn't a magic bullet as designers will still have to deal with the problem of \"solution slopes\". Think of it this way, you're trekking in an unknown valley to reach the highest point and you start climbing the closest slope available, only to find that you've climbed a hill and the mountain still looms in the distance. That's the problem of \"local minima\". Credit: Joshua porter , \"The local maximum\"")
+![](datadriven.png "Generative design isn't a magic bullet as designers will still have to deal with the problem of \\"solution slopes\\". Think of it this way, you're trekking in an unknown valley to reach the highest point and you start climbing the closest slope available, only to find that you've climbed a hill and the mountain still looms in the distance. That's the problem of \\"local minima\\". Credit: Joshua porter , \\"The local maximum\\"")
 
 Design then becomes the task of creating and living within a creative universe, and then subsequently guiding its evolution. What we have to do is to still make things usable, but we have to divorce ourselves from what the final design actually ends up looking it (when it stops being the object that designers want and starts being the object that users want) and what it is fully capable of (including how it interacts with things outside of it). This last part becomes more relevant especially when design's reach becomes spatial and we have to design for crowds of "users", including people from all walks of life both regular users and absolute newbies. 
+
+The last aspect that hammers the nail in this biological design model is the newfound affordance of ***intelligence*** that LLM's and AI agents provide us. 
+
+> <!--StartFragment-->
+>
+> *In artificial intelligence, **an agent is a computer program or system that is designed to perceive its environment, make decisions and take actions to achieve a specific goal or set of goals**. The agent operates autonomously, meaning it is not directly controlled by a human operator.*
+>
+> *Agents can be classified into different types based on their characteristics, such as whether they are reactive or proactive, whether they have a fixed or dynamic environment, and whether they are single or multi-agent systems.*
+>
+> * *Reactive agents are those that respond to immediate stimuli from their environment and take actions based on those stimuli. Proactive agents, on the other hand, take initiative and plan ahead to achieve their goals. The environment in which an agent operates can also be fixed or dynamic. Fixed environments have a static set of rules that do not change, while dynamic environments are constantly changing and require agents to adapt to new situations.*
+> * *Multi-agent systems involve multiple agents working together to achieve a common goal. These agents may have to coordinate their actions and communicate with each other to achieve their objectives. Agents are used in a variety of applications, including robotics, gaming, and intelligent systems. They can be implemented using different programming languages and techniques, including machine learning and natural language processing.*
+>
+> *Artificial intelligence is defined as the study of rational agents. A rational agent could be anything that makes decisions, such as a person, firm, machine, or software. It carries out an action with the best outcome after considering past and current percepts(agent’s perceptual inputs at a given instance). An AI system is composed of an **agent and its environment**. The agents act in their environment. The environment may contain other agents.* 
+>
+> <!--EndFragment-->
+
+Design, eventually, becomes the design of an intelligent environment which the designer finds themselves embodied in, what the Anthropologist and Cybernetician Gregory Bateson called "[An ecology of Mind](https://www.architectural-review.com/essays/an-ecology-of-mind)". I really, REALLY like this term because its a direct step up from the affordance theory promoted by ethologist James Gibson, where we now move from  *systems thinking*  to ***systems intelligence*** much like how a collection of cells would coordinate behavior amongst  themselves. Environmental intelligence is a fascinating field. Check this article "[The intelligent forest](https://www.noemamag.com/the-intelligent-forest/)" by Noema Magazine to learn more.
+
+.....................................................................................................................................................................
 
 So to summarize a consolidated generative language:
 
@@ -348,8 +384,12 @@ So to summarize a consolidated generative language:
 
 **Engineering** -> The capture of forces and their transmutation into playful affordances, abilities and even *senses*  that allow us to do a lot more than previously 
 
-**Design** -> Making this potential usable, modular, customizable and tailor fit to a wide variety of people, as well as *synergistically coupled* with other dynamic systems, like the relationship between a bee and a flower. 
+**Design** -> Making this potential usable, modular, customizable, *intelligent* and tailor fit to a wide variety of people, as well as *synergistic-ally coupled* with other dynamic systems, like the relationship between a bee and a flower. 
 
 I don't know what this could really look like in contemporary terms, but UCSB's [Allosphere](https://www.youtube.com/watch?v=u-D-zEToJQ4) is a good example. It's immersive, sublime, musical, scientific, modular and pretty much fulfills all of the above. But maybe I need to start making stuff to actually fulfill this outline of what I think lies beyond.
 
-These artefacts create new ideas, new abilities, new discoveries and new expressions in those that experience them , and can thus be called a generative artefact. This may seem like something new, but they've been here before, only to look like something that landed from outer space when they first released, like the printing press, the personal computer, the modular synthesizer, and most recently generative AI.
+These artifacts create new ideas, new abilities, new discoveries and new expressions in those that experience them , and can thus be called a generative artifact. This may seem like something new, but they've been here before, only to look like something that landed from outer space when they first released, like the printing press, the personal computer, the modular synthesizer, and most recently generative AI. That's what generative truly implies: the generation of novel possibility. 
+
+
+
+# The Voice of the East
