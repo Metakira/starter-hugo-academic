@@ -385,7 +385,9 @@ When we think of Generative design as the training of design models with data an
 
 ![](https://www.assemblymag.com/ext/resources/Issues/2019/FoF/software/asbfotf0519gen2.jpg?t=1556733100&width=1080 "Example from Generative design in manufacturing.")
 
+Sound runs through the core of Indian thought and practice. India has been a historically oral culture, with many artifacts of its literature passed down via spoken word and memorized in its entirety (This is why the veda's have been cryptic, because the actual meaning of what is being said can only be understood via certain aspects of how it is vocally expressed). The *Bhagavad Gita* , a holy book of Hinduism, translates very literally to "The Song of God". We see that sound is running thread throughout Indian thought, and this must be paid attention to. 
 
+To be honest, Indian philosophy and computers are two things I never really thought would mesh well together, yet strangely enough, its very true that Indian philosophy works well with the intricacies of computation and Deep learning. The only thing left now is to really flesh out these maps and mold it
 
 *  Indian philosophy is very very different and in many ways fits complexity thinking better.
 
