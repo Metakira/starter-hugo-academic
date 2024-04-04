@@ -287,7 +287,7 @@ To be honest, this kind of design is so alien to me that I'm not sure of what ex
 
 ![](https://images.squarespace-cdn.com/content/v1/5df94dc4f40e87030eeeacee/1c3be14e-dd0d-4cf7-8cbf-090361e3e620/material+design.png "With the idea of \"design systems\" (and GenAI) we have already solved the problem of cohesiveness in a kit of parts, visually")
 
-![](ert5oytym7dz.jpg "Ideally it would be like a  modular synth  (a machine that makes music via electrical signal processing), where each module can be independently constructed yet plugged-in to one another in one coherent powerful system. And much like how we \"play\" with the getting the right modules to get a good setup as well as \\"play\\" with the knobs to get a good generative beat going, designing systems and their outcomes will be a product of playfulness.")
+![](ert5oytym7dz.jpg "It's like modular synth culture. Playfully build, playfully arrange, play with your knobs and generate music.")
 
 What I am probably trying to advocate for myself is, just like Barthes called for "death of the author" as a way to separate an author from their creative output (like how you separate JK rowling from Harry Potter), I'm calling for **death of the designer** *where* the designer is actually separate from what the final outcome and potential of the design itself would be. In this manner, the designer's job would be twofold:
 
