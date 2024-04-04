@@ -309,15 +309,9 @@ To be honest, this kind of design is so alien to me that I'm not sure of what ex
 
 ![](mindstroms-about-prod_lineup-hero-standard-large.jpeg "Lego is an example. There's a set amount of kit parts, yet the participants can build a huge variety of creative models from the parts")
 
-![](7b5ad308995bdfe91fe44cbd0b370088.jpg "Airpod MAX mods give the product a flavour it did not possess earlier, yet adds to its \\\\"coolness\\\\"")
-
-![](https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/07/bosuzoku.jpg "Modded street racing cars are another greater example of \\\\"bottom-up\\\\" design")
-
 ![](1-dqxvletktoo1gdus9nucrw.png "The Bottom-up data collection processes that citizen uses allows scientists to do their job exponentially  with the crowdsourced  help of those who aren't necessarily trained in science but are highly interested in it. This allows scientists the ability to create informed models of scale to influence policy etc.")
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*Hk7CmXXBxIGyZwNrzTanmQ.png "Stable Diffusion, an AI diffusion model, can help users generate custom models, merge them with other models, generate custom images in a certain style or even use another person's model. At  some level, this is a proto-generative graphic design process.")
-
-![](https://www.gamerz.ma/wp-content/uploads/2022/12/Pokemon-Glazed.jpg "Hacking and modding in videogames allows creative potential that the original creators did not necessarily intend. Pokemon \\\\"Glazed version\\\\" is a ROM hack of pokemon Emerald, an official gamefreak title.")
 
 ![](https://images.squarespace-cdn.com/content/v1/5df94dc4f40e87030eeeacee/1c3be14e-dd0d-4cf7-8cbf-090361e3e620/material+design.png "With the idea of \\\"design systems\\\" (and GenAI) we have already solved the problem of cohesiveness in a kit of parts, visually")
 
