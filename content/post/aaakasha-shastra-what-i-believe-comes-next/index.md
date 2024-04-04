@@ -289,8 +289,6 @@ To be honest, this kind of design is so alien to me that I'm not sure of what ex
 
 ![](ert5oytym7dz.jpg "Ideally it would be like a  modular synth  (a machine that makes music via electrical signal processing), where each module can be independently constructed yet plugged-in to one another in one coherent powerful system. And much like how we \\"play\\" with the getting the right modules to get a good setup as well as \\"play\\" with the knobs to get a good generative beat going, designing systems and their outcomes will be a product of playfulness.")
 
-![](7b5ad308995bdfe91fe44cbd0b370088.jpg "Modding, both in physical and digtal products, adds personality to the original. Is there potential for the DIY in design?")
-
 What I am probably trying to advocate for myself is, just like Barthes called for "death of the author" as a way to separate an author from their creative output (like how you separate JK rowling from Harry Potter), I'm calling for **death of the designer** *where* the designer is actually separate from what the final outcome and potential of the design itself would be. In this manner, the designer's job would be twofold:
 
 1. Building a powerful, creative and  generative system via crowdsourced data
