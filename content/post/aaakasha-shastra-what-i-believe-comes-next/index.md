@@ -11,8 +11,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-
 After four years of my studies at Srishti, and with less than two months left for my graduation, the time obviously comes for every undergraduate student to answer a very critical question:
 
 What do you plan on doing after college? 
@@ -34,8 +32,6 @@ As I see it, there are two gaps to be bridged.
 Obviously, the nature of what I intend to accomplish with my career as a project may span many, many years, with no end in sight. It may require a tenacity, work ethic, resilience and perseverance that I may not possess. Yet, a whisper still rings in my heart, that what I believe -nay, what I have faith in- must be accomplished, even if it is imperfect. I may succeed or fail, but it has to be outlined, demarcated, expressed, even in its roughest impure form.
 
 So, what are my larger goals? What exactly are the grand ambitions of this clueless, broke armchair-philosopher 23 year old? I've written this to clarify what my field and intentions are, so as to dispel any confusion. This is going to be a VERY long read that can be dry at times, so please note before you proceed.
-
-
 
 # New needs, New developments
 
@@ -92,14 +88,6 @@ The problem then becomes clearer that current design models are derivative of th
 
 It's safe to say that current design methodology is good enough, but doesn't really make complete use of what computers *really* are and what they eventually will become.  As a wise (disgraced) man once said:
 
-> <!--StartFragment-->
->
-> “ Design has also evolved from the design of objects, both physical and material, to the design of systems, to the design of complex adaptive systems. This evolution is shifting the role of designers; they are no longer the central planners, but participants within the systems in which they work. ***This is a fundamental shift- one that requires a new set of values”***
->
-> * Joi Ito, former MIT media lab director
->
-> <!--EndFragment-->
-
 #### **The emergence and evolution of the Internet (Metcalfe's law)**
 
 ![](metcalfe2.png "As more nodes get connected, the network , past a critical mass, acquires newfound properties")
@@ -134,7 +122,7 @@ Capitalism's influence on design outcomes will always stay, and businesses do no
 
 The eye of capitalism becomes ever more determining of reality, and if we look close enough, American capitalism, through the large scale societal outcomes manufactured by dark design patterns,  is turning culture itself into one giant[ Casino machine](https://www.honest-broker.com/p/the-state-of-the-culture-2024).
 
-![](dopamine-culture.png "Credits: Ted Gioa, \\\\"The honest Broker\\\\" substack")
+![](dopamine-culture.png "Credits: Ted Gioa, \\\\\"The honest Broker\\\\\" substack")
 
 #### **Generative AI and Synthetic Media**
 
@@ -167,8 +155,6 @@ Yet Meta's approach, which decided to go open source and imperfect as long as it
 In the age of rapid change, first and "good enough" shatters the perfectionism of design hubris, which is why designers are going to be in for a huge shock if they think companies will be open minded to month long research cycles and relatively small scale prototyping phases. AI is a threat, and design, despite the showboating, is clearly clueless as a discipline on how to effectively utilize it.
 
 The dangers of synthetic media, however, are even more grim. For the first time in history, people's faces and voices can be separated from their body, and evidence can be cooked from straight up from nothing. Synthetic exacerbates the growing problem of a [post-truth society](https://en.wikipedia.org/wiki/Post-truth), where deception prevails, and truth imperceptible. However, tackling synthetic media in and of its own is still not an often talked about topic, despite this specific issue being the utmost priority to tackle for proponents of design justice.
-
-
 
 # A need for a novel syncretism
 
@@ -293,37 +279,23 @@ Thus while the participants articulate the data and formulations, it's the desig
 
 To be honest, this kind of design is so alien to me that I'm not sure of what existing product really look like, but here are some clues that I think can point us *towards*  a bottom up design. To start off with a quote from Christopher Alexander from *A pattern Language:*
 
-> <!--StartFragment-->
->
-> #### Christopher Alexander, “Systems generating systems”
->
-> [1](https://coevolving.com/blogs/index.php/archive/systems-generating-systems-architectural-design-theory-by-christopher-alexander-1968/#one). There are two ideas hidden in the word system: the idea of a system as a whole and the idea of a generating system.
->
-> [2](https://coevolving.com/blogs/index.php/archive/systems-generating-systems-architectural-design-theory-by-christopher-alexander-1968/#two). A system as a whole is not an object but a way of looking at an object. It focuses on some holistic property which can only be understood as a product of interaction among parts.
->
-> [3](https://coevolving.com/blogs/index.php/archive/systems-generating-systems-architectural-design-theory-by-christopher-alexander-1968/#three). A generating system is not a view of a single thing. It is a kit of parts, with rules  about the way these parts may be combined.
->
-> [4](https://coevolving.com/blogs/index.php/archive/systems-generating-systems-architectural-design-theory-by-christopher-alexander-1968/#four). Almost every ‘system as a whole’ is generated by a ‘generating system’. If we wish to make things which function as ‘wholes’ we shall have to invent generating systems to create them.  \[Alexander 2011, p. 59; Alexander 1968, p. 605]
->
-> <!--EndFragment-->
-
 ![](mindstroms-about-prod_lineup-hero-standard-large.jpeg "Lego is an example. There's a set amount of kit parts, yet the participants can build a huge variety of creative models from the parts")
 
-![](7b5ad308995bdfe91fe44cbd0b370088.jpg "Airpod MAX mods give the product a flavour it did not possess earlier, yet adds to its \\"coolness\\"")
+![](7b5ad308995bdfe91fe44cbd0b370088.jpg "Airpod MAX mods give the product a flavour it did not possess earlier, yet adds to its \\\"coolness\\\"")
 
-![](https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/07/bosuzoku.jpg "Modded street racing cars are another greater example of \\"bottom-up\\" design")
+![](https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/07/bosuzoku.jpg "Modded street racing cars are another greater example of \\\"bottom-up\\\" design")
 
 ![](1-dqxvletktoo1gdus9nucrw.png "The Bottom-up data collection processes that citizen uses allows scientists to do their job exponentially  with the crowdsourced  help of those who aren't necessarily trained in science but are highly interested in it. This allows scientists the ability to create informed models of scale to influence policy etc.")
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*Hk7CmXXBxIGyZwNrzTanmQ.png "Stable Diffusion, an AI diffusion model, can help users generate custom models, merge them with other models, generate custom images in a certain style or even use another person's model. At  some level, this is a proto-generative graphic design process.")
 
-![](https://www.gamerz.ma/wp-content/uploads/2022/12/Pokemon-Glazed.jpg "Hacking and modding in videogames allows creative potential that the original creators did not necessarily intend. Pokemon \\"Glazed version\\" is a ROM hack of pokemon Emerald, an official gamefreak title.")
+![](https://www.gamerz.ma/wp-content/uploads/2022/12/Pokemon-Glazed.jpg "Hacking and modding in videogames allows creative potential that the original creators did not necessarily intend. Pokemon \\\"Glazed version\\\" is a ROM hack of pokemon Emerald, an official gamefreak title.")
 
-![](https://images.squarespace-cdn.com/content/v1/5df94dc4f40e87030eeeacee/1c3be14e-dd0d-4cf7-8cbf-090361e3e620/material+design.png "With the idea of \"design systems\" (and GenAI) we have already solved the problem of cohesiveness in a kit of parts, visually")
+![](https://images.squarespace-cdn.com/content/v1/5df94dc4f40e87030eeeacee/1c3be14e-dd0d-4cf7-8cbf-090361e3e620/material+design.png "With the idea of \\"design systems\\" (and GenAI) we have already solved the problem of cohesiveness in a kit of parts, visually")
 
-![](ert5oytym7dz.jpg "Ideally it would be like a  modular synth  (a machine that makes music via electrical signal processing), where each module can be independently constructed yet plugged-in to one another in one coherent powerful system. And much like how we \\"play\\" with the getting the right modules to get a good setup as well as \\"play\\" with the knobs to get a good generative beat going, designing systems and their outcomes will be a product of playfulness.")
+![](ert5oytym7dz.jpg "Ideally it would be like a  modular synth  (a machine that makes music via electrical signal processing), where each module can be independently constructed yet plugged-in to one another in one coherent powerful system. And much like how we \\\"play\\\" with the getting the right modules to get a good setup as well as \\\"play\\\" with the knobs to get a good generative beat going, designing systems and their outcomes will be a product of playfulness.")
 
-![](osc-1.jpg "In a prototypical fashion, certain inter-messaging protocols allow two programs to be completely distinct and yet make full use of the other's capabilities. Software companies have begun to notice this, which is why many of them are pivoting to open-standards and intercommunication protocols. Now, how do we design for both modulation of internal components of a system as well direct modulation of exernal programs as well? OSC allows Unreal Engine and Touchdesigner to \\"gain\\" each others powers and abilities unique to each other, creating a powerful example of symbiosis.")
+![](osc-1.jpg "In a prototypical fashion, certain inter-messaging protocols allow two programs to be completely distinct and yet make full use of the other's capabilities. Software companies have begun to notice this, which is why many of them are pivoting to open-standards and intercommunication protocols. Now, how do we design for both modulation of internal components of a system as well direct modulation of exernal programs as well? OSC allows Unreal Engine and Touchdesigner to \\\"gain\\\" each others powers and abilities unique to each other, creating a powerful example of symbiosis.")
 
 What I am probably trying to advocate for myself is, just like Barthes called for "death of the author" as a way to separate an author from their creative output (like how you separate JK rowling from Harry Potter), I'm calling for **death of the designer** *where* the designer is actually separate from what the final outcome and potential of the design itself would be. In this manner, the designer's job would be twofold:
 
@@ -349,28 +321,15 @@ This idea is a little too schizo and far fetched, and to be honest, I really don
 
 This is where design moves from a topdown physical craft based model to a biological bottom-up generative *breeding* of solutions model. Yes, I know it sounds strange, but stay with me. 
 
-![](gendesign.png "Generative design looks more like genome sequencing and \\"breeding\\" the final optimal solution in a space of possibilities. Here the genes x,y and z correspond to the length, width and height of the box.")
+![](gendesign.png "Generative design looks more like genome sequencing and \\\"breeding\\\" the final optimal solution in a space of possibilities. Here the genes x,y and z correspond to the length, width and height of the box.")
 
 ![](antenna-design.jpg "Some people have even commented that Generative Design solutions constructed by deep learning algorithms, though far more effective than human designs, look like strange alien biology.")
 
-![](datadriven.png "Design will still have to deal with the problem of suboptimal solutions in local maxima. Think of it like climbing the closest slope in a valley to reach the highest viewpoint, only to find that you have reached a hill and the mountain is kilometres awayCredit: Joshua Porter \"The Local maxima\"")
+![](datadriven.png "Design will still have to deal with the problem of suboptimal solutions in local maxima. Think of it like climbing the closest slope in a valley to reach the highest viewpoint, only to find that you have reached a hill and the mountain is kilometres awayCredit: Joshua Porter \\"The Local maxima\\"")
 
 Design then becomes the task of creating and living within a creative universe, and then subsequently guiding its evolution. What we have to do is to still make things usable, but we have to divorce ourselves from what the final design actually ends up looking it (when it stops being the object that designers want and starts being the object that users want) and what it is fully capable of (including how it interacts with things outside of it). This last part becomes more relevant especially when design's reach becomes spatial and we have to design for crowds of "users", including people from all walks of life both regular users and absolute newbies. 
 
 The last aspect that hammers the nail in this biological design model is the newfound affordance of ***intelligence*** that LLM's and AI agents provide us. 
-
-> <!--StartFragment-->
->
-> *In artificial intelligence, **an agent is a computer program or system that is designed to perceive its environment, make decisions and take actions to achieve a specific goal or set of goals**. The agent operates autonomously, meaning it is not directly controlled by a human operator.*
->
-> *Agents can be classified into different types based on their characteristics, such as whether they are reactive or proactive, whether they have a fixed or dynamic environment, and whether they are single or multi-agent systems.*
->
-> * *Reactive agents are those that respond to immediate stimuli from their environment and take actions based on those stimuli. Proactive agents, on the other hand, take initiative and plan ahead to achieve their goals. The environment in which an agent operates can also be fixed or dynamic. Fixed environments have a static set of rules that do not change, while dynamic environments are constantly changing and require agents to adapt to new situations.*
-> * *Multi-agent systems involve multiple agents working together to achieve a common goal. These agents may have to coordinate their actions and communicate with each other to achieve their objectives. Agents are used in a variety of applications, including robotics, gaming, and intelligent systems. They can be implemented using different programming languages and techniques, including machine learning and natural language processing.*
->
-> *Artificial intelligence is defined as the study of rational agents. A rational agent could be anything that makes decisions, such as a person, firm, machine, or software. It carries out an action with the best outcome after considering past and current percepts(agent’s perceptual inputs at a given instance). An AI system is composed of an **agent and its environment**. The agents act in their environment. The environment may contain other agents.* 
->
-> <!--EndFragment-->
 
 Design, eventually, becomes the design of an intelligent environment which the designer finds themselves embodied in, what the Anthropologist and Cybernetician Gregory Bateson called "[An ecology of Mind](https://www.architectural-review.com/essays/an-ecology-of-mind)". I really, REALLY like this term because its a direct step up from the affordance theory promoted by ethologist James Gibson, where we now move from  *systems thinking*  to ***systems intelligence*** much like how a collection of cells would coordinate behavior amongst  themselves. Environmental intelligence is a fascinating field. Check this article "[The intelligent forest](https://www.noemamag.com/the-intelligent-forest/)" by Noema Magazine to learn more.
 
@@ -389,7 +348,5 @@ So to summarize a consolidated generative language:
 I don't know what this could really look like in contemporary terms, but UCSB's [Allosphere](https://www.youtube.com/watch?v=u-D-zEToJQ4) is a good example. It's immersive, sublime, musical, scientific, modular and pretty much fulfills all of the above. But maybe I need to start making stuff to actually fulfill this outline of what I think lies beyond.
 
 These artifacts create new ideas, new abilities, new discoveries and new expressions in those that experience them , and can thus be called a generative artifact. This may seem like something new, but they've been here before, only to look like something that landed from outer space when they first released, like the printing press, the personal computer, the modular synthesizer, and most recently generative AI. That's what generative truly implies: ***the generation of novel possibility.*** 
-
-
 
 # The Voice of the East
