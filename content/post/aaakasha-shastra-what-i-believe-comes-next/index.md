@@ -23,7 +23,7 @@ For some, this may be giving up on the subject of their undergraduate degree alt
 
 All these paths, to me, are equally valid. There is nothing wrong with any of these directions.
 
-The past 5 years have only instilled in me a deep sense of dissatisfaction, and an even deeper sense of curiosity. Many years of talking, doing, making, both succeeding and failing, both teaching and learning, from the many people I've met along the journey as well as my own nature as a person, have led me to the conclusion that there are many things in this world that need to be answered, and many fuzzy, barely perceptible things need to be brought to light. 
+The past 5 years have only instilled in me a deep sense of dissatisfaction, and an even deeper sense of curiosity. Many years of talking, doing, making, both succeeding and failing, both teaching and learning, from the many people I've met along the journey as well as my own nature as a person, have led me to the conclusion that there are many questions in this world that I need answered.
 
 As I see it, there are two gaps to be bridged. 
 
@@ -33,25 +33,29 @@ Obviously, the nature of what I intend to accomplish with my career as a project
 
 So, what are my larger goals? What exactly are the grand ambitions of this clueless, broke armchair-philosopher 23 year old? I've written this to clarify what my field and intentions are, so as to dispel any confusion. This is going to be a VERY long read that can be dry at times, so please note before you proceed.
 
+
+
 # New needs, New developments
 
-What we call design methodology in its current form, precedes a lot of important trends. Don Norman's *Design of everyday things* was published in 1985 and was originally called the *Psychology of everyday things.* Tim brown's *Design thinking* method that he formulated in the very early 2000's is what most of us have come to recognize as the standard design thinking process. While to many these methods remain sufficient,we are missing certain critical nuances. 
+What we call design methodology in its current form precedes a lot of important historical developments. Don Norman's *Design of everyday things* was published in 1985 and was originally called the *Psychology of everyday things.* Tim brown's *Design thinking* method that he formulated in the very early 2000's is what most of us recognize as the standard design thinking process. While to many these methods remain sufficient,we are missing certain critical nuances. 
 
-A lot of important trends have taken place that design, as a field, really hasn't responded to very well. I'll outline some of them below.
+
 
 #### **The increasing power, affordability and ubiquity of chips and sensors**
 
-![](v7sj89c8emq91.jpg "The top left hard drive is probably 120 mb, and the micro sd card to the bottom right is probably around 16 gb. ")
+![](v7sj89c8emq91.jpg "The top left hard drive is probably 120 MB, and the micro SD card to the bottom right is probably around 16 GB. ")
 
-The above image showcases the development of storage devices over 45 years. What we can directly infer from this evolution is that personal storage is getting smaller, more dense and more mobile. The factors that have driven this growth is something called "moore's law", which states that *that the number of transistors in an integrated circuit (IC) doubles about every two years*. What this results in, is something futurist Ray Kurzweil called the "law of accelerating returns".
+The above image showcases the development of storage devices over 45 years. What we can directly infer from this evolution is that personal storage is getting smaller, more dense and more mobile. The factors that have driven this growth is something called "Moore's law", which states that *that the number of transistors in an integrated circuit (IC) doubles about every two years*. What this results in, is something futurist Ray Kurzweil called the "Law Of Accelerating Returns".
 
 ![](1688887152091.png "How computers improve exponentially over the years")
 
-The law basically states that far from being a straightforward line of improvement, accelerating returns means that every year, the improvement effectively doubles. What we're seeing happening overall is imperceptible yet significant. Computer chips and sensors are getting smaller, cheaper, smarter, more common and ever more powerful with each passing year. This is why it's also hard to pinpoint the potential of new paradigms as and when they arrive. In 2023, sensors are the gears that drives the industrial complex overall, and the amount of data they capture is enormous. We now have affordable sensors for nearly everything, from biosignals to weather instrumentation. And these capabilities only grow further.
+The law basically states that far from being a straightforward line of improvement, accelerating returns means that every year, the improvement effectively doubles. What we're seeing happening overall is imperceptible yet significant. Computer chips and sensors are getting smaller, cheaper, smarter, more common and ever more powerful with each passing year. 
+
+This is why it's also hard to pinpoint the potential of new paradigms as and when they arrive. In 2023, sensors are the gears that drives the industrial complex overall, and the amount of data they capture is enormous. We now have affordable sensors for nearly everything, from biosignals to weather instrumentation. And these capabilities only grow further.
 
 #### **The nature, potential and evolution of personal computing systems**
 
-![](images.jpg "The apple watch can now read your heartbeat signals")
+![](images.jpg "The apple watch can now read your heartbeat rhythm.")
 
 A critical fact to consider is that computers are no longer the devices they were back then, 40 years ago. As computers evolve, they move along multiple significant lines of change:
 
@@ -65,7 +69,7 @@ A critical fact to consider is that computers are no longer the devices they wer
 
 Computers are probably going to move in this historical trajectory
 
-Industrial ( Early days of US millitary) ->
+Industrial ( Early days of US millitary research) ->
 
 \->  Personal (Apple Macintosh)  ->
 
@@ -73,20 +77,30 @@ Industrial ( Early days of US millitary) ->
 
 \-> Wearable (smartwatches) ->
 
-\-> Spatial (XR headsets) -> Imperceptible, a Doomer scenario where its all [computronium](https://en.wikipedia.org/wiki/Computronium) (well, [not exactly](https://tangible.media.mit.edu/project/radical-atoms/))
+\-> Spatial (XR headsets) ->
+
+ Ambient-Imperceptible, a Doomer Matrix-like scenario where its all [computronium](https://en.wikipedia.org/wiki/Computronium) and computers manage everything outside our perception (well, [not exactly](https://tangible.media.mit.edu/project/radical-atoms/))
 
 ![](untitled.png "Biofeedback is now a powerful computational capability")
 
 \
 These trends build the now commonplace principle of "biofeedback", where human responses are dynamically managed and coordinated with or by computational systems. This can be used for good (apple watches saving people dying of heart attacks) or bad (Reel addiction via Product designer Nir Eyal's *[Hook-cycle](https://www.nirandfar.com/how-to-manufacture-desire/)).* The computer now becomes a cybernetic extension of people's sensory systems, making the Mcluhan quote turn from metaphor into literal reality. 
 
-What we are actively seeing happen is the transformation of computers from inert static machines (like wheels and steam engines) to something more akin to a *living organism*. Even the ability of computer programs to accommodate plugins, mods, skins and add-ons looks less like pencil sharpener and more like a living creature performing  *endosymbiosis,* the ability to ***evolve using external entities.*** MIT Media Lab alumni and Computational designer John Maeda explicitly states as much in his book " How to speak machine", declaring that in a very primitive way, machines are effectively complex adaptive systems with much more in common with living creatures.
+What we are actively seeing happen is the transformation of computers from inert static machines (like wheels and steam engines) to something more akin to a *living organism*. Even the ability of computer programs to accommodate plugins, mods, skins and add-ons looks less like pencil sharpener and more like a living creature performing  *endosymbiosis,* the ability to ***evolve using external entities.*** MIT Media Lab alumni and Computational designer John Maeda explicitly states as much in his book " How to speak Machine", declaring that in a very primitive way, machines are effectively complex adaptive systems with much more in common with living creatures.
 
-![](endosymbiosis_med.jpeg "The modular nature of computers looks more like a permeable cell than an impermeable chemical")
+![](endosymbiosis_med.jpeg "The modular nature of computers looks more like a permeable cell than an impermeable chair")
 
 The problem then becomes clearer that current design models are derivative of the mother disciplines of industrial and graphic design, both themselves representative of a top down approach that is great at dealing with inert objects but struggles with the complexity of living creatures. The implication is that after a certain threshold is reached, the [reductionist enlightenment era physical model](https://patterns.architexturez.net/doc/az-cf-172819) that we have used for design will have to eventually give way due to being insufficient.
 
 It's safe to say that current design methodology is good enough, but doesn't really make complete use of what computers *really* are and what they eventually will become.  As a wise (disgraced) man once said:
+
+> <!--StartFragment-->
+>
+> “ Design has also evolved from the design of objects, both physical and material, to the design of systems, to the design of complex adaptive systems. This evolution is shifting the role of designers; they are no longer the central planners, but participants within the systems in which they work. This is a fundamental shift- one that requires a new set of values”
+>
+> * Joi Ito, former MIT media lab director
+>
+> <!--EndFragment-->
 
 #### **The emergence and evolution of the Internet (Metcalfe's law)**
 
@@ -122,7 +136,7 @@ Capitalism's influence on design outcomes will always stay, and businesses do no
 
 The eye of capitalism becomes ever more determining of reality, and if we look close enough, American capitalism, through the large scale societal outcomes manufactured by dark design patterns,  is turning culture itself into one giant[ Casino machine](https://www.honest-broker.com/p/the-state-of-the-culture-2024).
 
-![](dopamine-culture.png "Credits: Ted Gioa, \\\\\"The honest Broker\\\\\" substack")
+![](dopamine-culture.png "Credits: Ted Gioa, \\\\\\"The honest Broker\\\\\\" substack")
 
 #### **Generative AI and Synthetic Media**
 
@@ -279,29 +293,39 @@ Thus while the participants articulate the data and formulations, it's the desig
 
 To be honest, this kind of design is so alien to me that I'm not sure of what existing product really look like, but here are some clues that I think can point us *towards*  a bottom up design. To start off with a quote from Christopher Alexander from *A pattern Language:*
 
+
+
 ![](mindstroms-about-prod_lineup-hero-standard-large.jpeg "Lego is an example. There's a set amount of kit parts, yet the participants can build a huge variety of creative models from the parts")
 
-![](7b5ad308995bdfe91fe44cbd0b370088.jpg "Airpod MAX mods give the product a flavour it did not possess earlier, yet adds to its \\\"coolness\\\"")
+![](7b5ad308995bdfe91fe44cbd0b370088.jpg "Airpod MAX mods give the product a flavour it did not possess earlier, yet adds to its \\\\"coolness\\\\"")
 
-![](https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/07/bosuzoku.jpg "Modded street racing cars are another greater example of \\\"bottom-up\\\" design")
+![](https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/07/bosuzoku.jpg "Modded street racing cars are another greater example of \\\\"bottom-up\\\\" design")
 
 ![](1-dqxvletktoo1gdus9nucrw.png "The Bottom-up data collection processes that citizen uses allows scientists to do their job exponentially  with the crowdsourced  help of those who aren't necessarily trained in science but are highly interested in it. This allows scientists the ability to create informed models of scale to influence policy etc.")
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*Hk7CmXXBxIGyZwNrzTanmQ.png "Stable Diffusion, an AI diffusion model, can help users generate custom models, merge them with other models, generate custom images in a certain style or even use another person's model. At  some level, this is a proto-generative graphic design process.")
 
-![](https://www.gamerz.ma/wp-content/uploads/2022/12/Pokemon-Glazed.jpg "Hacking and modding in videogames allows creative potential that the original creators did not necessarily intend. Pokemon \\\"Glazed version\\\" is a ROM hack of pokemon Emerald, an official gamefreak title.")
+![](https://www.gamerz.ma/wp-content/uploads/2022/12/Pokemon-Glazed.jpg "Hacking and modding in videogames allows creative potential that the original creators did not necessarily intend. Pokemon \\\\"Glazed version\\\\" is a ROM hack of pokemon Emerald, an official gamefreak title.")
 
-![](https://images.squarespace-cdn.com/content/v1/5df94dc4f40e87030eeeacee/1c3be14e-dd0d-4cf7-8cbf-090361e3e620/material+design.png "With the idea of \\"design systems\\" (and GenAI) we have already solved the problem of cohesiveness in a kit of parts, visually")
+![](https://images.squarespace-cdn.com/content/v1/5df94dc4f40e87030eeeacee/1c3be14e-dd0d-4cf7-8cbf-090361e3e620/material+design.png "With the idea of \\\"design systems\\\" (and GenAI) we have already solved the problem of cohesiveness in a kit of parts, visually")
 
-![](ert5oytym7dz.jpg "Ideally it would be like a  modular synth  (a machine that makes music via electrical signal processing), where each module can be independently constructed yet plugged-in to one another in one coherent powerful system. And much like how we \\\"play\\\" with the getting the right modules to get a good setup as well as \\\"play\\\" with the knobs to get a good generative beat going, designing systems and their outcomes will be a product of playfulness.")
+![](ert5oytym7dz.jpg "Ideally it would be like a  modular synth  (a machine that makes music via electrical signal processing), where each module can be independently constructed yet plugged-in to one another in one coherent powerful system. And much like how we \\\\"play\\\\" with the getting the right modules to get a good setup as well as \\\\"play\\\\" with the knobs to get a good generative beat going, designing systems and their outcomes will be a product of playfulness.")
 
-![](osc-1.jpg "In a prototypical fashion, certain inter-messaging protocols allow two programs to be completely distinct and yet make full use of the other's capabilities. Software companies have begun to notice this, which is why many of them are pivoting to open-standards and intercommunication protocols. Now, how do we design for both modulation of internal components of a system as well direct modulation of exernal programs as well? OSC allows Unreal Engine and Touchdesigner to \\\"gain\\\" each others powers and abilities unique to each other, creating a powerful example of symbiosis.")
+![](osc-1.jpg "In a prototypical fashion, certain inter-messaging protocols allow two programs to be completely distinct and yet make full use of the other's capabilities. Software companies have begun to notice this, which is why many of them are pivoting to open-standards and intercommunication protocols. Now, how do we design for both modulation of internal components of a system as well direct modulation of exernal programs as well? OSC allows Unreal Engine and Touchdesigner to \\\\"gain\\\\" each others powers and abilities unique to each other, creating a powerful example of symbiosis.")
 
 What I am probably trying to advocate for myself is, just like Barthes called for "death of the author" as a way to separate an author from their creative output (like how you separate JK rowling from Harry Potter), I'm calling for **death of the designer** *where* the designer is actually separate from what the final outcome and potential of the design itself would be. In this manner, the designer's job would be twofold:
 
 1. Building a powerful, creative and  generative system via crowdsourced data
 2. Finding the best space within the immensity of those generated possibilities and reaching an optimal" zone" where those possibilities are various enough for choice yet not too many to paralyze  
 3. Giving the participant the ability to choose their design solution.
+
+> <!--StartFragment-->
+>
+> “In order to design like nature, we need to consider how we can design a species. Thus, we will reframe the designer’s task from the design of a single physical object with a fixed form (the individual), to the design of abstract systems which encode the full range of formal possibilities for a particular design concept (the species).”
+>
+> \-Daniel Nagy, Generative designer
+>
+> <!--EndFragment-->
 
 Obviously, the reason that I used the example of a modular synth is because the selection process of those said possibilities will probably require *parameters* i.e Knobs and buttons determining how much of a certain trait you want in a solution.
 
@@ -321,7 +345,7 @@ This idea is a little too schizo and far fetched, and to be honest, I really don
 
 This is where design moves from a topdown physical craft based model to a biological bottom-up generative *breeding* of solutions model. Yes, I know it sounds strange, but stay with me. 
 
-![](gendesign.png "Generative design looks more like genome sequencing and \\\"breeding\\\" the final optimal solution in a space of possibilities. Here the genes x,y and z correspond to the length, width and height of the box.")
+![](gendesign.png "Generative design looks more like genome sequencing and \\\\"breeding\\\\" the final optimal solution in a space of possibilities. Here the genes x,y and z correspond to the length, width and height of the box.")
 
 ![](antenna-design.jpg "Some people have even commented that Generative Design solutions constructed by deep learning algorithms, though far more effective than human designs, look like strange alien biology.")
 
@@ -347,8 +371,6 @@ I don't know what this could really look like in contemporary terms, but UCSB's 
 
 These artifacts create new ideas, new abilities, new discoveries and new expressions in those that experience them , and can thus be called a generative artifact. This may seem like something new, but they've been here before, only to look like something that landed from outer space when they first released, like the printing press, the personal computer, the modular synthesizer, and most recently generative AI. That's what generative truly implies: ***the generation of novel possibility.*** 
 
-
-
 # The Voice of the East
 
 Partially, the reason why I want to do things differently is because of the way I've been taught design. My alma mater, Srishti, was still largely composed of traditional Bauhasian aspirations despite the experimental flavour that the media arts and sciences brought it. The school was largely coordinated and run by Ex-NID alumni, whose own tradition is as western as the west gets, being put into place there by the design duo Charles and Ray Eames.
@@ -361,19 +383,19 @@ So I wanted to ask, does the East have a voice? I don't have a conclusive answer
 
 There are three aspects to this voice of the East that I want to cover:
 
-*  **Firstly , Sound may probably the next major perceptual microscope and shift in innovative thinking.**
+* **Firstly , Sound may probably the next major perceptual microscope and shift in innovative thinking.**
 
 Ever since the west has dominated global discourse for centuries, visual sense has dominated most, if not all sphere of life. We have begun to largely think of the world in terms of eyes and vision, and indeed it was the instruments of vision (microscopes, telescopes, the printing press) that have kick-started the scientific enlightenment era that is responsible for the modern age. T[his shift has now "reformed" sensory priority to one that is visually dominant according to media theorists Mcluhan and Ong.](https://blogs.ubc.ca/etec540sept09/2009/11/02/formal-response-2-the-evolution-of-culture-from-oral-to-visual-dominance/)
 
 But in the worlds of science and data, we're beginning to shifts. Now, scientists are using sonic data to p[ropel conservation efforts](https://time.com/6279011/scientists-using-sound-to-study-nature/), as sound carries a breadth of scale that vision doesn't and this allows researches (via data sonification) to parse [big data in a way visuals cant](https://www.engineering.com/story/music-blends-with-engineering-as-big-data-is-transformed-into-sound). In the age of information, [sound may actually be the new optics](https://www.noemamag.com/the-sounds-of-invisible-worlds/).
 
-*  **India has a strangely futuristic sonic, spatial and computational philosophy.**
+* **India has a strangely futuristic sonic, spatial and computational philosophy.**
 
 Eastern cultures work in circles and space, as opposed to the Western idea of lines and linearity. We can observe this most directly in terms of how religions in each hemisphere view the afterlife (heaven vs reincarnation as line from A to B versus Cyclic repetition), as well as creation stories. In Genesis (the first book of the bible), god first exclaims "let there be light", after which creation is molded by god's hand. In Hinduism however, creation bursts through the first *sound*, the ***shabda*** whose vibrations dynamically materialize the universe. This is one of the many instances where Indian thought takes the idea of *emergent spatiality* very seriously, most notably in the figure of the *yantra*  as a geometrical visual representation a sound based *mantra*.
 
 Another example that comes to mind (I have a lot but it would massively extend this article), is the idea of *avatara.* 
 
-![](https://miro.medium.com/v2/resize:fit:1107/0*dNVT9LwII3X43o2W.jpg "Vishnu is being whose multiplicity incarnates in many diverse forms. This is due to the belief is \"Brahman\", where the entire universe is a singular conscious substance and multiple forms emerge from this matrix.")
+![](https://miro.medium.com/v2/resize:fit:1107/0*dNVT9LwII3X43o2W.jpg "Vishnu is being whose multiplicity incarnates in many diverse forms. This is due to the belief is \\"Brahman\\", where the entire universe is a singular conscious substance and multiple forms emerge from this matrix.")
 
 This aspect becomes very interesting, after I quote this from the *Computational Design thinking* reader:
 
@@ -391,7 +413,7 @@ To be honest, Indian philosophy and computers are two things I never really thou
 
 Whatever "it" is, it's musical at is core.
 
-*  **Indian philosophy, somehow, in many ways fits complexity thinking better.**
+* **Indian philosophy, somehow, in many ways fits complexity thinking better.**
 
 This is also something strange, but bear with me. Two quotes, one from the "Computational Design Thinking" reader by Menges and Ahlquist and another from "Indian Philosophy Vol. 2" by S. Radhakrishnan
 
@@ -407,8 +429,6 @@ The reason for this is probably due to the Idea that the universe is of cosmic i
 
 Emergence, systems intelligence, transience, chaos and complexity all work with Indian philosophy better. To map it out completely then, is a monumental task that can bear a huge variety of real fruit of labour.
 
-
-
 # So what is *Akaasha-shaastra*?
 
 *Akaasha-shastra* is a combination of two words. It is difficult to translate, and may sound huge pretentious (as well as borderline nationalistic), but I have genuinely coined this term because its a great way to neatly encompass what I want to do. 
@@ -419,7 +439,7 @@ Analogically, I'd like to think of it as the media of information . A computer c
 
 The word "celestial" and "cosmic" is such a great way to describe what I want to do, whether it be the space-like ambience of a modular synth, the immersive worlds of XR or the universes of data that manifest via the creative potential of deep learning[ latent space](https://theacademic.com/generative-models-and-their-latent-space/) in Generative Design, or may the infinite space of possibilities of new media itself, the cosmic and the celestial potential of the media arts practitioner is a a magical way to think about all of this. A universe doesn't need a religion or a set of values to appear magical, awe inspiring and sacred. It's us as humans in our imperfect nature, fueled by the ever consuming desire of consumerism that have turned away from what beauty *truly is.*
 
-*Shaastra*  means "compendium", but I take my definition from Bharata yet again. In the *Natyashastra,* he advocates a unitary synthesis between all disciplines, especially art and science (similar to Wagner's *Gesamkunstwerk* .or "total art"), yet Bharata takes a peculiarly modern stance by saying " treat this not as a manual, but a compendium. Take what you need, follow what works, and change the rules if the situation requires it). This is a huge contrast to modern founding texts, whose institutional influence actually prevents further progress by acting as a sort of holy book whose tenets must neither be questioned nor disobeyed. 
+*Shaastra*  means "compendium", but I take my definition from Bharata yet again. In the *Natyashastra,* he advocates a unitary synthesis between all disciplines, especially art and science (similar to Wagner's *Gesamkunstwerk* or "total art"), yet Bharata takes a peculiarly modern stance by saying " treat this not as a manual, but a compendium. Take what you need, follow what works, and change the rules if the situation requires it). This is a huge contrast to modern founding texts, whose institutional influence actually prevents further progress by acting as a sort of holy book whose tenets must neither be questioned nor disobeyed. 
 
 In many ways, *Shastra* is kind of like Deleuze and Guattari's Rhizome: An open system whose ingestion doesn't constrain by being a holy manual, but a way to generate ever more creative potentialities as a modular system whose modules you can actively include or ignore.
 
