@@ -353,7 +353,7 @@ This is where design moves from a topdown physical craft based model to a biolog
 
 ![](antenna-design.jpg "Some people have even commented that Generative Design solutions constructed by deep learning algorithms, though far more effective than human designs, look like strange alien biology.")
 
-![](datadriven.png "Generative design isn't a magic bullet as designers will still have to deal with the problem of \"solution slopes\". Think of it this way, you're trekking in an unknown valley to reach the highest point and you start climbing the closest slope available, only to find that you've climbed a hill and the mountain still looms in the distance. That's the problem of \\"local maxima\\". Credit: Joshua porter , \\"The local maximum\\"")
+![](datadriven.png "Design will still have to deal with the problem of suboptimal solutions in local maxima. Think of it like climbing the closest slope in a valley to reach the highest viewpoint, only to find that you have reached a hill and the mountain is kilometres awayCredit: Joshua Porter \"The Local maxima\"")
 
 Design then becomes the task of creating and living within a creative universe, and then subsequently guiding its evolution. What we have to do is to still make things usable, but we have to divorce ourselves from what the final design actually ends up looking it (when it stops being the object that designers want and starts being the object that users want) and what it is fully capable of (including how it interacts with things outside of it). This last part becomes more relevant especially when design's reach becomes spatial and we have to design for crowds of "users", including people from all walks of life both regular users and absolute newbies. 
 
