@@ -373,13 +373,13 @@ Eastern cultures work in circles and space, as opposed to the Western idea of li
 
 Another example that comes to mind (I have a lot but it would massively extend this article), is the idea of *avatara.* 
 
-![](https://miro.medium.com/v2/resize:fit:1107/0*dNVT9LwII3X43o2W.jpg "Vishnu is being whose multiplicity incarnates in many diverse forms. This is due to the belief is \"Brahman\", where the entire universe is a singular substance and multiple forms emerge from this matrix.")
+![](https://miro.medium.com/v2/resize:fit:1107/0*dNVT9LwII3X43o2W.jpg "Vishnu is being whose multiplicity incarnates in many diverse forms. This is due to the belief is \"Brahman\", where the entire universe is a singular conscious substance and multiple forms emerge from this matrix.")
 
 This aspect becomes very interesting, after I quote this from the *Computational Design thinking* reader:
 
 > "In his article Machinic Phylum, Manuel Delanda unfolds this philosophical concept and examines its significance in what he calls the *emergence of novelty*, where matter is seen as an active material with 'morphogenetic capabilities' to generate different structures through the constraints of its material properties........If you hold a carbon molecule in the right conditions it could take the shape of a diamond with its beautiful regular tetrahedal form. But it could also be graphite, who can rub off paper. ***One substance can occur in many forms"***
 
-![](https://blog.hootsuite.com/wp-content/uploads/2023/06/ai-art-prompt-4.png "One prompt can appear as a variety of outputs from a given abstract model. Generative design in Manufacturing, chip design and game design (such as no man's sky) works in many similar ways.")
+![](https://blog.hootsuite.com/wp-content/uploads/2023/06/ai-art-prompt-4.png "One prompt can appear as a variety of outputs from a given abstract model.")
 
 When we think of Generative design as the training of design models with data and creating emergent design from that via parameters, this strange yet analogical impression must be given a change. Generative design, in some way, fits Indian philosophy. How that came to be, I do not know, but it's here and it ***works.***
 
@@ -387,9 +387,11 @@ When we think of Generative design as the training of design models with data an
 
 Sound runs through the core of Indian thought and practice. India has been a historically oral culture, with many artifacts of its literature passed down via spoken word and memorized in its entirety (This is why the veda's have been cryptic, because the actual meaning of what is being said can only be understood via certain aspects of how it is vocally expressed). The *Bhagavad Gita* , a holy book of Hinduism, translates very literally to "The Song of God". We see that sound is running thread throughout Indian thought, and this must be paid attention to. 
 
-To be honest, Indian philosophy and computers are two things I never really thought would mesh well together, yet strangely enough, its very true that Indian philosophy works well with the intricacies of computation and Deep learning. The only thing left now is to really flesh out these maps and mold it
+To be honest, Indian philosophy and computers are two things I never really thought would mesh well together, yet strangely enough, its very true that Indian philosophy works well with the intricacies of computation and Deep learning. The only thing left now is to really flesh out these maps and mold it. It also helps that the media arts and sciences have had a strong musical core if we're curious enough to look for it. For example, MIDI and OSC are two protocols that originally emerged from the music technology space, yet tonnes of media artists who aren't musicians themselves swear by it. 
 
-*  Indian philosophy is very very different and in many ways fits complexity thinking better.
+Whatever "it" is, it's musical at is core.
+
+*  **Indian philosophy, somehow, in many ways fits complexity thinking better.**
 
 
 
