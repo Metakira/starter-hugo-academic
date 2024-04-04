@@ -309,8 +309,6 @@ To be honest, this kind of design is so alien to me that I'm not sure of what ex
 
 ![](mindstroms-about-prod_lineup-hero-standard-large.jpeg "Lego is an example. There's a set amount of kit parts, yet the participants can build a huge variety of creative models from the parts")
 
-![](1-dqxvletktoo1gdus9nucrw.png "The Bottom-up data collection processes that citizen uses allows scientists to do their job exponentially  with the crowdsourced  help of those who aren't necessarily trained in science but are highly interested in it. This allows scientists the ability to create informed models of scale to influence policy etc.")
-
 ![](https://miro.medium.com/v2/resize:fit:1400/1*Hk7CmXXBxIGyZwNrzTanmQ.png "Stable Diffusion, an AI diffusion model, can help users generate custom models, merge them with other models, generate custom images in a certain style or even use another person's model. At  some level, this is a proto-generative graphic design process.")
 
 ![](https://images.squarespace-cdn.com/content/v1/5df94dc4f40e87030eeeacee/1c3be14e-dd0d-4cf7-8cbf-090361e3e620/material+design.png "With the idea of \\\"design systems\\\" (and GenAI) we have already solved the problem of cohesiveness in a kit of parts, visually")
