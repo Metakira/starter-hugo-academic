@@ -355,8 +355,6 @@ Eastern cultures work in circles and space, as opposed to the Western idea of li
 
 Another example that comes to mind (I have a lot but it would massively extend this article), is the idea of *avatara.* This is a direct consequence of the Hindu belief in *Brahman* , a field of conscious, imperceptible space from whose matrix emerges individual forms with their unique attributes. 
 
-![](https://study.com/cimages/multimages/16/1avatar4043546336077231044.jpg)
-
 This aspect becomes very interesting, after I quote this from the *Computational Design thinking* reader:
 
 > "In his article Machinic Phylum, Manuel Delanda unfolds this philosophical concept and examines its significance in what he calls the *emergence of novelty*, where matter is seen as an active material with 'morphogenetic capabilities' to generate different structures through the constraints of its material properties........If you hold a carbon molecule in the right conditions it could take the shape of a diamond with its beautiful regular tetrahedal form. But it could also be graphite, who can rub off paper. ***One substance can occur in many forms"***
