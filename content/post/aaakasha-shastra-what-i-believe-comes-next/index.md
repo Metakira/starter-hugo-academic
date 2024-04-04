@@ -347,4 +347,52 @@ I don't know what this could really look like in contemporary terms, but UCSB's 
 
 These artifacts create new ideas, new abilities, new discoveries and new expressions in those that experience them , and can thus be called a generative artifact. This may seem like something new, but they've been here before, only to look like something that landed from outer space when they first released, like the printing press, the personal computer, the modular synthesizer, and most recently generative AI. That's what generative truly implies: ***the generation of novel possibility.*** 
 
+
+
 # The Voice of the East
+
+Partially, the reason why I want to do things differently is because of the way I've been taught design. My alma mater, Srishti, was still largely composed of traditional Bauhasian aspirations despite the experimental flavour that the media arts and sciences brought it. The school was largely coordinated and run by Ex-NID alumni, whose own tradition is as western as the west gets, being put into place there by the design duo Charles and Ray Eames.
+
+But what that ultimately means is that there's no "[decolonized" Indian design](https://www.cca.edu/newsroom/decolonial-school-decolonizing-design/), because the very nuts and bolts of what we term design are very, by and large, undeniably western. And yet now there's a calling for new systems and ways of thinking. 
+
+This has a lot of us flummoxed, because the model of design itself is inseparable from its western origins, and no matter how much surface paint we apply from our own cultures, we cannot really change the marrow of design itself being a western Bauhaus product. ***If we are to create a novel Indian media arts grammar, the entire project has to be conceptually theorized "bottom-up" as well.***
+
+So I wanted to ask, does the East have a voice? I don't have a conclusive answer, but I still think, if we are brave enough, *maybe there can be.*
+
+There are three aspects to this voice of the East that I want to cover:
+
+*  **Firstly , Sound may probably the next major perceptual microscope and shift in innovative thinking.**
+
+Ever since the west has dominated global discourse for centuries, visual sense has dominated most, if not all sphere of life. We have begun to largely think of the world in terms of eyes and vision, and indeed it was the instruments of vision (microscopes, telescopes, the printing press) that have kick-started the scientific enlightenment era that is responsible for the modern age. T[his shift has now "reformed" sensory priority to one that is visually dominant according to media theorists Mcluhan and Ong.](https://blogs.ubc.ca/etec540sept09/2009/11/02/formal-response-2-the-evolution-of-culture-from-oral-to-visual-dominance/)
+
+But in the worlds of science and data, we're beginning to shifts. Now, scientists are using sonic data to p[ropel conservation efforts](https://time.com/6279011/scientists-using-sound-to-study-nature/), as sound carries a breadth of scale that vision doesn't and this allows researches (via data sonification) to parse [big data in a way visuals cant](https://www.engineering.com/story/music-blends-with-engineering-as-big-data-is-transformed-into-sound). In the age of information, [sound may actually be the new optics](https://www.noemamag.com/the-sounds-of-invisible-worlds/).
+
+*  **India has a strangely futuristic sonic, spatial and computational philosophy.**
+
+Eastern cultures work in circles and space, as opposed to the Western idea of lines and linearity. We can observe this most directly in terms of how religions in each hemisphere view the afterlife (heaven vs reincarnation as line from A to B versus Cyclic repetition), as well as creation stories. In Genesis (the first book of the bible), god first exclaims "let there be light", after which creation is molded by god's hand. In Hinduism however, creation bursts through the first *sound*, the ***shabda*** whose vibrations dynamically materialize the universe. This is one of the many instances where Indian thought takes the idea of *emergent spatiality* very seriously, most notably in the figure of the *yantra*  as a geometrical visual representation a sound based *mantra*.
+
+Another example that comes to mind (I have a lot but it would massively extend this article), is the idea of *avatara.* 
+
+![](https://miro.medium.com/v2/resize:fit:1107/0*dNVT9LwII3X43o2W.jpg "Vishnu is being whose multiplicity incarnates in many diverse forms. This is due to the belief is \"Brahman\", where the entire universe is a singular substance and multiple forms emerge from this matrix.")
+
+This aspect becomes very interesting, after I quote this from the *Computational Design thinking* reader:
+
+> "In his article Machinic Phylum, Manuel Delanda unfolds this philosophical concept and examines its significance in what he calls the *emergence of novelty*, where matter is seen as an active material with 'morphogenetic capabilities' to generate different structures through the constraints of its material properties........If you hold a carbon molecule in the right conditions it could take the shape of a diamond with its beautiful regular tetrahedal form. But it could also be graphite, who can rub off paper. ***One substance can occur in many forms"***
+
+![](https://blog.hootsuite.com/wp-content/uploads/2023/06/ai-art-prompt-4.png "One prompt can appear as a variety of outputs from a given abstract model. Generative design in Manufacturing, chip design and game design (such as no man's sky) works in many similar ways.")
+
+When we think of Generative design as the training of design models with data and creating emergent design from that via parameters, this strange yet analogical impression must be given a change. Generative design, in some way, fits Indian philosophy. How that came to be, I do not know, but it's here and it ***works.***
+
+![](https://www.assemblymag.com/ext/resources/Issues/2019/FoF/software/asbfotf0519gen2.jpg?t=1556733100&width=1080 "Example from Generative design in manufacturing.")
+
+
+
+*  Indian philosophy is very very different and in many ways fits complexity thinking better.
+
+
+
+
+
+
+
+# So what is *Akaasha-shaastra*?
