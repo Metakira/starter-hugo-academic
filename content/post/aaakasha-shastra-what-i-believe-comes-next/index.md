@@ -425,6 +425,6 @@ The word "celestial" and "cosmic" is such a great way to describe what I want to
 
 In many ways, *Shastra* is kind of like Deleuze and Guattari's Rhizome: An open system whose ingestion doesn't constrain by being a holy manual, but a way to generate ever more creative potentialities as a modular system whose modules you can actively include or ignore.
 
-So if I had to translate, it would be " The Generative Art and Science of Celestial Sonorous media", but I guess that still wouldn't cover everything.
+So if I had to translate, it would be " The Generative Art-Science-Engineering-Design of Celestial Sonorous media", but I guess that still wouldn't cover everything.
 
 I hope It's still enough of a map to find my way out there in the real world.
