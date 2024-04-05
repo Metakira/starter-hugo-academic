@@ -25,7 +25,7 @@ marketing:
   analytics:
     google_analytics: ''
     baidu_tongji: ''
-    google_tag_manager: ''
+    google_tag_manager: '6705173209'
     microsoft_clarity: ''  
   verification:
     google: google17f1011893727a88.html
