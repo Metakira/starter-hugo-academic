@@ -168,6 +168,8 @@ The dangers of synthetic media, however, are even more grim. For the first time 
 
 Syncretism is defined as:
 
+"*Syncretism is the practice of combining different beliefs and various schools of thought. Syncretism involves the merging or assimilation of several originally discrete traditions*"
+
 So obviously I'm talking about building a new discipline in and of itself. But here's the deal. I don't think of myself as any guru or innovator or visionary, and I don't really need to be one in order to justify the need for a syncretism. The simple reason for a syncretism is that overall, I'm interested in a great many things, and yet its ***hard***  to put all of this in a box. Is it Computational design? Is it New Media? Is it creative tech? Music technology? 
 
 My head really starts to hurt because ***all of these things are very closely related, yet none of them really have any overarching term.*** It's both all AND none of the above. So while I have said that this is the future of design (for my thesis), the truth is that this has nothing to do with design, technology, media, art, science, philosophy, and has everything to do with them as well. It's a fucking headache.
@@ -244,7 +246,7 @@ As I've written in my Artscience post, inventions and tools that start out as cr
 
 ![](spacecraft.png)
 
-Bottom-up engineering is what we can call "hacking". The origin of the word "hack" did not mean to break into computer security systems, but [to create unique, funny  and novel inventions](https://www.catb.org/jargon/html/meaning-of-hack.html). Take for example the hacker mindset from the ["hacker how to " website](http://www.catb.org/~esr/faqs/hacker-howto.html):
+Bottom-up engineering is what we can call "hacking". The origin of the word "hack" did not mean to break into computer security systems, but [to create unique, funny  and novel inventions](https://www.catb.org/jargon/html/meaning-of-hack.html). Take for example the hacker mindset from the ["hacker how to " website](http://www.catb.org/~esr/faqs/hacker-howto.html).
 
 Creative engineering doesn't come from an overlord giving instructions. Rather, we see that it's a process that comes from your own desire to play, experiment, tool, fabricate and reconstruct all the weird and wacky things that the world never knew it needed. This is something  hard to understand in a culture that consistently demands one be "practical" (an ever shifting transient definitions), but take the case of the first Iphone model.
 
@@ -283,15 +285,11 @@ The question is, how do we really build these solutions? Hence *modulative*  as 
 
 Thus while the participants articulate the data and formulations, it's the designer that makes this formulation usable, systemically integrated and cohesive instead of tacky, ill bordered and ill fitted.
 
-
-
 > “In order to design like nature, we need to consider how we can design a species. Thus, we will reframe the designer’s task from the design of a single physical object with a fixed form (the individual), to the design of abstract systems which encode the full range of formal possibilities for a particular design concept (the species).”
 >
 > \-Daniel Nagy, Generative designer
 
 To be honest, this kind of design is so alien to me that I'm not sure of what existing product really look like, but here are some clues that I think can point us *towards*  a bottom up design. To start off with a quote from Christopher Alexander from *A pattern Language:*
-
-
 
 > Christopher Alexander, “Systems generating systems”
 >
@@ -331,7 +329,7 @@ This idea is a little too schizo and far fetched, and to be honest, I really don
 
 This is where design moves from a topdown physical craft based model to a biological bottom-up generative *breeding* of solutions model. Yes, I know it sounds strange, but stay with me. 
 
-![](gendesign.png "Generative design looks more like genome sequencing and \"breeding\" the final optimal solution in a space of possibilities. Here the genes x,y and z correspond to the length, width and height of the box.")
+![](gendesign.png "Generative design looks more like genome sequencing and \\"breeding\\" the final optimal solution in a space of possibilities. Here the genes x,y and z correspond to the length, width and height of the box.")
 
 Design then becomes the task of creating and living within a creative universe, and then subsequently guiding its evolution. What we have to do is to still make things usable, but we have to divorce ourselves from what the final design actually ends up looking it (when it stops being the object that designers want and starts being the object that users want) and what it is fully capable of (including how it interacts with things outside of it). This last part becomes more relevant especially when design's reach becomes spatial and we have to design for crowds of "users", including people from all walks of life both regular users and absolute newbies. 
 
