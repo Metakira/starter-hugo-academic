@@ -65,5 +65,5 @@ email: ""
 ---
 I am a Bengaluru based New Media artist, Creative technologist and Computational designer who likes to build cool audiovisual stuff in a variety of domains, but primarily in XR and immersive media. Please see my [current research statement](https://drive.google.com/file/d/1iiTlBvDK-v1hglDiJX2cJ-pDcedXFpI0/view?usp=sharing) for a full disclosure of my varied interests.
 
-I also run a personal net-art media project called ["INDU"](https://mxchina.neocities.org/) where I attempt to formulate my thoughts on Indigenous media dialectics.
+I also run a personal net-art media project called ["INDU"](https://mxchina.neocities.org/) where I attempt to formulate my thoughts on indigenous media dialectics.
 
