@@ -30,6 +30,9 @@ social:
   - icon: book
     icon_pack: fas
     link: https://bookwyrm.social/user/georgepanicker
+  - icon: film
+    icon_pack: fas
+    link: https://letterboxd.com/mxchina/films/
   - icon: mastodon
     icon_pack: fab
     link: https://mastodon.social/@georgepanicker
