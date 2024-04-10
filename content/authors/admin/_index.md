@@ -63,6 +63,6 @@ title: George Panicker
 first_name: Alice
 email: ""
 ---
-I am a Bengaluru based New Media artist, Creative technologist and Computational designer who likes to build cool audiovisual stuff in a variety of domains, but primarily in XR and immersive media. Please see my [current research statement](https://drive.google.com/file/d/1Soz_x1HDM0kSgqYokWD8f_XxeeeMIdf6/view?usp=sharing) for a full disclosure of my varied interests.
+I am a Bengaluru based New Media artist, Creative technologist and Computational designer who likes to build cool audiovisual stuff in a variety of domains, but primarily in XR and immersive media, and this website serves as a documentation of my professional work as well as an outlet for personal opinions. Please see my [current research statement](https://drive.google.com/file/d/1Soz_x1HDM0kSgqYokWD8f_XxeeeMIdf6/view?usp=sharing) for a full disclosure of my varied interests in the realms of New Media art, Creative Technology and Computational design.
 
-I also run a personal net-art media project called ["INDU"](https://mxchina.neocities.org/) where I attempt to formulate my thoughts on indigenous media dialectics. I try keep an active logbook of artistic experiments [here](https://lekha.cc/artist/mxchina) and documentation of my visual portfolio [here](https://portfolio.pixelfed.social/gearworks). 
+I try keep an active logbook of artistic experiments [here](https://lekha.cc/artist/mxchina) and documentation of my visual portfolio [here](https://portfolio.pixelfed.social/gearworks). I also run a personal net-art media project called ["INDU"](https://mxchina.neocities.org/) where I attempt to formulate my thoughts on how we can rethink Indian ideas for the emerging world of New Media and Cyberculture.
