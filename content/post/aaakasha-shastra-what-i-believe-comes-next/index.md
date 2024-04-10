@@ -311,9 +311,9 @@ To be honest, this kind of design is so alien to me that I'm not sure of what ex
 
 ![](ert5oytym7dz.jpg "It's like modular synth culture. Playfully build, playfully arrange, play with your knobs and generate music.")
 
-![](1-dqxvletktoo1gdus9nucrw.png "Data and modelling becomes the bits and pieces that inform crowdsourced design")
+![](1-dqxvletktoo1gdus9nucrw.png "Data and modelling becomes the bits and pieces that inform crowdsourced design, giving scientists perspectives on behaviour patterns they would not be able to deduce on their own")
 
-![](https://i.pinimg.com/736x/46/47/8b/46478bf9c9013abdd01ff6a9a97dfe0d.jpg "Car modding turns a dulll sedan into a hot-rod streetracer")
+![](https://i.pinimg.com/736x/46/47/8b/46478bf9c9013abdd01ff6a9a97dfe0d.jpg "Car modding turns a dull sedan into a hot-rod street racer")
 
 ![](osc-1.jpg "With certain new developments, two completely different programs can share data and make full use of each other's features. In thermodynamics, this is called an Open system, as opposed to a Closed system")
 
@@ -341,7 +341,7 @@ Design then becomes the task of creating and living within a creative universe, 
 
 The last aspect that hammers the nail in this biological design model is the newfound affordance of ***intelligence*** that LLM's and AI agents provide us. 
 
-Design, eventually, becomes the design of an intelligent environment which the designer finds themselves embodied in, what the Anthropologist and Cybernetician Gregory Bateson called "[An ecology of Mind](https://www.architectural-review.com/essays/an-ecology-of-mind)". I really, REALLY like this term because its a direct step up from the affordance theory promoted by ethologist James Gibson, where we now move from  *systems thinking*  to ***systems intelligence*** much like how a collection of cells would coordinate behavior amongst  themselves. Environmental intelligence is a fascinating field. Check this article "[The intelligent forest](https://www.noemamag.com/the-intelligent-forest/)" by Noema Magazine to learn more.
+Design, eventually, becomes the design of an intelligent environment which the designer finds themselves embodied in, what the Anthropologist and Cybernetician Gregory Bateson called "[An ecology of Mind](https://www.architectural-review.com/essays/an-ecology-of-mind)". I really, REALLY like this term because its a direct step up from the affordance theory promoted by ethologist James Gibson, where we now move from  *systems thinking*  to ***systems intelligence*** much like how a collection of cells would coordinate behavior amongst  themselves. (Environmental intelligence is a fascinating field. Check this article "[The intelligent forest](https://www.noemamag.com/the-intelligent-forest/)" by Noema Magazine to learn more.)
 
 ![](linear-design.png)
 
@@ -369,7 +369,7 @@ These artifacts create new ideas, new abilities, new discoveries and new express
 
 Partially, the reason why I want to do things differently is because of the way I've been taught design. My alma mater, Srishti, was still largely composed of traditional Bauhasian aspirations despite the experimental flavour that the media arts and sciences brought it. The school was largely coordinated and run by Ex-NID alumni, whose own tradition is as western as the west gets, being put into place there by the design duo Charles and Ray Eames.
 
-But what that ultimately means is that there's no "[decolonized" Indian design](https://www.cca.edu/newsroom/decolonial-school-decolonizing-design/), because the very nuts and bolts of what we term design are very, by and large, undeniably western. And yet now there's a calling for new systems and ways of thinking. 
+But what that ultimately means is that there's no "[decolonized" Indian design](https://www.cca.edu/newsroom/decolonial-school-decolonizing-design/), because the very nuts and bolts of what we term design are very, by and large, undeniably western. And yet now there's a call for new systems and ways of thinking. 
 
 This has a lot of us flummoxed, because the model of design itself is inseparable from its western origins, and no matter how much surface paint we apply from our own cultures, we cannot really change the marrow of design itself being a western Bauhaus product. ***If we are to create a novel Indian media arts grammar, the entire project has to be conceptually theorized "bottom-up" as well.***
 
@@ -381,7 +381,7 @@ There are three aspects to this voice of the East that I want to cover:
 
 Ever since the west has dominated global discourse for centuries, visual sense has dominated most, if not all sphere of life. We have begun to largely think of the world in terms of eyes and vision, and indeed it was the instruments of vision (microscopes, telescopes, the printing press) that have kick-started the scientific enlightenment era that is responsible for the modern age. T[his shift has now "reformed" sensory priority to one that is visually dominant according to media theorists Mcluhan and Ong.](https://blogs.ubc.ca/etec540sept09/2009/11/02/formal-response-2-the-evolution-of-culture-from-oral-to-visual-dominance/)
 
-But in the worlds of science and data, we're beginning to shifts. Now, scientists are using sonic data to p[ropel conservation efforts](https://time.com/6279011/scientists-using-sound-to-study-nature/), as sound carries a breadth of scale that vision doesn't and this allows researches (via data sonification) to parse [big data in a way visuals cant](https://www.engineering.com/story/music-blends-with-engineering-as-big-data-is-transformed-into-sound). In the age of information, [sound may actually be the new optics](https://www.noemamag.com/the-sounds-of-invisible-worlds/). This is [why scientists studying ecology, biology and climate change are turning towards new sound-based systems.](https://mlml.io/p/institute-for-climate-sound-and-society/)
+But in the worlds of science and data, we're beginning to shifts. Now, scientists are using sonic data to p[ropel conservation efforts](https://time.com/6279011/scientists-using-sound-to-study-nature/), as sound carries a breadth of scale that vision doesn't and this allows researchers (via data sonification) to parse [big data in a way visuals cant](https://www.engineering.com/story/music-blends-with-engineering-as-big-data-is-transformed-into-sound). In the age of information, [sound may actually be the new optics](https://www.noemamag.com/the-sounds-of-invisible-worlds/). This is [why scientists studying ecology, biology and climate change are turning towards new sound-based systems.](https://mlml.io/p/institute-for-climate-sound-and-society/)
 
 * **India has a strangely futuristic sonic, spatial and computational philosophy.**
 
