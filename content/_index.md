@@ -195,14 +195,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: 'My LogBook'
-      text: |-
-        <iframe title="Pixelfed Profile Embed" src="https://pixelfed.social/gearworks/embed" class="pixelfed__embed" style="max-width: 100%; border: 0" width="900" allowfullscreen="allowfullscreen">            </iframe><script async defer src="https://pixelfed.social/embed.js"></script>
-    design:
-      columns: '2'
   - block: collection
     id: featured
     content:
