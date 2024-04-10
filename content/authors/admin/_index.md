@@ -32,7 +32,7 @@ social:
     link: https://bookwyrm.social/user/georgepanicker
   - icon: film
     icon_pack: fas
-    link: https://letterboxd.com/mxchina/films/
+    link: https://simkl.com/6758031/movies/completed/
   - icon: mastodon
     icon_pack: fab
     link: https://mastodon.social/@georgepanicker
