@@ -188,7 +188,7 @@ The problem with current dialogue is that they are top-down i.e impositional. Th
 
 ![](towerofbabel.jpg.jpg "Credit: Hiro Ishii, Tangible Media group")
 
-What I believe is required is something similar to what the Media lab outlined as "transcending" the tower of babel i.e being well versed in the four languages of art, science, engineering and design in order to transcend it and create something new. 
+What I believe is required is something similar to what the Media lab outlined as "transcending" the tower of babel i.e being well versed in the[ Rich-Gold matrix ](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ioannouolga.wordpress.com/2018/04/19/the-rich-gold-matrix/&ved=2ahUKEwjhvYbo-reFAxWp8DgGHannBLkQFnoECBUQAQ&usg=AOvVaw1vuC_p9JaJjzMIaTiRH9zt)of four languages of art, science, engineering and design in order to transcend it and create something new. 
 
 **Art: The grammar of transcendent sublime beauty that generates desire.**
 
@@ -255,7 +255,7 @@ When the first iphone released, it had:
 * No app store 
 * No mobile data (Jobs had to convince AT&T and Verizon to actually make this happen)
 * It had no low processing power
-* Even the touchscreen aspect was glitchy
+* Even the touchscreen feature was glitchy
 
 For all intents and purposes, , it was product without a customer. But thing is, magical products, in the right time and place,  despite their gimmicky nature have this incredible capacity to *generate* their own use cases. It's this desire to experiment *with* their multifarious capacities and capabilities that builds an ecosystem around them. That's why invention, true creative innovation, can't happen within the mainstream. It has to be the "weird made cool". 
 
@@ -305,11 +305,17 @@ To be honest, this kind of design is so alien to me that I'm not sure of what ex
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*Hk7CmXXBxIGyZwNrzTanmQ.png "Stable Diffusion, an AI diffusion model, can help users generate custom models, merge them with other models, generate custom images in a certain style or even use another person's model. At  some level, this is a proto-generative graphic design process.")
 
-![](https://images.squarespace-cdn.com/content/v1/5df94dc4f40e87030eeeacee/1c3be14e-dd0d-4cf7-8cbf-090361e3e620/material+design.png "With the idea of \"design systems\" (and GenAI) we have already solved the problem of cohesiveness in a kit of parts, visually")
+![](https://images.squarespace-cdn.com/content/v1/5df94dc4f40e87030eeeacee/1c3be14e-dd0d-4cf7-8cbf-090361e3e620/material+design.png "With the idea of design systems (and GenAI) we have already solved the problem of cohesiveness in a kit of parts, visually")
 
 ![](7b5ad308995bdfe91fe44cbd0b370088.jpg "User modding, both software and hardware, adds personal flavour to the design language of the original")
 
 ![](ert5oytym7dz.jpg "It's like modular synth culture. Playfully build, playfully arrange, play with your knobs and generate music.")
+
+![](1-dqxvletktoo1gdus9nucrw.png "Data and modelling becomes the bits and pieces that inform crowdsourced design")
+
+![](https://i.pinimg.com/736x/46/47/8b/46478bf9c9013abdd01ff6a9a97dfe0d.jpg "Car modding turns a dulll sedan into a hot-rod streetracer")
+
+![](osc-1.jpg "With certain new developments, two completely different programs can share data and make full use of each other's features. In thermodynamics, this is called an Open system, as opposed to a Closed system")
 
 What I am probably trying to advocate for myself is, just like Barthes called for "death of the author" as a way to separate an author from their creative output (like how you separate JK Rowling from Harry Potter), I'm calling for **death of the designer** *where* the designer is actually separate from what the final outcome and potential of the design itself would be. In this manner, the designer's job would be twofold:
 
@@ -329,13 +335,19 @@ This idea is a little too schizo and far fetched, and to be honest, I really don
 
 This is where design moves from a topdown physical craft based model to a biological bottom-up generative *breeding* of solutions model. Yes, I know it sounds strange, but stay with me. 
 
-![](gendesign.png "Generative design looks more like genome sequencing and \\"breeding\\" the final optimal solution in a space of possibilities. Here the genes x,y and z correspond to the length, width and height of the box.")
+![](gendesign.png "Generative design looks more like genome sequencing and breeding the final optimal solution in a variety of possibilities. Here the genes x,y and z correspond to the length, width and height of the box.")
 
 Design then becomes the task of creating and living within a creative universe, and then subsequently guiding its evolution. What we have to do is to still make things usable, but we have to divorce ourselves from what the final design actually ends up looking it (when it stops being the object that designers want and starts being the object that users want) and what it is fully capable of (including how it interacts with things outside of it). This last part becomes more relevant especially when design's reach becomes spatial and we have to design for crowds of "users", including people from all walks of life both regular users and absolute newbies. 
 
 The last aspect that hammers the nail in this biological design model is the newfound affordance of ***intelligence*** that LLM's and AI agents provide us. 
 
 Design, eventually, becomes the design of an intelligent environment which the designer finds themselves embodied in, what the Anthropologist and Cybernetician Gregory Bateson called "[An ecology of Mind](https://www.architectural-review.com/essays/an-ecology-of-mind)". I really, REALLY like this term because its a direct step up from the affordance theory promoted by ethologist James Gibson, where we now move from  *systems thinking*  to ***systems intelligence*** much like how a collection of cells would coordinate behavior amongst  themselves. Environmental intelligence is a fascinating field. Check this article "[The intelligent forest](https://www.noemamag.com/the-intelligent-forest/)" by Noema Magazine to learn more.
+
+![](linear-design.png)
+
+![](computational-design.png)
+
+![](https://miro.medium.com/v2/resize:fit:3000/format:webp/1*s98CmbV9ztPkNVHij-I-YQ.png "Credits to Jasmine Oh, Yes AI will Replace designers, Medium 2019")
 
 .....................................................................................................................................................................
 
@@ -369,7 +381,7 @@ There are three aspects to this voice of the East that I want to cover:
 
 Ever since the west has dominated global discourse for centuries, visual sense has dominated most, if not all sphere of life. We have begun to largely think of the world in terms of eyes and vision, and indeed it was the instruments of vision (microscopes, telescopes, the printing press) that have kick-started the scientific enlightenment era that is responsible for the modern age. T[his shift has now "reformed" sensory priority to one that is visually dominant according to media theorists Mcluhan and Ong.](https://blogs.ubc.ca/etec540sept09/2009/11/02/formal-response-2-the-evolution-of-culture-from-oral-to-visual-dominance/)
 
-But in the worlds of science and data, we're beginning to shifts. Now, scientists are using sonic data to p[ropel conservation efforts](https://time.com/6279011/scientists-using-sound-to-study-nature/), as sound carries a breadth of scale that vision doesn't and this allows researches (via data sonification) to parse [big data in a way visuals cant](https://www.engineering.com/story/music-blends-with-engineering-as-big-data-is-transformed-into-sound). In the age of information, [sound may actually be the new optics](https://www.noemamag.com/the-sounds-of-invisible-worlds/).
+But in the worlds of science and data, we're beginning to shifts. Now, scientists are using sonic data to p[ropel conservation efforts](https://time.com/6279011/scientists-using-sound-to-study-nature/), as sound carries a breadth of scale that vision doesn't and this allows researches (via data sonification) to parse [big data in a way visuals cant](https://www.engineering.com/story/music-blends-with-engineering-as-big-data-is-transformed-into-sound). In the age of information, [sound may actually be the new optics](https://www.noemamag.com/the-sounds-of-invisible-worlds/). This is [why scientists studying ecology, biology and climate change are turning towards new sound-based systems.](https://mlml.io/p/institute-for-climate-sound-and-society/)
 
 * **India has a strangely futuristic sonic, spatial and computational philosophy.**
 
