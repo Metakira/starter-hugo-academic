@@ -14,13 +14,12 @@ bio: I am a New Media artist, Creative technologist and Computational designer.
   My interests span the domains of art, science, design, technology, music and
   philosophy.
 interests:
-  - Haptics
-  - Neurotechnology
-  - Sound/music
-  - XR and immersive worlds
+  - Haptics and Neurotechnology
+  - Sound art, computer music, Spatial audio
+  - XR, Immersive worlds
   - Computational and generative design
   - New Media theory
-  - Generative anything
+  - Recently, ML, IOT and Deep Learning as well
 social:
   - icon: music
     icon_pack: fas
