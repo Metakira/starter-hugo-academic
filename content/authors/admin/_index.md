@@ -19,6 +19,7 @@ interests:
   - XR, Immersive worlds
   - Computational and generative design
   - New Media theory
+  - Indian art, music and perspectives 
   - Recently, ML, IOT and Deep Learning as well
 social:
   - icon: music
