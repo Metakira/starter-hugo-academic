@@ -31,11 +31,12 @@ sections:
           company_logo: HIVE 
           location: Remote
           date_start: '2024-01-12'
-          date_end: ''
+          date_end: '2024-04-12'
           description: |2-
               Responsibilities include:
 
-              * Research on musical haptics for [NIME](https://www.nime.org/)
+              * Research on musical haptics for a NIME paper
+              * Physical computing prototype with Arduino and SuperCollider  
 
         - title: Neuro-haptics Researcher
           company: Compossible Umwelten
