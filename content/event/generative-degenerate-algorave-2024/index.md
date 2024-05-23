@@ -1,8 +1,8 @@
 ---
 title: Generative Degenerate, Algorave 2024
 abstract: I will be experimenting with glitching breakbeats in Chuck +
-  touchdesigner, exploring some machine learning tools in Chuck’s new AI
-  library.
+  touchdesigner, alongside exploring some machine learning tools in Chuck’s new
+  AI library.
 location: HSR layout, Bangalore
 date: 2024-05-25T13:00:17.015Z
 date_end: 2024-05-25T13:30:00.000Z
