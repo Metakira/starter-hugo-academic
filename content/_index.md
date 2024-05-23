@@ -233,7 +233,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Talks
+      title: Events
       filters:
         folders:
           - event
