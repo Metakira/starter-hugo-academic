@@ -30,4 +30,4 @@ Algorave – a word coined to give an identity to events that use open source co
 
 Generative Degenerate is a month long tour of Algorave India across multiple cities to celebrate the birth of the collective six years ago.
 
-I will be glitching breakbeats on ChuckDesigner, a ChucK + Touchdesigner setup using an array of tools, including the new ML tools included in ChucK 1.5
+I will be running as MachineBlade, glitching breakbeats on ChuckDesigner, a ChucK + Touchdesigner setup using an array of tools, including the new ML tools included in ChucK 1.5
