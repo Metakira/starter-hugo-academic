@@ -1,12 +1,13 @@
 ---
 title: Generative Degenerate, Algorave 2024
-abstract: I will be experimenting with glitching breakbeats in Chuck +
-  touchdesigner, alongside exploring some machine learning tools in Chuck’s new
-  AI library.
+abstract: Algorave audiovisual set
 location: HSR layout, Bangalore
 date: 2024-05-25T13:00:17.015Z
 date_end: 2024-05-25T13:30:00.000Z
 all_day: false
+links:
+  - url: https://lu.ma/kmyc4sxp
+    name: Luma Link
 event: "Generative Degenerate Bangalore edition, Algorave India "
 event_url: https://algorave.in/events/Generative-Degenerate-Bengaluru-Edition.html
 publishDate: 2024-05-23T13:19:17.027Z
