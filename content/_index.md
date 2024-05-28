@@ -244,7 +244,6 @@ sections:
     id: talks
     content:
       title: Events
-      subtitle: 'Things I've participated in the past'
       filters:
         folders:
           - event
