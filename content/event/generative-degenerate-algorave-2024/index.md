@@ -6,7 +6,7 @@ date: 2024-05-25T13:00:17.015Z
 date_end: 2024-05-25T13:30:00.000Z
 all_day: false
 links:
-  - url: https://lu.ma/kmyc4sxp
+  - url: https://web.archive.org/web/20240525161547/https://lu.ma/kmyc4sxp
     name: Luma Link
 event: "Generative Degenerate Bangalore edition, Algorave India "
 event_url: https://algorave.in/events/Generative-Degenerate-Bengaluru-Edition.html
