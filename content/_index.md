@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: George Panicker
+title: 
 date: 2022-10-24
 type: landing
 
@@ -24,7 +24,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-
         - title: Research collaborator
           company: HIVE lab (Department of Design, IIT Kanpur)
           company_url: 'https://home.iitk.ac.in/~gowdhampg/'
@@ -80,23 +79,9 @@ sections:
               * Setting up of ecological soundstream with Hannah Kemp from [CriSap](https://crisap.org/), UAL and Grant smith from [SoundTent](https://soundtent.org/soundcamp_about.html) for the [Acoustic Commons Network](https://acousticommons.net/)
               * Prototyping biofeedback based interactions with EMG sensors (MYOWARE)
               * Coordinated the final design and development of the [IMMSANE website](https://www.immsane.com/) for Yati Durant and Andre Bellmonte from the Zurich University of the arts
-#        - title: 
-#         company: 
-#         company_url: ''
-#         company_logo: 
-#         location: 
-#         date_start: ''
-#         date_end: ''
-#         description: |2-
-#             Responsibilities include:
-
-#             * 
-#             * 
-#             *
-#             * 
-#             * 
     design:
       columns: '2'
+      
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -119,6 +104,7 @@ sections:
           organization_url: 'https://www.udemy.com/'
           title: Generative Motion Graphics/vfx in UE-5
           url: 'https://www.udemy.com/course/ue5-procedural-vfx-motion-graphics/'
+          
         - certificate_url: 'https://drive.google.com/file/d/1eQCS27J3YaqwDIYT6gkbxYt01D7tHVvK/view?usp=sharing'
           date_end: ''
           date_start: '2022-11-01'
@@ -128,6 +114,7 @@ sections:
           organization_url: 'https://www.ey.com/en_in'
           title: National semifinalist, EY techathon's "Enter the metaverse" challenge
           url: 'https://www.ey.com/en_in/techathon-3/challenge-1-build-a-digital-twin'
+          
         - certificate_url: 'https://www.complexityexplorer.org/courses/165-introduction-to-complexity-2023/certificates/3787194370'
           date_end: ''
           date_start: '2023-04-01'
@@ -139,14 +126,16 @@ sections:
           url: 'https://www.complexityexplorer.org/courses/165-introduction-to-complexity' 
     design:
       columns: '2'
+      
   - block: gallery
     content:
       title: 'Feed'
-      text:|- 
-      <iframe title="Pixelfed Profile Embed" src="https://pixelfed.social/gearworks/embed" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pixelfed.social/embed.js"></script>
+      text: |2-
+        <iframe src="https://instagram.com/p/your-post-id/embed" width="400" height="480" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
     design:
       columns: '2'
       view: 'compact'  
+      
   - block: collection
     id: posts
     content:
@@ -174,6 +163,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+      
   - block: portfolio
     id: projects
     content:
@@ -213,6 +203,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+      
   - block: collection
     id: featured
     content:
@@ -224,6 +215,7 @@ sections:
     design:
       columns: '2'
       view: card
+      
   - block: collection
     content:
       title: Recent Publications
@@ -234,50 +226,9 @@ sections:
     design:
       columns: '2'
       view: citation
+      
   - block: collection
     id: talks
     content:
       title: Events
       filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        Please reach out for any queries, concerns, projects, papers etc.
-      # Contact (add or remove contact options as necessary)
-      email: georgepanicker2000@gmail.com
-      contact_links:
-        - icon: mastodon
-          icon_pack: fab
-          name: DM Me
-          link: 'https://mastodon.social/@georgepanicker'
-        - icon: calendar-days
-          icon_pack: far
-          name: Schedule a meeting with me
-          link: 'https://calendly.com/georgepanicker/30min'    
-
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
----
