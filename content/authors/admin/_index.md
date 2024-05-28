@@ -19,7 +19,7 @@ interests:
   - XR, Immersive worlds
   - Computational and generative design
   - New Media theory
-  - Indian art, music and perspectives 
+  - Indian art, music and perspectives
   - Recently, ML, IOT and Deep Learning as well
 social:
   - icon: music
@@ -66,5 +66,6 @@ email: ""
 ---
 I am a Bengaluru based New Media artist, Creative technologist and Computational designer who likes to build cool audiovisual stuff in a variety of domains, but primarily in XR and immersive media, and this website serves as a documentation of my professional work as well as an outlet for personal opinions. Please see my [current research statement](https://drive.google.com/file/d/1Soz_x1HDM0kSgqYokWD8f_XxeeeMIdf6/view?usp=sharing) for a full disclosure of my varied interests in the realms of New Media art, Creative Technology and Computational design. 
 
-My hobbies include a variety of things, such as reading books, birdwatching, experimenting with computer music, visiting sites and writing on a variety of topics that I like.
+My hobbies include a variety of things, such as reading books, birdwatching, experimenting with computer music, visiting sites and writing on a variety of topics that I like. 
 
+In case you're interested in more, here's a [linktree.](https://linktr.ee/georgepanicker)
