@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 
+title: ""
 date: 2022-10-24
 type: landing
 
@@ -11,31 +11,26 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
- 
+
   - block: experience
     content:
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      # Experiences
       items:
         - title: Research collaborator
           company: HIVE lab (Department of Design, IIT Kanpur)
           company_url: 'https://home.iitk.ac.in/~gowdhampg/'
-          company_logo: HIVE 
+          company_logo: HIVE
           location: Remote
           date_start: '2024-01-12'
           date_end: '2024-04-12'
           description: |2-
-              Responsibilities include:
-
-              * Research on musical haptics for a NIME paper
-              * Physical computing prototype with Arduino and SuperCollider  
+            Responsibilities include:
+            * Research on musical haptics for a NIME paper
+            * Physical computing prototype with Arduino and SuperCollider  
 
         - title: Neuro-haptics Researcher
           company: Compossible Umwelten
@@ -45,10 +40,9 @@ sections:
           date_start: '2023-12-09'
           date_end: '2024-01-23'
           description: |2-
-              Responsibilities include:
-
-              * Attempted to conceptualize a speculative waveform description language for tactile compositions
-              * Researched open source biosignal acquisition formats
+            Responsibilities include:
+            * Attempted to conceptualize a speculative waveform description language for tactile compositions
+            * Researched open source biosignal acquisition formats
     
         - title: Creative Technologist Intern
           company: Mantis Shrimp Creative
@@ -58,12 +52,11 @@ sections:
           date_start: '2023-06-07'
           date_end: '2023-08-07'
           description: |2-
-              Responsibilities include:
-
-              * Conceptualization and prototyping of RFID based Installation with Raspberry Pi
-              * Data channeling and instrumentation of Kuka Robot
-              * Creating motion graphics clips for VJ sets
-              * Worked on an interactive installation for the release of a limited edition vodka by Johnnie Walker, in collaboration with Air-ink and Shilo Suleman
+            Responsibilities include:
+            * Conceptualization and prototyping of RFID based Installation with Raspberry Pi
+            * Data channeling and instrumentation of Kuka Robot
+            * Creating motion graphics clips for VJ sets
+            * Worked on an interactive installation for the release of a limited edition vodka by Johnnie Walker, in collaboration with Air-ink and Shilo Suleman
     
         - title: Assistant Researcher
           company: Indian Sonic Research Organization
@@ -73,31 +66,25 @@ sections:
           date_start: '2022-09-01'
           date_end: '2023-06-07'
           description: |2-
-              Responsibilities include:
-
-              * 3d printing and prototyping of OpenBCI Ganglion 4 channel headset for musical applications and therapy while assisting Neuroscientist Nikhil Prabhu
-              * Setting up of ecological soundstream with Hannah Kemp from [CriSap](https://crisap.org/), UAL and Grant smith from [SoundTent](https://soundtent.org/soundcamp_about.html) for the [Acoustic Commons Network](https://acousticommons.net/)
-              * Prototyping biofeedback based interactions with EMG sensors (MYOWARE)
-              * Coordinated the final design and development of the [IMMSANE website](https://www.immsane.com/) for Yati Durant and Andre Bellmonte from the Zurich University of the arts
+            Responsibilities include:
+            * 3d printing and prototyping of OpenBCI Ganglion 4 channel headset for musical applications and therapy while assisting Neuroscientist Nikhil Prabhu
+            * Setting up of ecological soundstream with Hannah Kemp from [CriSap](https://crisap.org/), UAL and Grant smith from [SoundTent](https://soundtent.org/soundcamp_about.html) for the [Acoustic Commons Network](https://acousticommons.net/)
+            * Prototyping biofeedback based interactions with EMG sensors (MYOWARE)
+            * Coordinated the final design and development of the [IMMSANE website](https://www.immsane.com/) for Yati Durant and Andre Bellmonte from the Zurich University of the arts
     design:
       columns: '2'
       
   - block: accomplishments
     content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Certificates'
-      subtitle:
+      subtitle: ''
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      # Accomplishments
       items:
         - certificate_url: 'https://www.udemy.com/certificate/UC-15575581-ba43-4f77-bc99-72c27f976910/'
-          date_end: ''
           date_start: '2023-11-19'
+          date_end: ''
           description: ''
           icon: udemy
           organization: Udemy
@@ -106,26 +93,27 @@ sections:
           url: 'https://www.udemy.com/course/ue5-procedural-vfx-motion-graphics/'
           
         - certificate_url: 'https://drive.google.com/file/d/1eQCS27J3YaqwDIYT6gkbxYt01D7tHVvK/view?usp=sharing'
-          date_end: ''
           date_start: '2022-11-01'
+          date_end: ''
           description: ''
-          icon: 
+          icon: ''
           organization: EY
           organization_url: 'https://www.ey.com/en_in'
           title: National semifinalist, EY techathon's "Enter the metaverse" challenge
           url: 'https://www.ey.com/en_in/techathon-3/challenge-1-build-a-digital-twin'
           
         - certificate_url: 'https://www.complexityexplorer.org/courses/165-introduction-to-complexity-2023/certificates/3787194370'
-          date_end: ''
           date_start: '2023-04-01'
+          date_end: ''
           description: ''
-          icon: 
+          icon: ''
           organization: Santa Fe Institute
           organization_url: 'https://www.santafe.edu/'
           title: Introduction to Complexity
-          url: 'https://www.complexityexplorer.org/courses/165-introduction-to-complexity' 
+          url: 'https://www.complexityexplorer.org/courses/165-introduction-to-complexity'
     design:
       columns: '2'    
+      
   - block: collection
     id: posts
     content:
@@ -147,7 +135,7 @@ sections:
         publication_type: ""
       # Choose how many pages you would like to offset by
       offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
+      # Page order: descending (desc) or ascending (asc) date
       order: desc
     design:
       # Choose a layout view
@@ -161,13 +149,13 @@ sections:
       filters:
         folders:
           - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below)
       default_button_index: 2
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
+      # Filter toolbar (optional)
+      # Add or remove as many filters (`filter_button` instances) as you like
+      # To show all items, set `tag` to "*"
+      # To filter by a specific tag, set `tag` to an existing tag name
+      # To remove the toolbar, delete the entire `filter_button` block
       buttons:
         - name: All
           tag: '*'
@@ -188,7 +176,7 @@ sections:
         - name: Spatial
           tag: spatial
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
+      # Choose how many columns the section has. Valid values: '1' or '2'
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
@@ -222,4 +210,5 @@ sections:
     content:
       title: Events
       filters:
+        # Add relevant filters here, if needed
 ---
