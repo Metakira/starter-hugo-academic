@@ -130,8 +130,7 @@ sections:
   - block: gallery
     content:
       title: 'Feed'
-      text: |2-
-        <iframe src="https://instagram.com/p/your-post-id/embed" width="400" height="480" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+      text: <iframe src="https://instagram.com/p/your-post-id/embed" width="400" height="480" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
     design:
       columns: '2'
       view: 'compact'  
