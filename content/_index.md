@@ -128,6 +128,7 @@ sections:
       columns: '2'
       
   - block: gallery
+  - id: gallery
     content:
       title: 'Feed'
       text: <iframe src="https://instagram.com/p/your-post-id/embed" width="400" height="480" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
