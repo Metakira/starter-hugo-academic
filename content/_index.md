@@ -145,7 +145,7 @@ sections:
       subtitle: 'Articles I write'
       text: |-
         {{% callout note %}}
-        Check out my older articles [here](./post/).
+        Check out my older articles  [here](./post/).
         {{% /callout %}}
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
