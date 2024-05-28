@@ -142,7 +142,7 @@ sections:
   - block: gallery
     content:
       title: 'Feed'
-      {{<iframe title="Pixelfed Profile Embed" src="https://pixelfed.social/gearworks/embed" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pixelfed.social/embed.js"></script>}}
+      <iframe title="Pixelfed Profile Embed" src="https://pixelfed.social/gearworks/embed" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pixelfed.social/embed.js"></script>}}
     design:
       columns: '2'
       view: 'compact'  
@@ -153,7 +153,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 1
+      count: 3
       # Filter on criteria
       filters:
         folders:
@@ -226,10 +226,6 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
