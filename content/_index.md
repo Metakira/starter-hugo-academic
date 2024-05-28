@@ -127,14 +127,26 @@ sections:
           organization_url: 'https://www.ey.com/en_in'
           title: National semifinalist, EY techathon's "Enter the metaverse" challenge
           url: 'https://www.ey.com/en_in/techathon-3/challenge-1-build-a-digital-twin'
+        - certificate_url: 'https://www.complexityexplorer.org/courses/165-introduction-to-complexity-2023/certificates/3787194370'
+          date_end: ''
+          date_start: '2023-04-01'
+          description: ''
+          icon: 
+          organization: Santa Fe Institute
+          organization_url: 'https://www.santafe.edu/'
+          title: Introduction to Complexity
+          url: 'https://www.complexityexplorer.org/courses/165-introduction-to-complexity' 
     design:
       columns: '2'
   - block: collection
     id: posts
     content:
       title: Recent Posts
-      subtitle: ''
-      text: ''
+      subtitle: 'Articles I write'
+      text: 
+        {{% callout note %}}
+        Check out my older articles [here](./post/).
+        {{% /callout %}}
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
       # Filter on criteria
@@ -231,7 +243,8 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Talks
+      title: Events
+      subtitle: 'Things I've participated in the past'
       filters:
         folders:
           - event
