@@ -140,6 +140,7 @@ sections:
     design:
       columns: '2'
   - block: gallery
+  - id: gallery
     content:
       title: 'Feed'
       items:
