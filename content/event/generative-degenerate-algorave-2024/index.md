@@ -10,6 +10,7 @@ links:
     name: Luma Link
 event: "Generative Degenerate Bangalore edition, Algorave India "
 event_url: https://algorave.in/events/Generative-Degenerate-Bengaluru-Edition.html
+url_video: https://v.basspistol.org/w/eTiYLm1DJCdMtm7KxKZPz9
 publishDate: 2024-05-23T13:19:17.027Z
 draft: false
 featured: false
