@@ -127,7 +127,7 @@ sections:
     design:
       columns: '2'
       
-  - block: gallery
+  - block: collection
     id: gallery
     content:
       title: 'Feed'
