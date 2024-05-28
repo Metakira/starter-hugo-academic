@@ -143,7 +143,7 @@ sections:
     content:
       title: Recent Posts
       subtitle: 'Articles I write'
-      text: 
+      text: |-
         {{% callout note %}}
         Check out my older articles [here](./post/).
         {{% /callout %}}
