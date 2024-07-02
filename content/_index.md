@@ -135,7 +135,16 @@ sections:
           organization: Santa Fe Institute
           organization_url: 'https://www.santafe.edu/'
           title: Introduction to Complexity
-          url: 'https://www.complexityexplorer.org/courses/165-introduction-to-complexity' 
+          url: 'https://www.complexityexplorer.org/courses/165-introduction-to-complexity'
+        - certificate_url: 'https://drive.google.com/file/d/1HcDIDEI8kYwbAp3BUn3yIC0eef27al0T/view?usp=sharing'
+          date_end: '2024-05-29'
+          date_start: '2024-05-24'
+          description: 'A 6-day design hack lab exploring the possibilities of creative practices and research in monsoonal terrain. '
+          icon: 
+          organization: MAHE Manipal
+          organization_url: 'https://www.manipal.edu/mu.html'
+          title: Monsoon School Design Hack Lab
+          url: 'https://www.instagram.com/p/C7EUxMiyTZ5/'
     design:
       columns: '2'
   - block: collection
