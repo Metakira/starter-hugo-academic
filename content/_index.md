@@ -145,6 +145,12 @@ sections:
           organization_url: 'https://www.manipal.edu/mu.html'
           title: Monsoon School Design Hack Lab
           url: 'https://www.instagram.com/p/C7EUxMiyTZ5/'
+          image:
+            placement: 1
+            caption: 'picture of workshop'
+            focal_point: 'Center'
+            preview_only: false
+            filename: monsoon.PNG
     design:
       columns: '2'
   - block: collection
