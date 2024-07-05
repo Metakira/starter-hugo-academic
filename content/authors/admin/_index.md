@@ -28,18 +28,6 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://orcid.org/0009-0002-1038-0329
-  - icon: book
-    icon_pack: fas
-    link: https://bookwyrm.social/user/georgepanicker
-  - icon: film
-    icon_pack: fas
-    link: https://simkl.com/6758031/movies/completed/
-  - icon: mastodon
-    icon_pack: fab
-    link: https://mastodon.social/@georgepanicker
-    label: Follow me on Mastodon!
-    display:
-      header: true
   - icon: l
     icon_pack: fab
     link: https://modesofdesign.wixsite.com/explained
