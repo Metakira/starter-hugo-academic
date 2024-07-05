@@ -280,10 +280,6 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: georgepanicker2000@gmail.com
       contact_links:
-        - icon: mastodon
-          icon_pack: fab
-          name: DM Me
-          link: 'https://mastodon.social/@georgepanicker'
         - icon: calendar-days
           icon_pack: far
           name: Schedule a meeting with me
