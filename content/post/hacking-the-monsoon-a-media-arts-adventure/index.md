@@ -7,5 +7,6 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+  caption: The poster for the "Monsoon School", edition 1
 ---
 Draft
