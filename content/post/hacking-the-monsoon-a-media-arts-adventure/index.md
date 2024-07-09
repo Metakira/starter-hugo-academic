@@ -1,5 +1,5 @@
 ---
-title: "Hacking the monsoon: A media arts adventure"
+title: Hacking the monsoon
 date: 2024-07-09T08:02:09.123Z
 draft: false
 featured: false
