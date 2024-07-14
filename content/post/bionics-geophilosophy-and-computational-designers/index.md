@@ -21,7 +21,7 @@ As we look on to the monumentous task of setting the bedrock for what it means t
 
 ## Geophilosophy 
 
-The Earth, through the infinite creativity of environmental processes shaping genetic material, is the ultimate master at designing anything we can imagine today, and many a designer have recognized this fact. The ability of genetic material to reach similar and different solutions to environmental challenges via convergent and divergent evolution. 
+The Earth, through the infinite creativity of environmental processes shaping genetic material, is the ultimate master at designing anything we can imagine today, and many a designer have recognized this fact. The ability of genetic material to reach similar and different solutions to environmental challenges via convergent and divergent evolution is a testament to the living planet's genius as creating a varied array of solutions to wide range of extremely different problems.
 
 ![](https://pixfeeds.com/images/28/566929/1200-566929-96837751.jpg)
 
