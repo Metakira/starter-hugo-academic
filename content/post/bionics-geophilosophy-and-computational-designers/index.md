@@ -27,7 +27,7 @@ The Earth, through the infinite creativity of environmental processes shaping ge
 
 ![](https://i0.wp.com/cms.jackwestin.com/wp-content/uploads/2020/03/Homologs-and-analogs.jpg?resize=684%2C444&ssl=1)
 
-This incredible potential in the Earth's own natural processes to serve as a foundation rock is where I find Deleuze and Guattari's idea of "Geophilosophy" to be of particular importance. The idea of geophilosophy is very simple: Use the Earth's many phenomena as philosophical material for abstract human applications, considering how most of our mechanisms in human society derive from the humanities, which are themselves heavily dependent on the realm of philosophy. Deleuze and Guattari set out to do this very directly in their opus "*A thousand Plateaus*" and their later work "*What is Philosophy?"* where they borrow a number of natural processes such as stratification, ecological niche theory and tetravalence as material for political application. 
+This incredible potential in the Earth's own natural processes to serve as a foundation rock is where I find Deleuze and Guattari's idea of "Geophilosophy" to be of particular importance. The idea of geophilosophy is very simple: Use the Earth's many phenomena as philosophical material for abstract human applications, considering how most of our mechanisms in human society derive from the humanities, which are themselves heavily dependent on the realm of philosophy. Deleuze and Guattari set out to do this very directly in their opus "*A thousand Plateaus*" and their later work "*What is Philosophy?"* where they borrow a number of natural processes such as stratification, ecological niche theory and tetra-valence as material for political application. 
 
 This may sound like a very absurd and strange idea to people unfamiliar with experimental philosophy, yet interestingly has ***already been applied to the design discipline.*** Take for example Don Norman's use of Affordances in *The Design of Everyday Things.* Affordance theory in the book is laid out and mapped for use in a wide variety of human centered design applications, yet the roots of the theory itself can be traced back to the ecologist and Animal scientist James Gibson's original coinage of the term in his 1979 book *The ecological approach to animal perception.* The original context of the "Affordance" lies in the study of how an animal in its niche adapts to its environment, characterizing its use of the many things an environment can provide it.
 
@@ -63,12 +63,14 @@ The first use of the terms I think may be of interest to us as computational des
 > ***" If we attempt to define the word 'bionics' in its narrowest sense, that is on a cybernetic or neurophysiological level, this may be true. But all around us are manifestations in nature or rather primitive structures that have never been properly investigated, exploited, or used by designers, biological schemes that bear investigation and are accessible to anyone free for a walk on a Sunday afternoon."***
 >
 >
+>
+>
 
-Yet I believe that his chapter on Bionics in *Design for the real world* provides a clue for us computational designers to work with, the large possibilities for geophilosophical approaches to take place within the computer. Papanek was talking about the use of bionics in industrial and environemtal design, yet I doubt even he knew how far reaching these implications would come as Industrial design and Architecture become the mother disciplines of computational design theory, with further implications in [Nanobiotechnology](https://en.wikipedia.org/wiki/Nanobiotechnology).
+Yet I believe that his chapter on Bionics in *Design for the real world* provides a clue for us computational designers to work with, the large possibilities for geophilosophical approaches to take place within the computer. Papanek was talking about the use of bionics in industrial and environmental design, yet I doubt even he knew how far reaching these implications would come as Industrial design and Architecture become the mother disciplines of computational design theory, with further implications in [Nanobiotechnology](https://en.wikipedia.org/wiki/Nanobiotechnology).
 
 Consider two parallel tracks that concern design. We find that both Deep Learning and Nature creatively arrive at solutions via evolutionary computation that are highly non intuitive to humans yet far more effective than any human design solution, ***especially at energy efficiency***.
 
-Consider the biomimetic approach of mimicking the fins of a humpback whale:
+Consider the bio-mimetic approach of mimicking the fins of a humpback whale:
 
 ![](https://i0.wp.com/pepunlimited.com/wp-content/uploads/2022/06/HumpbackWhales.jpg)
 
@@ -101,9 +103,9 @@ We now see the intricate power that underlies the computational design process: 
 ### India and the Global south as a treasure trove 
 
 If we cut out and examine the scope and measure of Indian design, it is truly a disgrace. Scores of industry leaders and professionals without a spine bend their backs in servitude to the white man (and recently, the yellow man), their deep trust in the promise of Western individualism. Yet as we hear harkening calls for "decolonization" and \
-"sustainability", one wonders whether these industry stalwarts would drop the mask as admit a sombre truth that , if we compare analagous homegrown approaches in countries like Japan, ***till date, there has been no such thing as "Indian design"?***
+"sustainability", one wonders whether these industry stalwarts would drop the mask as admit a sombre truth that , if we compare analogous homegrown approaches in countries like Japan, ***till date, there has been no such thing as "Indian design"?***
 
-No, I mean this fully when I say it, even if it earns me a target on my forehead. It's time to call a spade a spade and firmly reject any notion that this bourgeosie bootlicking activity we call "Indian design" is not even close to it in idea or method, but instead a outdated tradition that honours  a bygone age that bears no relevance to the massive problems that concern us today. 
+No, I mean this fully when I say it, even if it earns me a target on my forehead. It's time to call a spade a spade and firmly reject any notion that this bourgeosie bootlicking activity we call "Indian design" is not even close to it in idea or method, but instead a outdated tradition that honors  a bygone age that bears no relevance to the massive problems that concern us today. 
 
 But there is hope in the very fact that India, and many countries in the global South, have always been in some shape or form "geophilosophical", in the notion that Indian thought has traditionally not been called philosophy ("love of wisdom") but *Darshan Shastra ("the art of direct inference from observation").*
 
