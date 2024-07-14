@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-###### Edit: Bit of an apology as my mental and physical health have been somewhat poor since graduation a month ago, but I'm doing much better now.
+###### Edit: Bit of an apology as my mental and physical health have been somewhat poor since graduating a month ago, but I'm doing much better now.
 
 As computational designers, we are the fore-bearers of massive paradigmatic shift, a change in tide which has not been recognized since the very roots of the profession. As design breaks away from its  syllabi that were articulated to stay true to its Industrial, Neoliberal and Capitalist Western roots, the task for the computational designer now venturing into new ground would be the task of re-framing the idea of what a designer does and how a designer may do it. 
 
