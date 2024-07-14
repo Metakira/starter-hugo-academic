@@ -11,7 +11,7 @@ image:
 ---
 ###### Edit: Bit of an apology as my mental and physical health have been somewhat poor since graduating a month ago, but I'm doing much better now.
 
-As computational designers, we are the fore-bearers of massive paradigmatic shift, a change in tide which has not been recognized since the very roots of the profession. As design breaks away from its  syllabi that were articulated to stay true to its Industrial, Neoliberal and Capitalist Western roots, the task for the computational designer now venturing into new ground would be the task of re-framing the idea of what a designer does and how a designer may do it. 
+As computational designers, we are the fore-bearers of massive paradigmatic shift, a change in tide which has not been recognized since the very roots of the profession. As design breaks away from its  syllabi , articulated to stay true to its Industrial, Neoliberal and Capitalist Western roots, the task for the computational designer now venturing into new ground would be that of re-framing the idea of what a designer does and how a designer may do it. 
 
 For centuries, processes in all fields , design included, have been aspirationally tailgating the field of Science, and with it the static mechanistic worldview of the Newtonian era, where all things are fixed into place by immutable laws of nature, as if they were gears in synchrony. Yet now, as we enter the "century of biology" and AI is poised to leapfrog our progress towards a radical new future in the realms of synthetic nano-biotech and immersive media spaces, we must now examine our changing role as a designer, one who rejects the burden called the limitations of Human knowledge. 
 
@@ -37,9 +37,9 @@ So we already have evidence of biological systems and processes being recontextu
 
 ## Bionics
 
-"Bionics" is term sourced from a multitude of origins, but I will deal with two major ones and then trace them out as to what they mean for computational designers.
+"Bionics" is a term sourced from a multitude of origins, but I will deal with two major ones and then trace them out as to what they mean for computational designers.
 
-The first use of the terms I think may be of interest to us as computational designers may be in a formerly infamous but now seminal text titled "Design for the real world" by Victor Papanek, where he attacks the mother disciplines of industrial and graphic design for their contributions to an unsustainable world.
+The first use of the term I think may be of interest to us as computational designers may be located in a formerly infamous but now seminal text titled "Design for the real world" by Victor Papanek, where he attacks the mother disciplines of industrial and graphic design for their contributions to an unsustainable world.
 
 ![](https://www.bioniccity.co.uk/uploads/3/7/7/1/37716157/bionics-papanek_orig.png)
 
