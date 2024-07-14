@@ -102,7 +102,7 @@ We now see the intricate idea that underlies the computational design process: o
 
 ### India and the Global south as a treasure trove 
 
-If we cut out and examine the scope and measure of Indian design, it is truly a disgrace. Scores of industry leaders and professionals without a spine bend their backs in servitude to the white man (and recently, the yellow man), their deep trust in the promise of Western individualism. Yet as we hear harkening calls for "decolonization" and \
+If we cut out and examine the scope and measure of Indian design, it is truly a disgrace. Scores of industry leaders and professionals without a spine bend their backs in servitude to the white man (and recently, the yellow man), their deep trust in the unquestioned supremacy of Western imperial project. Yet as we hear harkening calls for "decolonization" and \
 "sustainability", one wonders whether these industry stalwarts would drop the mask as admit a sombre truth that , if we compare analogous homegrown approaches in countries like Japan, ***till date, there has been no such thing as "Indian design"?***
 
 No, I mean this fully when I say it, even if it earns me a target on my forehead. It's time to call a spade a spade and firmly reject any notion that this bourgeosie bootlicking activity we call "Indian design" is not even close to it in idea or method, but instead a outdated tradition that honors  a bygone age that bears no relevance to the massive problems that concern us today. 
