@@ -70,7 +70,7 @@ Yet I believe that his chapter on Bionics in *Design for the real world* provide
 
 Consider two parallel tracks that concern design. We find that both Deep Learning and Nature creatively arrive at solutions via evolutionary computation that are highly non intuitive to humans yet far more effective than any human design solution, ***especially at energy efficiency***.
 
-Consider the bio-mimetic approach of mimicking the fins of a humpback whale:
+An initial example, the bio-mimetic approach of mimicking the fins of a humpback whale:
 
 ![](https://i0.wp.com/pepunlimited.com/wp-content/uploads/2022/06/HumpbackWhales.jpg)
 
@@ -98,7 +98,7 @@ Similarly:
 >
 >
 
-We now see the intricate power that underlies the computational design process: one that channels the power of evolution into computational design via Machine Learning techniques. We already see these nature inspired techniques take shape in the most popular generative design software *Grasshopper 3d*, where one can use plugins such as Wallace, Jellyfish and more to simulate evolution within design parameters and reach new, never before seen design solutions. This new approach rapidly transforms the scale and power of the design discipline, and consequently the powers a designer themselves can possess
+We now see the intricate idea that underlies the computational design process: one that channels the power of evolution into computational design via Machine Learning techniques. We already see these nature inspired techniques take shape in the most popular generative design software *Grasshopper 3d*, where one can use plugins such as Wallace, Jellyfish and more to simulate evolution within design parameters and reach new, never before seen design solutions. This new approach rapidly transforms the scale and power of the design discipline, and consequently the powers a designer themselves can access.
 
 ### India and the Global south as a treasure trove 
 
@@ -134,4 +134,4 @@ This is where the global south, rich in written and oral lineages of geophilosop
 
 ## Conclusion
 
-Decolonizing design as a computational designer is an arduous task, but as the world suffers the blowback of ill-fitting western principles to a new age order, it's up to the many determined practioners in the global south to critically advocate not only for the competitive advantage of their indigenous beliefs and practices, but also that preserving our indigenous cultures and our planet is in our own self interest for a much, much brighter future. In "hacking the monsoon", an article outlining my field trip to rural Udupi and the Rainforests of Agumbe, I outline an experimental attempt as to how we as practitioners in India may begin to tackle this through the modality of sound based approaches such as those of bio-acoustics and eco-acoustics.
+Decolonizing design as a computational designer is an arduous task, but as the world suffers the blowback of ill-fitting western principles to a new age order, it's up to the many determined practioners in the global south to critically advocate not only for the competitive advantage of their indigenous beliefs and practices, but also that preserving our indigenous cultures and our planet is in our own self interest for a much, much brighter future. In "hacking the monsoon", an article outlining my field trip to rural Udupi and the Rainforests of Agumbe, I outline an experimental attempt as to how we as practitioners in India may begin to tackle this through the modality of sound based approaches such as those of bio-acoustics and eco-acoustics. While we may approach newer problems of debrahmanization as we end the project of Indian design decolonization, like all radical optimists I believe that we can only cross that bridge when we get there :)
