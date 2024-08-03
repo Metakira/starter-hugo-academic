@@ -31,7 +31,7 @@ sections:
           company_logo: HIVE 
           location: Remote
           date_start: '2024-01-12'
-          date_end: ''
+          date_end: '2024-02-18'
           description: |2-
               Responsibilities include:
 
