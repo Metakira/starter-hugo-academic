@@ -30,7 +30,7 @@ sections:
           company_logo: nodeshed_logo
           location: Bangalore
           date_start: '2024-08-9'
-          date_end: 
+          date_end: ''
           description: |2-
               Responsibilities include:
 
