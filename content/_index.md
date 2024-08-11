@@ -24,6 +24,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Creative Technologist
+          company: NODESHED (part of Craftech 360)
+          company_url: 'https://www.craftech360.com/'
+          company_logo: nodeshed_logo
+          location: Bangalore
+          date_start: '2024-08-9'
+          date_end: 
+          description: |2-
+              Responsibilities include:
+
+              *Inhouse creative technologist 
 
         - title: Research collaborator
           company: HIVE lab (Department of Design, IIT Kanpur)
