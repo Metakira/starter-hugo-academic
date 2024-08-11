@@ -30,9 +30,10 @@ sections:
           company_logo: NODESHED
           location: Bangalore
           date_start: '2024-08-09'
-          date_end: ' '
+          date_end: '2024-08-09'
           description: |2-
               Responsibilities include:
+
               *inhouse creative technologist
 
         - title: Research collaborator
