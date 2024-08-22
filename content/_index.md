@@ -38,9 +38,9 @@ sections:
               * Working on sensor integration (RPlidar A1M8, Kinect Azure, Leapmotion, Webcam)
               * Tweaking and rebuilding custom Touchdesigner plugins in C++
               * Participating in client pitch meeting and concept brainstorming.
-              * Projection mapping, 2d pixel mapping, 3d volumetric mapping.
+              * Projection mapping, 2d pixel mapping, 3d volumetric mapping (Craftech Nebula Pro)
               * Building automated workflow scripts in Python          
-              * Procotol bridges in DMX, Art0net, UDP, OSC, NDI etc.
+              * Procotol bridges in DMX, Art-net, UDP, OSC, NDI etc.
 
         - title: Research collaborator
           company: HIVE lab (Department of Design, IIT Kanpur)
@@ -78,7 +78,7 @@ sections:
               Responsibilities include:
 
               * Conceptualization and prototyping of RFID based Installation with Raspberry Pi
-              * Data channeling and instrumentation of Kuka Robot
+              * Data channeling and instrumentation of Kuka Robot via FreeD protocol
               * Creating motion graphics clips for VJ sets
               * Worked on an interactive installation for the release of a limited edition vodka by Johnnie Walker, in collaboration with Air-ink and Shilo Suleman
     
