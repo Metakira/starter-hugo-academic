@@ -37,7 +37,8 @@ sections:
 
               * Working on sensor integration(RPlidar A100, Kinect Azure, leapmotion)
               * Tweaking and rebuilding custom Touchdesigner plugins in C++
-              * Participating in client pitch meeting and concept brainstorming.    
+              * Participating in client pitch meeting and concept brainstorming.
+              * Projection mapping, 2d pixel mapping, 3d volumetric mapping.      
 
         - title: Research collaborator
           company: HIVE lab (Department of Design, IIT Kanpur)
