@@ -36,7 +36,7 @@ sections:
               Responsibilities include:
 
               * Working on sensor integration (RPlidar A1M8, Kinect Azure, Leapmotion, Webcam)
-              * Tweaking and rebuilding custom Touchdesigner plugins in C++
+              * Tweaking, debugging and rebuilding custom Touchdesigner plugins in C++
               * Participating in client pitch meeting and concept brainstorming.
               * Projection mapping, 2d pixel mapping, 3d volumetric mapping (Craftech Nebula Pro)
               * Building automated workflow scripts in Python          
