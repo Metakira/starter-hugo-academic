@@ -35,7 +35,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Inhouse creative technologist
+              * Working on sensor integration(RPlidar A100, Kinect Azure, leapmotion)
+              * Tweaking and rebuilding custom Touchdesigner plugins in C++
+              * Participating in client pitch meeting and concept brainstorming.    
 
         - title: Research collaborator
           company: HIVE lab (Department of Design, IIT Kanpur)
