@@ -36,11 +36,11 @@ sections:
               Responsibilities include:
 
               * Working on sensor integration (RPlidar A1-S1, Kinect Azure, Webcam)
-              * Machine learning libraries and more in python such as OpenCV, numpy, matplotlib etc
+              * Using external libraries in python such as OpenCV, numpy, matplotlib etc
               * Tweaking, debugging and rebuilding custom Touchdesigner plugins in C++
               * Participating in client pitch meetings and creative brainstorming
               * Projection mapping, 2d pixel mapping, 3d volumetric mapping (Craftech Nebula Pro)
-              * Building automated workflow scripts in Python          
+              * Building automated workflow modules and custom components
               * Procotol bridges in TUIO, Spout, MIDI, OSC, NDI etc.
               * Batch file/command line processing
               * Working with microcontrollers and embedded system modules such as esp32 TTGO
