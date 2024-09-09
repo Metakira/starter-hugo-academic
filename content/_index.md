@@ -42,7 +42,7 @@ sections:
               * Projection mapping, 2d pixel mapping, 3d volumetric mapping (Craftech Nebula Pro)
               * Building automated workflow modules and custom components
               * Procotol bridges in TUIO, Spout, MIDI, OSC, NDI etc.
-              * Batch file/command line processing
+              * Batch file/command line execution
               * Working with microcontrollers and embedded system modules such as esp32 TTGO
 
         - title: Research collaborator
