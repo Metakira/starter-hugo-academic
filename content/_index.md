@@ -44,7 +44,8 @@ sections:
               * Procotol bridges in TUIO, Spout, MIDI, OSC, NDI etc.
               * Batch file/command line execution
               * Working with microcontrollers and embedded system modules such as esp32 TTGO
-
+              * Debugging installations both onsite and remote via Remote Desktop View
+              * Patch cleanup, optimization and resilience engineering.
         - title: Research collaborator
           company: HIVE lab (Department of Design, IIT Kanpur)
           company_url: 'https://home.iitk.ac.in/~gowdhampg/'
