@@ -35,7 +35,7 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Working on sensor integration (RPlidar A1-S1, Kinect Azure, Webcam)
+              * Working on sensor integration (RPlidar A1-S1,Leapmotion, Kinect Azure, Webcam)
               * Using external libraries in python such as OpenCV, numpy, matplotlib etc
               * Tweaking, debugging and rebuilding custom Touchdesigner plugins in C++
               * Participating in client pitch meetings and creative brainstorming
@@ -46,6 +46,7 @@ sections:
               * Working with microcontrollers and embedded system modules such as esp32 TTGO
               * Debugging installations both onsite and remote via Remote Desktop View
               * Patch cleanup, optimization and resilience engineering.
+              * API calls to LLM models like Google's gemini pro
         - title: Research collaborator
           company: HIVE lab (Department of Design, IIT Kanpur)
           company_url: 'https://home.iitk.ac.in/~gowdhampg/'
