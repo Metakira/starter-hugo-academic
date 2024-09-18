@@ -47,6 +47,8 @@ sections:
               * Debugging installations both onsite and remote via Remote Desktop View
               * Patch cleanup, optimization and resilience engineering.
               * API calls to LLM models like Google's gemini pro
+              * Porting multi-pass GLSL shaders from Shadertoy into Touchdesigner
+
         - title: Research collaborator
           company: HIVE lab (Department of Design, IIT Kanpur)
           company_url: 'https://home.iitk.ac.in/~gowdhampg/'
