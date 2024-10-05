@@ -2,9 +2,9 @@
 interests:
   - Haptics and Neurotechnology
   - Sound art, computer music, Spatial audio
-  - XR, Immersive worlds
+  - Immersive media, Synthetic media, Object Oriented media, Moist media
   - Computational and generative design
-  - New Media theory
+  - New Media Art and Complexity Science
   - Indian art, music and perspectives
   - Recently, ML, IOT and Deep Learning as well
 social:
