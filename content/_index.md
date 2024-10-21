@@ -41,7 +41,7 @@ sections:
               * Participating in client pitch meetings and creative brainstorming
               * Projection mapping, 2d pixel mapping, 3d volumetric mapping (Craftech Nebula Pro)
               * Building automated workflow modules and custom components
-              * Procotol bridges in TUIO, Spout, MIDI, OSC, NDI etc.
+              * Procotol bridges in TUIO, Spout, MIDI, OSC, NDI, DMX, Art-Net etc.
               * Batch file/command line execution
               * Working with microcontrollers and embedded system modules such as esp32 TTGO
               * Debugging installations both onsite and remote via Remote Desktop View
