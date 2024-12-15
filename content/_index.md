@@ -26,14 +26,14 @@ sections:
       items:
         - title: Research collaborator
           company: Critical Media Lab
-          company_url: 'https://criticalmedialab.ch'
+          company_url: 'https://criticalmedialab.ch/projects/agri-cultures/'
           company_logo: CML
           location: Bangalore
           date_start: '2024-12-10'
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Creative Collaborator for the Agri-cultures and elemental Exchanges project
+              * Research Collaborator for the Agri-cultures and Elemental Exchanges project
         - title: Creative technologist
           company: NODESHED
           company_url: 'https://www.craftech360.com'
