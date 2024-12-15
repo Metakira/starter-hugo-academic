@@ -24,7 +24,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-
+        - title: Research collaborator
+          company: Critical Media Lab
+          company_url: 'https://criticalmedialab.ch'
+          company_logo: CML
+          location: Bangalore
+          date_start: '2024-12-10'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              * Creative Collaborator for the Agri-cultures and elemental Exchanges project
         - title: Creative technologist
           company: NODESHED
           company_url: 'https://www.craftech360.com'
