@@ -45,14 +45,14 @@ sections:
           description: |2-
               Responsibilities include:
               * setting up an IR tracking system that feeds into a pixel mappping installation hung from a Ficus tree for Grama Collective
-              * Testing the volumetric display technology from AOshowLED via Winfred Nak's Galaxy 3d Touchdesigner patch.   
+              * Testing the volumetric display tech from AOshowLED via Winfred Nak's Galaxy 3d Touchdesigner patch.   
         - title: Creative technologist
           company: NODESHED
           company_url: 'https://www.craftech360.com'
           company_logo: nodeshed 
           location: Bangalore
           date_start: '2024-08-09'
-          date_end: ''
+          date_end: '2024-11-09'
           description: |2-
               Responsibilities include:
 
