@@ -37,14 +37,14 @@ sections:
               * Research Collaborator for the Agri-cultures and Elemental Exchanges project
         - title: Creative Technologist (Contract)
           company: Echoes of Earth
-          company_url: 'https://criticalmedialab.ch/projects/agri-cultures/'
-          company_logo: CML
+          company_url: 'https://echoesofearth.com/'
+          company_logo: echoes
           location: Bangalore
           date_start: '2024-12-10'
           date_end: '2024-12-10'
           description: |2-
               Responsibilities include:
-              * setting up an IR tracking system that feeds into a pixel mappping installation hung from a Ficus tree
+              * setting up an IR tracking system that feeds into a pixel mappping installation hung from a Ficus tree for Grama Collective
               * Testing the volumetric display technology from AOshowLED via Winfred Nak's Galaxy 3d Touchdesigner patch.   
         - title: Creative technologist
           company: NODESHED
