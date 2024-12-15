@@ -24,6 +24,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+
         - title: Research collaborator
           company: Critical Media Lab
           company_url: 'https://criticalmedialab.ch/projects/agri-cultures/'
@@ -34,6 +35,17 @@ sections:
           description: |2-
               Responsibilities include:
               * Research Collaborator for the Agri-cultures and Elemental Exchanges project
+        - title: Creative Technologist (Contract)
+          company: Echoes of Earth
+          company_url: 'https://criticalmedialab.ch/projects/agri-cultures/'
+          company_logo: CML
+          location: Bangalore
+          date_start: '2024-12-10'
+          date_end: '2024-12-10'
+          description: |2-
+              Responsibilities include:
+              * setting up an IR tracking system that feeds into a pixel mappping installation hung from a Ficus tree
+              * Testing the volumetric display technology from AOshowLED via Winfred Nak's Galaxy 3d Touchdesigner patch.   
         - title: Creative technologist
           company: NODESHED
           company_url: 'https://www.craftech360.com'
