@@ -34,7 +34,7 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Research Collaborator for the Agri-cultures and Elemental Exchanges project
+              * Research Collaborator for the Agri-cultures and Elemental Exchanges project's Bengaluru Field Workshop
         - title: Creative Technologist (Contract)
           company: Echoes of Earth
           company_url: 'https://echoesofearth.com/'
