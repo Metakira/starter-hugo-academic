@@ -24,10 +24,10 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Artist in residence
+        - title: Artist/Researcher in residence
           company: ZKM center for Art, Media and Technology
           company_url: 'https://zkm.de/en/research-production/hertzlab'
-          company_logo: CML
+          company_logo: zkm
           location: Bangalore
           date_start: '2025-05-12'
           date_end: '2025-08-04'
