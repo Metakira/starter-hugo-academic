@@ -46,6 +46,7 @@ sections:
           description: |2-
               Responsibilities include:
               * Research Collaborator for the Agri-cultures and Elemental Exchanges project's Bengaluru Field Workshop
+              * Worked under the leadership of Dr. Jamie Allen and Dr. Vijay sekhon    
         - title: Creative Technologist (Contract)
           company: Echoes of Earth
           company_url: 'https://echoesofearth.com/'
