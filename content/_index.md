@@ -41,7 +41,7 @@ sections:
           company_logo: CML
           location: Bangalore
           date_start: '2024-12-10'
-          date_end: ''
+          date_end: '2025-10-25'
           description: |2-
               Responsibilities include:
               * Research Collaborator for the Agri-cultures and Elemental Exchanges project's Bengaluru Field Workshop
