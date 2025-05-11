@@ -44,6 +44,6 @@ title: George Panicker
 first_name: Alice
 email: ""
 ---
-I am a Bengaluru based practitioner who works across New Media art, Creative technology, Computational design and Earth Systems Science. This website documents my professional practice, which is grounded in the concept of criticality as an event within the deep time of new media, human history and Earth itself. This criticality is expressed through four key modes: inquiry, indispensability, threshold, and immediate need, as humanity walks a tightrope between succesful transition and complete collapse.
+I am a Bengaluru based practitioner who works across New Media art, Creative technology, Computational design and Earth Systems Science. This website documents my professional practice, which is grounded in the concept of criticality as an event within the deep time of new media, human history and Earth itself. This criticality is expressed through four key modes: inquiry, indispensability, threshold, and immediate need, as humanity walks a tightrope between successful transition and complete collapse.
 
 My hobbies include a variety of things, such as reading books, birdwatching, experimenting with computer music, visiting sites and writing on a variety of topics that I like. I also try to keep a logbook of my monthly explorations on my [misskey instance](https://misskey.art/@georgepanicker/gallery) when I am not occupied with stuff.
