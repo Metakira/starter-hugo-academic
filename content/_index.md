@@ -24,7 +24,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-
+        - title: Artist in residence
+          company: ZKM center for Art, Media and Technology
+          company_url: 'https://zkm.de/en/research-production/hertzlab'
+          company_logo: CML
+          location: Bangalore
+          date_start: '2025-05-12'
+          date_end: '2025-08-04'
+          description: |2-
+              Responsibilities include:
+              * Researching the use of spatial sound and mental health in the context of schooling, colonialism and subaltern feminism.
+              * Created a piece using the 42 channel spatial music system with Max/MSP 8 and the Zirkonium software    
         - title: Research collaborator
           company: Critical Media Lab
           company_url: 'https://criticalmedialab.ch/projects/agri-cultures/'
