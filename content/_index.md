@@ -33,8 +33,9 @@ sections:
           date_end: '2025-08-04'
           description: |2-
               Responsibilities include:
-              * Researching the use of spatial sound and mental health in the context of schooling, colonialism and subaltern feminism under the guidance of Tina Lorenz at the ZKM Hertz Lab
-              * Created a piece using the 42 channel spatial music system with Max/MSP 8 and the Zirkonium software   
+              * Researching the use of spatial sound, Computational music and mental health in the context of schooling, colonialism and subaltern feminism under the guidance of Tina Lorenz at the ZKM Hertz Lab
+              * Created a piece using the 42 channel spatial music system with Max/MSP 8 and the Zirkonium software
+              * I primarily drew inspiration from the work of Foucault, Friere, Fanon, Deleuze + Guattari as well as a host of female authors on Indian Art and Aesthetics
         - title: Research collaborator
           company: Critical Media Lab
           company_url: 'https://criticalmedialab.ch/projects/agri-cultures/'
