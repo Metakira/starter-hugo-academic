@@ -4,7 +4,7 @@ interests:
   - New Media Art, Earth systems Science, Creative technology, Computational design
   - Indian and Global Periphery perspectives
   - Visual, sonic, spatial and neural interfaces
-  - Philosophy, economics and criticality in various disciplines.
+  - Criticality in media practices as a human event in the fourfold sense of inquiry, indispenseability, threshold, as well as immediate need 
 social:
   - icon: music
     icon_pack: fas
