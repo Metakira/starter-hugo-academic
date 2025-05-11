@@ -28,7 +28,7 @@ sections:
           company: ZKM center for Art, Media and Technology
           company_url: 'https://zkm.de/en/research-production/hertzlab'
           company_logo: zkm
-          location: Bangalore
+          location: Karlsruhe
           date_start: '2025-05-12'
           date_end: '2025-08-04'
           description: |2-
